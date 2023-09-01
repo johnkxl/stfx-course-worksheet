@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>StFX</h1>
+        <h2>Course Selection</h2>
+        <div id="course-search">
+            <div id="subjects">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td class="delabel" scope="row"><label for="subj_id"><span class="fieldlabeltext">Subject: </span></label></td>
+                            <td class="dedefault">
+                                <div id="course-list">
+                                    <button id="ADED-btn" class="tablink" onclick="openPage('ADED', this, 'red')">Adult Education</button>
+                                    <button id="ANTH-btn" class="tablink" onclick="openPage('ANTH', this, 'cyan')">Anthropology</button>
+                                    <button id="AQUA-btn" class="tablink" onclick="openPage('AQUA', this, 'red')">Aquatic Resources</button>
+                                    <button id="ART-btn" class="tablink" onclick="openPage('ART', this, 'red')">Art</button>
+                                    <button id="BIO-btn" class="tablink" onclick="openPage('BIO', this, 'red')">Biology</button>
+                                    <button id="BSAD-btn" class="tablink" onclick="openPage('BSAD', this, 'red')">Business Administration</button>
+                                    <button id="CATH-btn" class="tablink" onclick="openPage('CATH', this, 'red')">Catholic Studies</button>
+                                    <button id="CELT-btn" class="tablink" onclick="openPage('CELT', this, 'red')">Celtic Studies</button>
+                                    <button id="CHEM-btn" class="tablink" onclick="openPage('CHEM', this, 'red')">Chemistry</button>
+                                    <button id="CLAS-btn" class="tablink" onclick="openPage('CLAS', this, 'red')">Classics</button>
+                                    <button id="CLEN-btn" class="tablink" onclick="openPage('CLEN', this, 'red')">Climate and Environment</button>
+                                    <button id="COOP-btn" class="tablink" onclick="openPage('COOP', this, 'red')">Co-op</button>
+                                    <button id="CSCI-btn" class="tablink" onclick="openPage('CSCI', this, 'red')">Computer Science</button>
+                                    <button id="DEVS-btn" class="tablink" onclick="openPage('DEVS', this, 'red')">Development Studies</button>
+                                    <button id="EESC-btn" class="tablink" onclick="openPage('EESC', this, 'red')">Earth &amp; Environmental Sciences</button>
+                                    <button id="ECON-btn" class="tablink" onclick="openPage('ECON', this, 'red')">Economics</button>
+                                    <button id="EDUC-btn" class="tablink" onclick="openPage('EDUC', this, 'red')">Education</button>
+                                    <button id="ENGR-btn" class="tablink" onclick="openPage('ENGR', this, 'red')">Engineering</button>
+                                    <button id="ENGL-btn" class="tablink" onclick="openPage('ENGL', this, 'red')">English</button>
+                                    <button id="FREN-btn" class="tablink" onclick="openPage('FREN', this, 'red')">French</button>
+                                    <button id="GERM-btn" class="tablink" onclick="openPage('GERM', this, 'red')">German</button>
+                                    <button id="HLTH-btn" class="tablink" onclick="openPage('HLTH', this, 'red')">Health</button>
+                                    <button id="HIST-btn" class="tablink" onclick="openPage('HIST', this, 'red')">History</button>
+                                    <button id="HKIN-btn" class="tablink" onclick="openPage('HKIN', this, 'red')">Human Kinetics</button>
+                                    <button id="HNU-btn" class="tablink" onclick="openPage('HNU', this, 'red')">Human Nutrition</button>
+                                    <button id="IDS-btn" class="tablink" onclick="openPage('IDS', this, 'red')">Interdisciplinary Studies</button>
+                                    <button id="MATH-btn" class="tablink" onclick="openPage('MATH', this, 'red')">Mathematics</button>
+                                    <button id="MIKM-btn" class="tablink" onclick="openPage('MIKM', this, 'red')">Mi'kmaq</button>
+                                    <button id="MLAN-btn" class="tablink" onclick="openPage('MLAN', this, 'red')">Modern Languages</button>
+                                    <button id="MUSI-btn" class="tablink" onclick="openPage('MUSI', this, 'red')">Music</button>
+                                    <button id="NURS-btn" class="tablink" onclick="openPage('NURS', this, 'red')">Nursing</button>
+                                    <button id="PHIL-btn" class="tablink" onclick="openPage('PHIL', this, 'red')">Philosophy</button>
+                                    <button id="PHYS-btn" class="tablink" onclick="openPage('PHYS', this, 'red')">Physics</button>
+                                    <button id="PSCI-btn" class="tablink" onclick="openPage('PSCI', this, 'red')">Political Science</button>
+                                    <button id="PSYC-btn" class="tablink" onclick="openPage('PSYC', this, 'red')">Psychology</button>
+                                    <button id="PGOV-btn" class="tablink" onclick="openPage('PGOV', this, 'red')">Public Policy and Governance</button>
+                                    <button id="RELS-btn" class="tablink" onclick="openPage('RELS', this, 'red')">Religious Studies</button>
+                                    <button id="SOCI-btn" class="tablink" onclick="openPage('SOCI', this, 'red')">Sociology</button>
+                                    <button id="SPAN-btn" class="tablink" onclick="openPage('SPAN', this, 'red')">Spanish</button>
+                                    <button id="SMGT-btn" class="tablink" onclick="openPage('SMGT', this, 'red')">Sport Management</button>
+                                    <button id="STAT-btn" class="tablink" onclick="openPage('STAT', this, 'red')">Statistics</button>
+                                    <button id="WMGS-btn" class="tablink" onclick="openPage('WMGS', this, 'red')">Women's and Gender Studies</button>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id="defaultOpen" class="tabcontent">
+                <h2>Courses</h2>
+                <p>Courses available in the subject will appear here</p>
+            </div>
+        </div>
+        <div class="calendar">
+            <table id="schedule">
+                <tr>
+                    <th class="day-header" scope="col"></th>
+                    <th class="day-header" scope="col">Sunday</th>
+                    <th class="day-header" scope="col">Monday</th>
+                    <th class="day-header" scope="col">Tuesday</th>
+                    <th class="day-header" scope="col">Wednesday</th>
+                    <th class="day-header" scope="col">Tursday</th>
+                    <th class="day-header" scope="col">Friday</th>
+                    <th class="day-header" scope="col">Saturday</th>
+                </tr>
+            </table>
+        </div>
+        <script src="index.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,1847 @@
+﻿COLL,COURSE,CRED,CREDagg,CRN,CRNagg,DELIVERY,PROFS,ROOM,TERM,TIMEBLOCK,TITLE
+AR,ANTH 111:11,3,3,57420,57420,In-Person,"Haller, Mikael",MULH4030,1ST,E6,Intro to Physical Anth/Arch
+AR,ANTH 111:12,3,3,57803,57803,In-Person,"Bower, Megan",MULH2032,1ST,X7/X8,Intro to Physical Anth/Arch
+AR,ANTH 111:20,3,3,57419,57419,In-Person,"Beaulieu, Terry",MULH4032,2ND,X1/X2,Intro to Physical Anth/Arch
+AR,ANTH 112:11,3,3,57422,57422,In-Person,"Bower, Megan",MULH2032,1ST,X1/X2,Socio-Cultural Anthropology
+AR,ANTH 112:12,3,3,58434,58434,In-Person,"Alam, Rashedul",MULH2030,1ST,E5,Socio-Cultural Anthropology
+AR,ANTH 112:21,3,3,57421,57421,In-Person,"Alam, Rashedul",MULH2032,2ND,E6,Socio-Cultural Anthropology
+AR,ANTH 112:22J,3,3,54064,54064,In-Person,"Bower, Megan",BB337,2ND,Z7/Z8,Socio-Cultural Anthropology
+AR,ANTH 218:20,3,3,57707,57707,In-Person,"Holmes, Christina",MULH3032,2ND,U7/U8,Anthro of Health & Illness
+AR,ANTH 233:20,3,3,58433,58433,In-Person,"Alam, Rashedul",MULH3024,2ND,W7/W8,Ethnographic Studies
+AR,ANTH 234:10,3,3,57423,57423,In-Person,"Beaulieu, Terry",MULH3034,1ST,X4/X5,Intro Indigenous Anthropology
+AR,ANTH 243:10,3,3,58428,58428,In-Person,"Haller, Mikael",MULH3024,1ST,Z4/Z5,Arch. & Prehistoric Societies
+AR,ANTH 299:20,3,3,58431,58431,In-Person,"Beaulieu, Terry",MULH3026,2ND,O4/O5,"ST: Frauds, Myths, & Mysteries"
+AR,ANTH 303:10,3,3,57424,57424,In-Person,"Alam, Rashedul",BB236,1ST,W7/W8,Anthropological Theory
+AR,ANTH 304:20,3,3,57425,57425,In-Person,"Bower, Megan",BB337,2ND,E5,Principles & Meth of Fieldwork
+AR,ANTH 305:10,3,3,55335,55335,In-Person,"Beaulieu, Terry",MULH3034,1ST,O4/O5,Anthropological Data Analysis
+AR,ANTH 310:20,3,3,58430,58430,In-Person,"Haller, Mikael",MULH3022,2ND,Z4/Z5,Anthropology of Tourism
+AR,ANTH 320:20,3,3,57426,57426,In-Person,"Alam, Rashedul",AX124,2ND,U4/U5,People and Development
+AR,ANTH 321:20,3,3,58849,58849,In-Person,"Linkletter, Michael",IM201,2ND,O4/O5,Celtic Art
+AR,ANTH 323:10,3,3,57432,57432,In-Person,"Bower, Megan",BB236,1ST,E6,Feminist Anthropology
+AR,ANTH 326:10,3,3,58435,58435,In-Person,"Alam, Rashedul",CO242,1ST,W1/W2,Anthropology of Kinship
+AR,ANTH 342:10,3,3,58429,58429,In-Person,"Haller, Mikael",MULH4032,1ST,Z7/Z8,Ancient Mesoamerica
+AR,ANTH 400:00,6,6,48380,48380,In-Person,"McMillan, Leslie (Jane)",,FULL,TBA,Honours Sem & Thesis Research
+AR,ANTH 445:20,3,3,57428,57428,In-Person,"Haller, Mikael",SCHW190,2ND,Z7/Z8,Adv Archaeological Seminar
+AR,ANTH 455:20,3,3,58432,58432,In-Person,"Bower, Megan",BB337,2ND,E6,ANTH Theory in Action
+AR,APEX 100:10,0,0,45147,45147,In-Person,"Leeming, Mark",,FULL,TBA,Academic Program of Excellence
+AR,APEX 100:20,0,0,55240,55240,In-Person,"Leeming, Mark",,2ND,TBA,Academic Program of Excellence
+AR,APEX 200:00,0,0,46405,46405,In-Person,"Leeming, Mark",,FULL,TBA,Acad. Program of Excellence II
+SC,AQUA 101:10,3,3,56221,56221,In-Person,"Penney, Heather",NFSC3046,1ST,B1/B2/B3,Intro Freshwater
+SC,AQUA 101L:10,0,0,56222,56222,In-Person,"Penney, Heather",MULH3022,1ST,W7,AQUA 101 Lab
+SC,AQUA 102:20,3,3,56223,56223,In-Person,"MacDonnell, Mallory",NFSC3046,2ND,B1/B2/B3,Intro Ocean Resources
+SC,AQUA 102L:20,0,0,56224,56224,In-Person,"MacDonnell, Mallory",MULH3022,2ND,W7,AQUA 102 Lab
+SC,AQUA 202:20,3,3,57796,57796,In-Person,"Harling Stalker, L (Lynda)",AX124,2ND,Z1/Z2,The Ocean's Commons & Society
+SC,AQUA 221:10,3,3,58809,58809,In-Person,"MacDonnell, Mallory",BB236,1ST,E7,Issues in Resource Management
+SC,AQUA 297:20,3,3,57655,57655,In-Person,"Schumacher, Matthew",SCHW252,2ND,Z7/Z8,ST: Intro to Mapping and GIS
+SC,AQUA 297L:20,0,0,57732,57732,In-Person,"Schumacher, Matthew",SCHW252,2ND,E7,AQUA 297 Lab
+SC,AQUA 298:10,3,3,56881,56881,In-Person,"MacDonnell, Mallory",CO110,1ST,U4/U5,ST: Managing Water & UN SDGs
+SC,AQUA 398:20,3,3,58474,58474,In-Person,"Penney, Heather",NFSC3046,2ND,K4/K5/K6,ST: Sustainability of Aqua
+SC,AQUA 398L:20,0,0,58475,58475,In-Person,"Penney, Heather",BB305,2ND,U2/Z2,AQUA 398 Lab
+SC,AQUA 400:10,3,3,47255,47255,In-Person,"Penney, Heather",,1ST,TBA,Work Exper/Student Internship
+SC,AQUA 450:00,3,3,51095,51095,In-Person,"Garbary, David; Penney, Heather",BB305,FULL,E5,Sen Seminar Aquatic Resources
+AR,ART 101:11,3,3,53493,53493,In-Person,"MacLean, Andy",IM002,1ST,E5,Introduction to Drawing I
+AR,ART 101:12,3,3,53494,53494,In-Person,"Tragakis, Adam",IM002,1ST,E4,Introduction to Drawing I
+AR,ART 101:13,3,3,53495,53495,In-Person,"Tragakis, Adam",IM002,1ST,E7,Introduction to Drawing I
+AR,ART 101:14,3,3,53496,53496,In-Person,"MacLean, Andy",IM002,1ST,E6,Introduction to Drawing I
+AR,ART 101:15,3,3,53497,53497,In-Person,"Lounsbury, Grant",IM002,1ST,U8/Z8,Introduction to Drawing I
+AR,ART 101:16,3,3,53498,53498,In-Person,"Benton, Sean",IM002,1ST,A2/K4/L1,Introduction to Drawing I
+AR,ART 101:17,3,3,53499,53499,In-Person,"Martin, Fenn",IM002,1ST,U7/W7,Introduction to Drawing I
+AR,ART 101:18,3,3,58518,58518,In-Person,"Brown-Georgallas, Kate",IM002,1ST,O7/W8,Introduction to Drawing I
+AR,ART 102:21,3,3,53502,53502,In-Person,"MacLean, Andy",IM002,2ND,E5,Introduction to Drawing II
+AR,ART 102:22,3,3,53503,53503,In-Person,"Tragakis, Adam",IM002,2ND,E4,Introduction to Drawing II
+AR,ART 102:23,3,3,53504,53504,In-Person,"MacLean, Andy",IM002,2ND,E6,Introduction to Drawing II
+AR,ART 102:24,3,3,53505,53505,In-Person,"Lounsbury, Grant",IM002,2ND,U8/Z8,Introduction to Drawing II
+AR,ART 102:25,3,3,53506,53506,In-Person,"Benton, Sean",IM002,2ND,A2/K4/L1,Introduction to Drawing II
+AR,ART 102:26,3,3,55318,55318,In-Person,"Martin, Fenn",IM002,2ND,U7/W7,Introduction to Drawing II
+AR,ART 115:11,3,3,51794,51794,In-Person,"Young, Ruth",IM019,1ST,U8/Z8,Introduction to Design
+AR,ART 115:12,3,3,51795,51795,In-Person,"Young, Ruth",IM019,1ST,E7,Introduction to Design
+AR,ART 115:21,3,3,50414,50414,In-Person,"Young, Ruth",IM019,2ND,U8/Z8,Introduction to Design
+AR,ART 115:22,3,3,50415,50415,In-Person,"Young, Ruth",IM019,2ND,E7,Introduction to Design
+AR,ART 125:10,3,3,54752,54752,In-Person,"Gillam, Leigh",IM021,1ST,X4/Z1,Materials & Methods
+AR,ART 125:20,3,3,54356,54356,In-Person,"Gillam, Leigh",IM021,2ND,X4/Z1,Materials & Methods
+AR,ART 141:11,3,3,43871,43871,In-Person,"Gregory, Sharon",MULH3030,1ST,Z4/Z5,Art & Society I
+AR,ART 141:12,3,3,56597,56597,In-Person,"Girard, Catherine",MULH3022,1ST,R4/R5,Art & Society I
+AR,ART 142:21,3,3,43872,43872,In-Person,"Gregory, Sharon",MULH3030,2ND,Z4/Z5,Art & Society II
+AR,ART 142:22,3,3,56598,56598,In-Person,"Girard, Catherine",MULH3026,2ND,R4/R5,Art & Society II
+AR,ART 145:10,3,3,55316,55316,In-Person,"Benton, Sean",IM021,1ST,U4/W4,Introduction to Color
+AR,ART 145:20,3,3,51105,51105,In-Person,"Benton, Sean",IM021,2ND,U4/W4,Introduction to Color
+AR,ART 155:20,3,3,58517,58517,In-Person,"Girard, Catherine; Rodela, Tamara (Tammy); Tragakis, Adam",BB122,2ND,E7,The Scientist's Sketchpad
+AR,ART 202:20,3,3,51106,51106,In-Person,"Pygott, Ian",IM002,2ND,U4/W4,Intro to Scenic Design
+AR,ART 204:10,3,3,53508,53508,In-Person,"Lounsbury, Grant",IM002,1ST,O4/W5,Introduction to Painting I
+AR,ART 204:20,3,3,58519,58519,In-Person,"Mensch, Jessica",IM002,2ND,U5/Z5,Introduction to Painting I
+AR,ART 205:20,3,3,54759,54759,In-Person,"Lounsbury, Grant",IM002,2ND,O4/W5,Introduction to Painting II
+AR,ART 211:11,3,3,56411,56411,In-Person,"Fecteau, Janette",IM018,1ST,X7/Z7,Stained Glass Studio I
+AR,ART 211:12,3,3,56412,56412,In-Person,"Fecteau, Janette",IM018,1ST,O7/W8,Stained Glass Studio I
+AR,ART 212:20,3,3,58520,58520,In-Person,"Fecteau, Janette",IM018,2ND,O7/W8,Stained Glass Studio II
+AR,ART 221:20,3,3,58521,58521,In-Person,"Fecteau, Janette",IM018,2ND,X7/Z7,Batik Studio
+AR,ART 233:10,3,3,53512,53512,In-Person,"Tetu, Odile",IM021,1ST,O4/W5,Introduction to Printmaking
+AR,ART 240:10,3,3,56417,56417,In-Person,"Tetu, Odile",IM021,1ST,U8/Z8,Pastels
+AR,ART 244:10,3,3,58516,58516,In-Person,"Girard, Catherine",CO265,1ST,W7/W8,History of Photography
+AR,ART 259:10,3,3,56420,56420,In-Person,"Karuna, Antoinette",IM019,1ST,X7/Z7,Introductory Filmmaking
+AR,ART 259:20,3,3,56130,56130,In-Person,"Karuna, Antoinette",IM019,2ND,X7/Z7,Introductory Filmmaking
+AR,ART 261:20,3,3,58522,58522,In-Person,"Sparks, Arthur (Bruce)",MULH4022,2ND,O4/O5,Contemporary Art
+AR,ART 265:10,3,3,55320,55320,In-Person,"Gillam, Leigh",IM019,1ST,E4,Introductory Animation
+AR,ART 265:20,3,3,55321,55321,In-Person,"Gillam, Leigh",IM019,2ND,E4,Introductory Animation
+AR,ART 269:10,3,3,57556,57556,In-Person,"Girard, Catherine",MULH4032,1ST,E5,The Body in Art
+AR,ART 271:20,3,3,57457,57457,In-Person,"Mensch, Jessica",IM019,2ND,U4/W4,Intro to Digital Photography
+AR,ART 297:20,3,3,58523,58523,In-Person,"Gregory, Sharon",BB236,2ND,Z7/Z8,ST: Classical Mythology in Art
+AR,ART 298:10,3,3,58524,58524,In-Person,"Martin, Fenn",IM018,1ST,U8/Z8,ST: Intro Ceramic Handbuilding
+AR,ART 298:20,3,3,58727,58727,In-Person,"Martin, Fenn",IM018,2ND,U8/Z8,ST: Intro Ceramic Handbuilding
+AR,ART 321:20,3,3,58850,58850,In-Person,"Linkletter, Michael",IM201,2ND,O4/O5,Celtic Art
+AR,ART 343:10,3,3,58525,58525,In-Person,"Sparks, Arthur (Bruce)",IM202,1ST,O4/O5,Issues in Cdn Art Through WWII
+AR,ART 346:10,3,3,53521,53521,In-Person,"Brown-Georgallas, Kate",IM019,1ST,E5,Botanical Art
+AR,ART 351:20,3,3,53318,53318,In-Person,"Tragakis, Adam",BB227,2ND,E6,Anat for the Artist: Drawing
+AR,ART 354:20,3,3,57553,57553,In-Person,"Girard, Catherine",MULH3024,2ND,E5,"Women, Art, & Gender"
+AR,ART 359:20,3,3,57557,57557,In-Person,"Karuna, Antoinette",IM019,2ND,A3/B3/L5,Intermediate Filmmaking
+SC,BIOL 111:11,3,3,43621,43621,In-Person,"Bishop, Cory",BB237,1ST,C4/C5/C6,Intro Cell Biology
+SC,BIOL 111:12,3,3,43620,43620,In-Person,"Bishop, Cory",BB237,1ST,K4/K5/K6,Intro Cell Biology
+SC,BIOL 111:13S,3,3,53081,53081,In-Person,"Biernaskie, Jay",SCHW156,1ST,K4/K5/K6,Intro Cell Biology
+SC,BIOL 111L:11,0,0,43622,43622,In-Person,"Bishop, Cory",BB119,1ST,X1/Z1,BIOL 111 Lab
+SC,BIOL 111L:12,0,0,43626,43626,In-Person,"Bishop, Cory",BB119,1ST,U2/Z2,BIOL 111 Lab
+SC,BIOL 111L:13,0,0,44136,44136,In-Person,"Bishop, Cory",BB119,1ST,U8/Z8,BIOL 111 Lab
+SC,BIOL 111L:14,0,0,43623,43623,In-Person,"Bishop, Cory",BB119,1ST,X7/Z7,BIOL 111 Lab
+SC,BIOL 111L:15,0,0,43624,43624,In-Person,"Bishop, Cory",BB119,1ST,O1/W2,BIOL 111 Lab
+SC,BIOL 111L:16,0,0,43625,43625,In-Person,"Bishop, Cory",BB119,1ST,O7/W8,BIOL 111 Lab
+SC,BIOL 112:21,3,3,46124,46124,In-Person,"Wyeth, Russell",BB237,2ND,C4/C5/C6,Diversity of Life
+SC,BIOL 112:22,3,3,43627,43627,In-Person,"Perry, Jennifer (Jen)",SCHW156,2ND,K4/K5/K6,Diversity of Life
+SC,BIOL 112:23S,3,3,56746,56746,In-Person,"Wyeth, Russell",BB237,2ND,K4/K5/K6,Diversity of Life
+SC,BIOL 112L:21,0,0,43629,43629,In-Person,"Wyeth, Russell",BB119,2ND,X1/Z1,BIOL 112 Lab
+SC,BIOL 112L:22,0,0,43630,43630,In-Person,"Wyeth, Russell",BB119,2ND,X7/Z7,BIOL 112 Lab
+SC,BIOL 112L:23,0,0,43631,43631,In-Person,"Wyeth, Russell",BB119,2ND,O1/W2,BIOL 112 Lab
+SC,BIOL 112L:24,0,0,43632,43632,In-Person,"Wyeth, Russell",BB119,2ND,O7/W8,BIOL 112 Lab
+SC,BIOL 112L:25,0,0,43633,43633,In-Person,"Wyeth, Russell",BB119,2ND,U2/Z2,BIOL 112 Lab
+SC,BIOL 112L:26,0,0,43800,43800,In-Person,"Wyeth, Russell",BB119,2ND,U8/Z8,BIOL 112 Lab
+SC,BIOL 115:20,3,3,46697,46697,In-Person,"McNichol, Jesse",SCHW110,2ND,K4/K5/K6,Microbes in Human Biology
+SC,BIOL 115L:20,0,0,41308,41308,In-Person,,MSBS225,2ND,U8/Z8,BIOL 115 Lab
+SC,BIOL 151:10,3,3,53636,53636,In-Person,"Rasmussen, Roy",BB237,1ST,C1/C2/C3,Human Anatomy & Physiology I
+SC,BIOL 151L:11,0,0,53637,53637,In-Person,"Rasmussen, Roy",BB227,1ST,X1/Z1,BIOL 151 Lab
+SC,BIOL 151L:12,0,0,53639,53639,In-Person,"Rasmussen, Roy",BB227,1ST,B5/C5/K2,BIOL 151 Lab
+SC,BIOL 151L:13,0,0,53640,53640,In-Person,"Rasmussen, Roy",BB227,1ST,C6/K3/L3,BIOL 151 Lab
+SC,BIOL 151L:14,0,0,53641,53641,In-Person,"Rasmussen, Roy",BB227,1ST,U2/Z2,BIOL 151 Lab
+SC,BIOL 152:20,3,3,53644,53644,In-Person,"Rasmussen, Roy",BB237,2ND,C1/C2/C3,Human Anatomy & Physiology II
+SC,BIOL 152L:21,0,0,53645,53645,In-Person,"Rasmussen, Roy",BB227,2ND,X1/Z1,BIOL 152 Lab
+SC,BIOL 152L:22,0,0,53647,53647,In-Person,"Rasmussen, Roy",BB227,2ND,B5/C5/K2,BIOL 152 Lab
+SC,BIOL 152L:23,0,0,53648,53648,In-Person,"Rasmussen, Roy",BB227,2ND,C6/K3/L3,BIOL 152 Lab
+SC,BIOL 152L:24,0,0,53649,53649,In-Person,"Rasmussen, Roy",BB227,2ND,U2/Z2,BIOL 152 Lab
+SC,BIOL 201:20,3,3,52006,52006,In-Person,"Toxopeus, Jantina",BB237,2ND,L1/L2/L3,Animal Biology
+SC,BIOL 201L:21,0,0,52010,52010,In-Person,"Lauff, Randy; Toxopeus, Jantina",BB226,2ND,U7/W7,BIOL 201 Lab
+SC,BIOL 201L:22,0,0,52007,52007,In-Person,"Lauff, Randy; Toxopeus, Jantina",BB226,2ND,X7/Z7,BIOL 201 Lab
+SC,BIOL 201L:23,0,0,52008,52008,In-Person,"Lauff, Randy; Toxopeus, Jantina",BB226,2ND,O7/W8,BIOL 201 Lab
+SC,BIOL 201L:24,0,0,52011,52011,In-Person,"Lauff, Randy; Toxopeus, Jantina",BB226,2ND,E4,BIOL 201 Lab
+SC,BIOL 201L:25,0,0,52009,52009,In-Person,"Lauff, Randy; Toxopeus, Jantina",BB226,2ND,U8/Z8,BIOL 201 Lab
+SC,BIOL 202:10,3,3,52012,52012,In-Person,"Garbary, David",BB236,1ST,L1/L2/L3,Plant Biology
+SC,BIOL 202L:11,0,0,52013,52013,In-Person,"Garbary, David",BB320,1ST,X7/Z7,BIOL 202 Lab
+SC,BIOL 202L:12,0,0,52014,52014,In-Person,"Garbary, David",BB320,1ST,U7/W7,BIOL 202 Lab
+SC,BIOL 203:10,3,3,46699,46699,In-Person,"Taylor, Barry",IM114,1ST,K4/K5/K6,Intro Ecology
+SC,BIOL 203L:11,0,0,40407,40407,In-Person,"Taylor, Barry",BB228,1ST,X7/Z7,BIOL 203 Lab
+SC,BIOL 203L:12,0,0,40408,40408,In-Person,"Taylor, Barry",BB228,1ST,O7/W8,BIOL 203 Lab
+SC,BIOL 203L:13,0,0,40410,40410,In-Person,"Taylor, Barry",BB228,1ST,U8/Z8,BIOL 203 Lab
+SC,BIOL 204:20,3,3,46701,46701,In-Person,"Galway, Moira",MULH2070,2ND,K4/K5/K6,Introduction to Genetics
+SC,BIOL 204L:21,0,0,40412,40412,In-Person,"Galway, Moira",BB228,2ND,U7/W7,BIOL 204 Lab
+SC,BIOL 204L:22,0,0,40416,40416,In-Person,"Galway, Moira",BB228,2ND,X7/Z7,BIOL 204 Lab
+SC,BIOL 204L:23,0,0,40417,40417,In-Person,"Galway, Moira",BB228,2ND,O7/W8,BIOL 204 Lab
+SC,BIOL 204L:24,0,0,40426,40426,In-Person,"Galway, Moira",BB228,2ND,U8/Z8,BIOL 204 Lab
+SC,BIOL 204L:25,0,0,57439,57439,In-Person,"Galway, Moira",BB228,2ND,O8/X8,BIOL 204 Lab
+SC,BIOL 204L:26,0,0,57440,57440,In-Person,"Galway, Moira",BB228,2ND,C6/K3/L3,BIOL 204 Lab
+SC,BIOL 215:20,3,3,49487,49487,In-Person,"IOL - TBA,",BB337,2ND,B1/B2/B3,Microbiology for HNU
+SC,BIOL 215L:21,0,0,49488,49488,In-Person,"Rogers, Leah",BB320,2ND,C6/K6/L3,BIOL 215 Lab
+SC,BIOL 215L:22,0,0,49489,49489,In-Person,"Rogers, Leah",BB320,2ND,O8/X8,BIOL 215 Lab
+SC,BIOL 220:66,6,6,58897,58897,Online-No Scheduled Delivery,"Delorey, Trudy",Online,FULL,TBA,Health & Environmental Issues
+SC,BIOL 221:10,3,3,57709,57709,In-Person,"MacDonnell, Mallory",BB236,1ST,E7,Issues in Resource Management
+SC,BIOL 251:10,3,3,46702,46702,In-Person,"Rodela, Tamara (Tammy)",MSBS225,1ST,C1/C2/C3,Human Anatomy & Physiology I
+SC,BIOL 251:66,3,3,59006,59006,Online-No Scheduled Delivery,"Cardinal-Aucoin, Michael",Online,F1,TBA,Human Anatomy & Physiology I
+SC,BIOL 251L:11,0,0,46432,46432,In-Person,"Rodela, Tamara (Tammy)",BB314,1ST,O7/W8,BIOL 251 Lab
+SC,BIOL 251L:12,0,0,46433,46433,In-Person,"Rodela, Tamara (Tammy)",BB314,1ST,X7/Z7,BIOL 251 Lab
+SC,BIOL 251L:13,0,0,53643,53643,In-Person,"Rodela, Tamara (Tammy)",BB314,1ST,U8/Z8,BIOL 251 Lab
+SC,BIOL 251L:14,0,0,52167,52167,In-Person,"Rodela, Tamara (Tammy)",BB314,1ST,O8/X8,BIOL 251 Lab
+SC,BIOL 251L:66,0,0,59007,59007,Online-No Scheduled Delivery,"Cardinal-Aucoin, Michael",Online,F1,TBA,BIOL 251 Lab
+SC,BIOL 252:20,3,3,46928,46928,In-Person,"Rodela, Tamara (Tammy)",SCHW110,2ND,C1/C2/C3,Human Anatomy & Physiology II
+SC,BIOL 252:66,3,3,59008,59008,Online-No Scheduled Delivery,"Cardinal-Aucoin, Michael",Online,F2,TBA,Human Anatomy & Physiology II
+SC,BIOL 252L:21,0,0,40444,40444,In-Person,"Rodela, Tamara (Tammy)",BB314,2ND,O7/W8,BIOL 252 Lab
+SC,BIOL 252L:22,0,0,46434,46434,In-Person,"Rodela, Tamara (Tammy)",BB314,2ND,X7/Z7,BIOL 252 Lab
+SC,BIOL 252L:23,0,0,52170,52170,In-Person,"Rodela, Tamara (Tammy)",BB314,2ND,U8/Z8,BIOL 252 Lab
+SC,BIOL 252L:25,0,0,54927,54927,In-Person,"Rodela, Tamara (Tammy)",BB314,2ND,C6/K3/L3,BIOL 252 Lab
+SC,BIOL 252L:66,0,0,59009,59009,Online-No Scheduled Delivery,"Cardinal-Aucoin, Michael",Online,F2,TBA,BIOL 252 Lab
+SC,BIOL 302:10,3,3,52015,52015,In-Person,"Garbary, David",BB305,1ST,B1/B2/B3,Evolution
+SC,BIOL 302L:10,0,0,52016,52016,In-Person,"Garbary, David",BB237,1ST,E7,BIOL 302 Lab
+SC,BIOL 304:10,3,3,54521,54521,In-Person,"Rodela, Tamara (Tammy)",MULH3032,1ST,C4/C5/C6,Comparative Physiology
+SC,BIOL 304L:10,0,0,54522,54522,In-Person,"Rodela, Tamara (Tammy)",BB314,1ST,U7/W7,BIOL 304 Lab
+SC,BIOL 308:20,3,3,54526,54526,In-Person,"Scrosati, Ricardo",BB236,2ND,C4/C5/C6,Biology of Populations
+SC,BIOL 311:10,3,3,51264,51264,In-Person,"Scrosati, Ricardo",BB305,1ST,C4/C5/C6,Coastal Marine Ecology
+SC,BIOL 311L:10,0,0,51265,51265,In-Person,"Scrosati, Ricardo",BB407,1ST,O7/W8,BIOL 311 Lab
+SC,BIOL 315:10,3,3,46704,46704,In-Person,"McNichol, Jesse",BB236,1ST,A4/A5/A6,Intro Microbiology
+SC,BIOL 315L:11,0,0,40945,40945,In-Person,"McNichol, Jesse",BB320,1ST,O7/W8,BIOL 315 Lab
+SC,BIOL 315L:12,0,0,40946,40946,In-Person,"McNichol, Jesse",BB320,1ST,U8/Z8,BIOL 315 Lab
+SC,BIOL 320:10,3,3,58514,58514,In-Person,"Galway, Moira",BB236,1ST,A1/A2/A3,Biology of Cancer
+SC,BIOL 320L:10,0,0,58515,58515,In-Person,"Galway, Moira",BB407,1ST,X7/Z7,BIOL 320 Lab
+SC,BIOL 331:20,3,3,46705,46705,In-Person,"Cupido, Kyran",MULH3034,2ND,A1/A2/A3,Biostatistics
+SC,BIOL 331L:20,0,0,52930,52930,In-Person,"Keizer, Peter",MULH4034,2ND,C9,BIOL 331 Lab
+SC,BIOL 335:20,3,3,58511,58511,In-Person,"Bishop, Cory",BB337,2ND,L4/L5/L6,Developmental Biology
+SC,BIOL 335L:20,0,0,58512,58512,In-Person,"Bishop, Cory",BB407,2ND,O7/W8,BIOL 335 Lab
+SC,BIOL 342:10,3,3,57797,57797,In-Person,"Wyeth, Russell",BB305,1ST,A1/A2/A3,Invertebrate Zoology
+SC,BIOL 342L:10,0,0,57798,57798,In-Person,"Wyeth, Russell",BB407,1ST,U8/Z8,BIOL 342 Lab
+SC,BIOL 343:10,3,3,52017,52017,In-Person,,,1ST,TBA,Comp Anatomy of Vertebrates
+SC,BIOL 343L:10,0,0,52238,52238,In-Person,,,1ST,TBA,BIOL 343 Lab
+SC,BIOL 345:20,3,3,52458,52458,In-Person,"Taylor, Barry",BB236,2ND,B1/B2/B3,Communities & Ecosystems
+SC,BIOL 360:20,3,3,53660,53660,In-Person,"Scrosati, Ricardo",BB236,2ND,Z4/Z5,Global Change Biology
+SC,BIOL 374:20,3,3,57802,57802,In-Person,"Berrigan, Lindsay",MULH4030,2ND,X4/X5,Human Neuropsychology
+SC,BIOL 381:10,3,3,57710,57710,In-Person,"Wyeth, Russell; Toxopeus, Jantina",BB337,1ST,L4/L5/L6,ST: Biol. Research Experience
+SC,BIOL 381L:10,0,0,57711,57711,In-Person,"Wyeth, Russell; Toxopeus, Jantina",BB407,1ST,O8/X8,BIOL 381 Lab
+SC,BIOL 382:20,3,3,57712,57712,In-Person,"Perry, Jennifer (Jen)",BB337,2ND,K1/K2/K3,ST: Evolutionary Medicine
+SC,BIOL 391:00,0,0,48723,48723,In-Person,"Wyeth, Russell; Toxopeus, Jantina",GM001,FULL,B5,Junior Seminar
+SC,BIOL 395:20,3,3,55480,55480,In-Person,"Toxopeus, Jantina",BB337,2ND,A4/A5/A6,Cell Biology
+SC,BIOL 395L:20,0,0,55481,55481,In-Person,"Toxopeus, Jantina",BB320,2ND,X7/Z7,BIOL 395 Lab
+SC,BIOL 398:20,3,3,58710,58710,In-Person,"McNichol, Jesse",BB236,2ND,K1/K2/K3,ST:Exploring Native Microbiota
+SC,BIOL 398L:20,0,0,58711,58711,In-Person,"McNichol, Jesse",BB320,2ND,U8/Z8,BIOL 398 Lab
+SC,BIOL 405:20,3,3,56632,56632,In-Person,"Rodela, Tamara (Tammy)",BB305,2ND,C4/C5/C6,Comparative Endocrinology
+SC,BIOL 405L:20,0,0,56633,56633,In-Person,"Rodela, Tamara (Tammy)",BB314,2ND,U7/W7,BIOL 405 Lab
+SC,BIOL 415:10,3,3,54527,54527,In-Person,"Scrosati, Ricardo",BB305,1ST,C1/C2/C3,Biogeography
+SC,BIOL 415L:10,0,0,54528,54528,In-Person,"Scrosati, Ricardo",BB335M,1ST,U7/W7,BIOL 415 Lab
+SC,BIOL 452:20,3,3,58513,58513,In-Person,"Bishop, Cory",BB236,2ND,Z1/Z2,Bioinformatics
+SC,BIOL 454:10,3,3,58626,58626,In-Person,"Berrigan, Lindsay",AX113,1ST,U7/W4,Adv Behavioral Neuroscience II
+SC,BIOL 475:00,3,3,55733,55733,In-Person,"Wyeth, Russell; Toxopeus, Jantina",,FULL,TBA,Honours Thesis I
+SC,BIOL 481:20,3,3,57713,57713,In-Person,"Taylor, Barry",BB305,2ND,K4/K5/K6,ST: Restoration Ecology
+SC,BIOL 484:10,3,3,55485,55485,In-Person,"Perry, Jennifer (Jen)",BB337,1ST,O4/O5,Animal Behaviour
+SC,BIOL 484L:10,0,0,55612,55612,In-Person,"Perry, Jennifer (Jen)",BB228,1ST,O8/X8,BIOL 484 Lab
+SC,BIOL 491:00,0,0,51278,51278,In-Person,"Wyeth, Russell; Toxopeus, Jantina",BB236,FULL,B4/B5/B6,Senior Seminar
+SC,BIOL 493:00,3,3,46716,46716,In-Person,"Wyeth, Russell; Toxopeus, Jantina",,FULL,TBA,Honours Thesis II
+SC,BIOL 499:00,3,3,59000,59000,In-Person,"Toxopeus, Jantina; Mazerolle, Erin",,FULL,TBA,Neurophysiology
+SC,BIOL 499:11,3,3,58954,58954,In-Person,"Rodela, Tamara (Tammy)",,1ST,TBA,Environmental Physiology I
+SC,BIOL 499:12,3,3,58956,58956,In-Person,"Toxopeus, Jantina",,1ST,TBA,Cell Biology of Cytoskeleton
+SC,BIOL 499:13,3,3,59040,59040,In-Person,"Perry, Jennifer (Jen)",,1ST,TBA,Life History Strategies
+SC,BIOL 499:21,3,3,58955,58955,In-Person,"Rodela, Tamara (Tammy)",,2ND,TBA,Environmental Physiology II
+BU,BSAD 111:11A,3,3,57756,57756,In-Person,"Mack, Abede (Adede)",SCHW205,1ST,U1/U2,Intro to Business
+BU,BSAD 111:11B,3,3,57757,57757,In-Person,"Mack, Abede (Adede)",SCHW205,1ST,U1/U2,Intro to Business
+BU,BSAD 111:12A,3,3,57758,57758,In-Person,"Carter-Rogers, Katelynn",SCHW215,1ST,W1/W2,Intro to Business
+BU,BSAD 111:12B,3,3,57759,57759,In-Person,"Carter-Rogers, Katelynn",SCHW215,1ST,W1/W2,Intro to Business
+BU,BSAD 111:13A,3,3,57760,57760,In-Person,"Mack, Abede (Adede)",SCHW152,1ST,U4/U5,Intro to Business
+BU,BSAD 111:13B,3,3,57761,57761,In-Person,"Mack, Abede (Adede)",SCHW152,1ST,U4/U5,Intro to Business
+BU,BSAD 111:14A,3,3,57762,57762,In-Person,"Carter-Rogers, Katelynn",SCHW215,1ST,W4/W5,Intro to Business
+BU,BSAD 111:14B,3,3,57763,57763,In-Person,"Carter-Rogers, Katelynn",SCHW215,1ST,W4/W5,Intro to Business
+BU,BSAD 111:15A,3,3,57764,57764,In-Person,,,1ST,TBA,Intro to Business
+BU,BSAD 111:15B,3,3,57765,57765,In-Person,,,1ST,TBA,Intro to Business
+BU,BSAD 111L:11A,0,0,57766,57766,In-Person,"Mattie Deon, Kara",SCHW290,1ST,U7,BSAD 111 Lab
+BU,BSAD 111L:11B,0,0,57767,57767,In-Person,"Mattie Deon, Kara",SCHW290,1ST,W7,BSAD 111 Lab
+BU,BSAD 111L:12A,0,0,57768,57768,In-Person,"Mattie Deon, Kara",SCHW290,1ST,X7,BSAD 111 Lab
+BU,BSAD 111L:12B,0,0,57769,57769,In-Person,"Mattie Deon, Kara",SCHW290,1ST,Z7,BSAD 111 Lab
+BU,BSAD 111L:13A,0,0,57770,57770,In-Person,"Mattie Deon, Kara",SCHW290,1ST,W8,BSAD 111 Lab
+BU,BSAD 111L:13B,0,0,57771,57771,In-Person,"Mattie Deon, Kara",SCHW290,1ST,O7,BSAD 111 Lab
+BU,BSAD 111L:14A,0,0,57772,57772,In-Person,"Mattie Deon, Kara",SCHW290,1ST,Z8,BSAD 111 Lab
+BU,BSAD 111L:14B,0,0,57773,57773,In-Person,"Mattie Deon, Kara",SCHW290,1ST,U8,BSAD 111 Lab
+BU,BSAD 111L:15A,0,0,57774,57774,In-Person,"Mattie Deon, Kara",SCHW290,1ST,U1,BSAD 111 Lab
+BU,BSAD 111L:15B,0,0,57775,57775,In-Person,"Mattie Deon, Kara",SCHW290,1ST,U2,BSAD 111 Lab
+BU,BSAD 112:21A,3,3,57776,57776,In-Person,"MacIsaac, Mark",SCHW205,2ND,U1/U2,Business Decision-Making
+BU,BSAD 112:21B,3,3,57777,57777,In-Person,"MacIsaac, Mark",SCHW205,2ND,U1/U2,Business Decision-Making
+BU,BSAD 112:22A,3,3,57778,57778,In-Person,"Legere, Robert",SCHW205,2ND,W1/W2,Business Decision-Making
+BU,BSAD 112:22B,3,3,57779,57779,In-Person,"Legere, Robert",SCHW205,2ND,W1/W2,Business Decision-Making
+BU,BSAD 112:23A,3,3,57780,57780,In-Person,"MacIsaac, Mark",SCHW205,2ND,U4/U5,Business Decision-Making
+BU,BSAD 112:23B,3,3,57781,57781,In-Person,"MacIsaac, Mark",SCHW205,2ND,U4/U5,Business Decision-Making
+BU,BSAD 112:24A,3,3,57782,57782,In-Person,"Lukeman, Christopher (Chris)",SCHW205,2ND,O4/O5,Business Decision-Making
+BU,BSAD 112:24B,3,3,57783,57783,In-Person,"Lukeman, Christopher (Chris)",SCHW205,2ND,O4/O5,Business Decision-Making
+BU,BSAD 112:25A,3,3,57784,57784,In-Person,"Mukerji, Bhasker",SCHW205,2ND,U7/U8,Business Decision-Making
+BU,BSAD 112:25B,3,3,57785,57785,In-Person,"Mukerji, Bhasker",SCHW205,2ND,U7/U8,Business Decision-Making
+BU,BSAD 112L:21A,0,0,57786,57786,In-Person,"Mattie Deon, Kara",SCHW290,2ND,U7,BSAD 112 Lab
+BU,BSAD 112L:21B,0,0,57787,57787,In-Person,"Mattie Deon, Kara",SCHW290,2ND,W7,BSAD 112 Lab
+BU,BSAD 112L:22A,0,0,57788,57788,In-Person,"Mattie Deon, Kara",SCHW290,2ND,X7,BSAD 112 Lab
+BU,BSAD 112L:22B,0,0,57789,57789,In-Person,"Mattie Deon, Kara",SCHW290,2ND,Z7,BSAD 112 Lab
+BU,BSAD 112L:23A,0,0,57790,57790,In-Person,"Mattie Deon, Kara",SCHW290,2ND,W8,BSAD 112 Lab
+BU,BSAD 112L:23B,0,0,57791,57791,In-Person,"Mattie Deon, Kara",SCHW290,2ND,O7,BSAD 112 Lab
+BU,BSAD 112L:24A,0,0,57792,57792,In-Person,"Mattie Deon, Kara",SCHW290,2ND,Z8,BSAD 112 Lab
+BU,BSAD 112L:24B,0,0,57793,57793,In-Person,"Mattie Deon, Kara",SCHW290,2ND,U8,BSAD 112 Lab
+BU,BSAD 112L:25A,0,0,57794,57794,In-Person,"Mattie Deon, Kara",SCHW290,2ND,U1,BSAD 112 Lab
+BU,BSAD 112L:25B,0,0,57795,57795,In-Person,"Mattie Deon, Kara",SCHW290,2ND,U2,BSAD 112 Lab
+BU,BSAD 221:11,3,3,47001,47001,In-Person,"Madden, Robert",SCHW205,1ST,W7/W8,Intro Financial Accounting
+BU,BSAD 221:12,3,3,43834,43834,In-Person,"Fraser, Jane",SCHW205,1ST,Z1/Z2,Intro Financial Accounting
+BU,BSAD 221:13,3,3,50088,50088,In-Person,"Fraser, Jane",SCHW205,1ST,Z4/Z5,Intro Financial Accounting
+BU,BSAD 221:14,3,3,51383,51383,Online-Scheduled Delivery,"Fraser, Jane",ONLINE,1ST,Z7/Z8,Intro Financial Accounting
+BU,BSAD 221:15,3,3,56499,56499,In-Person,"Konings, Zachary (Zac)",SCHW152,1ST,O1/O2,Intro Financial Accounting
+BU,BSAD 223:21,3,3,43911,43911,In-Person,"MacAulay, Kenneth",SCHW215,2ND,W1/W2,Intro Managerial Accounting
+BU,BSAD 223:22,3,3,43912,43912,In-Person,"MacAulay, Kenneth",SCHW215,2ND,W4/W5,Intro Managerial Accounting
+BU,BSAD 223:23,3,3,43546,43546,In-Person,"Konings, Zachary (Zac)",SCHW156,2ND,O1/O2,Intro Managerial Accounting
+BU,BSAD 223:24,3,3,43547,43547,In-Person,"Konings, Zachary (Zac)",SCHW215,2ND,O4/O5,Intro Managerial Accounting
+BU,BSAD 223:25,3,3,56500,56500,In-Person,"Konings, Zachary (Zac)",SCHW215,2ND,O7/O8,Intro Managerial Accounting
+BU,BSAD 231:11,3,3,47004,47004,In-Person,"Anthony, Denton",SCHW205,1ST,U4/U5,Foundations of Marketing
+BU,BSAD 231:12,3,3,57015,57015,In-Person,"Mukerji, Bhasker",SCHW205,1ST,W4/W5,Foundations of Marketing
+BU,BSAD 231:13,3,3,57496,57496,In-Person,"Mukerji, Bhasker",SCHW215,1ST,W7/W8,Foundations of Marketing
+BU,BSAD 231:21,3,3,47006,47006,In-Person,"Morrison, Bobbi",SCHW205,2ND,O1/O2,Foundations of Marketing
+BU,BSAD 231:22,3,3,56501,56501,In-Person,"Morrison, Bobbi",SCHW152,2ND,O4/O5,Foundations of Marketing
+BU,BSAD 241:11,3,3,58718,58718,In-Person,"Parikh, Bhavik",SCHW215,1ST,X4/X5,Financial Management I
+BU,BSAD 241:12,3,3,58719,58719,In-Person,"Parikh, Bhavik",SCHW152,1ST,X7/X8,Financial Management I
+BU,BSAD 241:13,3,3,58722,58722,In-Person,"El-Hassan, Nada",SCHW252,1ST,W1/W2,Financial Management I
+BU,BSAD 241:24,3,3,50097,50097,In-Person,"El-Hassan, Nada",SCHW205,2ND,X1/X2,Financial Management I
+BU,BSAD 241:25,3,3,56065,56065,In-Person,"El-Hassan, Nada",SCHW205,2ND,X4/X5,Financial Management I
+BU,BSAD 261:11,3,3,47008,47008,In-Person,"MacIsaac, Mark",SCHW215,1ST,U1/U2,Organizational Behaviour
+BU,BSAD 261:12,3,3,47009,47009,In-Person,"MacIsaac, Mark",SCHW215,1ST,U4/U5,Organizational Behaviour
+BU,BSAD 261:13,3,3,57497,57497,In-Person,"MacIsaac, Mark",SCHW215,1ST,U7/U8,Organizational Behaviour
+BU,BSAD 261:21,3,3,56782,56782,In-Person,"Mack, Abede (Adede)",SCHW215,2ND,U4/U5,Organizational Behaviour
+BU,BSAD 261:22,3,3,56503,56503,In-Person,"Mack, Abede (Adede)",SCHW215,2ND,U7/U8,Organizational Behaviour
+BU,BSAD 281:11,3,3,52031,52031,In-Person,"Palanisamy, Ramaraj",SCHW252,1ST,U1/U2,Foundations Information Tech.
+BU,BSAD 281:12,3,3,52032,52032,In-Person,"Mattie, David",SCHW252,1ST,Z1/Z2,Foundations Information Tech.
+BU,BSAD 281:13,3,3,56504,56504,In-Person,"McCaig, Melanie",SCHW252,1ST,Z4/Z5,Foundations Information Tech.
+BU,BSAD 281:21,3,3,54121,54121,In-Person,"Mattie, David",SCHW252,2ND,W4/W5,Foundations Information Tech.
+BU,BSAD 281:22,3,3,55374,55374,In-Person,"McCaig, Melanie",SCHW252,2ND,Z4/Z5,Foundations Information Tech.
+BU,BSAD 281:23,3,3,58689,58689,Online-Scheduled Delivery,"McCaig, Melanie",ONLINE,2ND,Z7/Z8,Foundations Information Tech.
+BU,BSAD 321:11,3,3,43829,43829,In-Person,"Alex, Jennifer",SCHW205,1ST,O1/O2,Intermed Managerial Account I
+BU,BSAD 321:12,3,3,43599,43599,In-Person,"Alex, Jennifer",SCHW205,1ST,O4/O5,Intermed Managerial Account I
+BU,BSAD 322:21,3,3,45047,45047,In-Person,"Alex, Jennifer",SCHW152,2ND,O1/O2,Intermed Managerial Account II
+BU,BSAD 322:22,3,3,55375,55375,In-Person,"Alex, Jennifer",ASCHL207,2ND,O4/O5,Intermed Managerial Account II
+BU,BSAD 323:11,3,3,47012,47012,In-Person,"Madden, Robert",SCHW152,1ST,W1/W2,Intermed Financ Accounting I
+BU,BSAD 323:12,3,3,43828,43828,In-Person,"Madden, Robert",SCHW252,1ST,W4/W5,Intermed Financ Accounting I
+BU,BSAD 324:21,3,3,47013,47013,In-Person,"Madden, Robert",SCHW152,2ND,W1/W2,Intermed Financ Accounting II
+BU,BSAD 324:22,3,3,55376,55376,In-Person,"Madden, Robert",SCHW152,2ND,W4/W5,Intermed Financ Accounting II
+BU,BSAD 331:11,3,3,58675,58675,In-Person,"Mahaffey, Thomas",SCHW289,1ST,U4/U5,Marketing Management
+BU,BSAD 331:12,3,3,58676,58676,In-Person,"Mahaffey, Thomas",SCHW205,1ST,U7/U8,Marketing Management
+BU,BSAD 332:21,3,3,54001,54001,In-Person,"Mahaffey, Thomas",SCHW252,2ND,X1/X2,Res Methods & Insights
+BU,BSAD 332:22,3,3,54002,54002,In-Person,"Mahaffey, Thomas",SCHW252,2ND,X4/X5,Res Methods & Insights
+BU,BSAD 333:21,3,3,54003,54003,In-Person,"Anthony, Denton",SCHW205,2ND,Z1/Z2,Professional Sales
+BU,BSAD 333:22,3,3,54004,54004,In-Person,"Anthony, Denton",SCHW156,2ND,Z4/Z5,Professional Sales
+BU,BSAD 335:11,3,3,54005,54005,In-Person,"Morrison, Bobbi",SCHW215,1ST,Z1/Z2,Consumer Behaviour
+BU,BSAD 335:12,3,3,54006,54006,In-Person,"Morrison, Bobbi",SCHW152,1ST,Z4/Z5,Consumer Behaviour
+BU,BSAD 342:11,3,3,48822,48822,In-Person,"Nguyen, Yen",SCHW156,1ST,U1/U2,Financial Management II
+BU,BSAD 342:12,3,3,48823,48823,In-Person,"Nguyen, Yen",SCHW156,1ST,U4/U5,Financial Management II
+BU,BSAD 342:13,3,3,50718,50718,In-Person,"El-Hassan, Nada",SCHW152,1ST,W7/W8,Financial Management II
+BU,BSAD 342:14,3,3,58723,58723,In-Person,"El-Hassan, Nada",SCHW289,1ST,W4/W5,Financial Management II
+BU,BSAD 344:21,3,3,58672,58672,In-Person,"Vishwakarma, Vijay",SCHW152,2ND,U4/U5,Investment Management
+BU,BSAD 345:21,3,3,51372,51372,In-Person,"Nguyen, Yen",SCHW205,2ND,Z4/Z5,Personal Financial Management
+BU,BSAD 345:22,3,3,51373,51373,In-Person,"Nguyen, Yen",SCHW205,2ND,Z7/Z8,Personal Financial Management
+BU,BSAD 346:11,3,3,58677,58677,In-Person,"Konings, Zachary (Zac)",SCHW152,1ST,O4/O5,Financial Statement Analysis
+BU,BSAD 346:12,3,3,58678,58678,In-Person,"Konings, Zachary (Zac)",SCHW152,1ST,O7/O8,Financial Statement Analysis
+BU,BSAD 348:10,3,3,58720,58720,In-Person,"Parikh, Bhavik",SCHW152,1ST,E5,Financial & Banking Inst.
+BU,BSAD 349:10,3,3,57501,57501,In-Person,"Nguyen, Yen",SCHW152,1ST,U7/U8,Int'l Financial Management
+BU,BSAD 351:10,3,3,56510,56510,In-Person,"SAD - TBA,",SCHW205,1ST,E5,Business Law
+BU,BSAD 351:20,3,3,56509,56509,In-Person,"MacGillivray Case, Meghan",SCHW205,2ND,E5,Business Law
+BU,BSAD 352:10,3,3,55359,55359,In-Person,"SAD - TBA,",SCHW156,1ST,W1/W2,Social Entrepreneurship
+BU,BSAD 356:11,3,3,58673,58673,In-Person,"Maltby, Neil",SCHW215,1ST,Z4/Z5,Entrepre & Venture Development
+BU,BSAD 356:12,3,3,58679,58679,In-Person,"Maltby, Neil",SCHW215,1ST,Z7/Z8,Entrepre & Venture Development
+BU,BSAD 357:21,3,3,57502,57502,In-Person,"Delorey, Randy",SCHW152,2ND,X1/X2,International Business
+BU,BSAD 357:22,3,3,57503,57503,In-Person,"Delorey, Randy",SCHW152,2ND,X4/X5,International Business
+BU,BSAD 358:10,3,3,57885,57885,In-Person,"Mack, Abede (Adede)",SCHW156,1ST,U7/U8,Business Ethics
+BU,BSAD 358:21,3,3,58670,58670,In-Person,"Long, Bradley",SCHW252,2ND,Z1/Z2,Business Ethics
+BU,BSAD 358:22,3,3,58681,58681,In-Person,"Long, Bradley",SCHW152,2ND,Z4/Z5,Business Ethics
+BU,BSAD 361:11,3,3,57505,57505,In-Person,"Leung, Opal",SCHW156,1ST,W4/W5,Organizational Analysis
+BU,BSAD 361:12,3,3,57523,57523,In-Person,"Leung, Opal",SCHW156,1ST,W7/W8,Organizational Analysis
+BU,BSAD 362:20,3,3,57524,57524,In-Person,"Leung, Opal",SCHW190,2ND,O4/O5,Career Dynamics
+BU,BSAD 363:10,3,3,58671,58671,In-Person,"Long, Bradley",SCHW156,1ST,Z4/Z5,Human Resource Management
+BU,BSAD 366:20,3,3,57901,57901,In-Person,"Carter-Rogers, Katelynn",SCHW152,2ND,W7/W8,Indigenous Business in Canada
+BU,BSAD 367:20,3,3,57506,57506,In-Person,"Carter-Rogers, Katelynn",SCHW156,2ND,W4/W5,Gender and Management
+BU,BSAD 381:10,3,3,58687,58687,In-Person,"Boyle, Todd",SCHW252,1ST,X1/X2,Operations Management
+BU,BSAD 382:10,3,3,54012,54012,In-Person,"Palanisamy, Ramaraj",SCHW252,1ST,U4/U5,Intro Enterprise Systems: SAP
+BU,BSAD 383:20,3,3,55710,55710,In-Person,"Palanisamy, Ramaraj",SCHW215,2ND,O1/O2,Mobile Commerce
+BU,BSAD 384:20,3,3,56516,56516,In-Person,"Mattie, David",SCHW252,2ND,U4/U5,Data Management & Analytics
+BU,BSAD 385:10,3,3,56517,56517,In-Person,"Boyle, Todd",SCHW252,1ST,O1/O2,Bus Programming ABAP
+BU,BSAD 386:10,3,3,58683,58683,In-Person,"McCaig, Melanie",SCHW252,1ST,Z7/Z8,Project Management & Practice
+BU,BSAD 389:20,3,3,57521,57521,In-Person,"Boyle, Todd",SCHW156,2ND,Z1/Z2,Technology & Inv. Management
+BU,BSAD 391:20,3,3,52852,52852,In-Person,"Mahaffey, Thomas",SCHW252,2ND,W7/W8,Found of Management Research
+BU,BSAD 394:10,0,0,58803,58803,In-Person,"SAD - TBA,",SCHW110,1ST,X7,ST: Speaker Series
+BU,BSAD 395:20,0,0,58804,58804,In-Person,"SAD - TBA,",SCHW110,2ND,X7,ST: Speaker Series
+BU,BSAD 424:10,3,3,55366,55366,In-Person,"Oxner, Mary",MULH3032,1ST,U1/U2,Financial Accounting Theory
+BU,BSAD 425:21,3,3,56521,56521,In-Person,"Fraser, Jane",SCHW190,2ND,Z4/Z5,Auditing
+BU,BSAD 425:22,3,3,56522,56522,In-Person,"Fraser, Jane",SCHW152,2ND,Z7/Z8,Auditing
+BU,BSAD 426:10,3,3,56523,56523,In-Person,"Oxner, Mary",SCHW152,1ST,W4/W5,Adv Financial Accounting I
+BU,BSAD 428:20,3,3,56525,56525,In-Person,"MacAulay, Kenneth",SCHW152,2ND,Z1/Z2,Adv Financial Accounting II
+BU,BSAD 433:20,3,3,57522,57522,In-Person,"Mukerji, Bhasker",SCHW289,2ND,U4/U5,International Marketing
+BU,BSAD 434:10,3,3,54017,54017,In-Person,"Anthony, Denton",SCHW156,1ST,Z1/Z2,Marketing Communications
+BU,BSAD 437:20,3,3,58684,58684,In-Person,"Mukerji, Bhasker",SCHW205,2ND,W7/W8,Digital Marketing Strategy
+BU,BSAD 438:10,3,3,58712,58712,In-Person,"Morrison, Bobbi",SCHW252,1ST,O4/O5,Social Media Marketing
+BU,BSAD 444:10,3,3,58721,58721,In-Person,"Parikh, Bhavik",SCHW205,1ST,X1/X2,Advanced Financial Management
+BU,BSAD 445:20,3,3,55859,55859,In-Person,"Vishwakarma, Vijay",SCHW156,2ND,U7/U8,Derivatives
+BU,BSAD 449:20,3,3,58724,58724,In-Person,"El-Hassan, Nada",SCHW215,2ND,Z7/Z8,Portfolio Management
+BU,BSAD 450:11,3,3,55734,55734,In-Person,"McIver, Rhonda",SCHW152,1ST,X1/X2,Personal Taxation
+BU,BSAD 450:12,3,3,55735,55735,In-Person,"McIver, Rhonda",SCHW152,1ST,X4/X5,Personal Taxation
+BU,BSAD 451:10,3,3,57527,57527,In-Person,"Fuller, Mark",SCHW289,1ST,O4/O5,Cases in Int'l Busines
+BU,BSAD 452:20,3,3,54727,54727,In-Person,"Fuller, Mark",SCHW290,2ND,O1/O2,Comparative Int'l Strategy
+BU,BSAD 453:21,3,3,57510,57510,In-Person,"Maltby, Neil",SCHW289,2ND,O1/O2,Entrepreneurial Finance
+BU,BSAD 453:22,3,3,58692,58692,In-Person,"Maltby, Neil",SCHW289,2ND,O4/O5,Entrepreneurial Finance
+BU,BSAD 456:20,3,3,56531,56531,In-Person,"Mack, Abede (Adede)",SCHW156,2ND,U1/U2,Small Business Management
+BU,BSAD 458:10,3,3,57511,57511,In-Person,"Maltby, Neil",SCHW156,1ST,X1/X2,New Venture Development
+BU,BSAD 460:20,3,3,56532,56532,In-Person,"McIver, Rhonda",SCHW152,2ND,U1/U2,Corporate Taxation
+BU,BSAD 461:10,3,3,54021,54021,In-Person,"Delorey, Randy",SCHW289,1ST,O1/O2,Leadership
+BU,BSAD 462:20,3,3,58691,58691,In-Person,"Long, Bradley",SCHW290,2ND,W1/W2,Employee & Labour Relations
+BU,BSAD 471:11,3,3,57512,57512,In-Person,"Fuller, Mark",SCHW215,1ST,O1/O2,Strategic Management
+BU,BSAD 471:12,3,3,45773,45773,In-Person,"Delorey, Randy",SCHW215,1ST,O4/O5,Strategic Management
+BU,BSAD 471:13,3,3,54024,54024,In-Person,"Delorey, Randy",SCHW215,1ST,O7/O8,Strategic Management
+BU,BSAD 471:21,3,3,54769,54769,In-Person,"Fuller, Mark",SCHW215,2ND,X1/X2,Strategic Management
+BU,BSAD 471:22,3,3,56534,56534,In-Person,"Fuller, Mark",SCHW215,2ND,X4/X5,Strategic Management
+BU,BSAD 473:10,3,3,58685,58685,In-Person,"Long, Bradley",SCHW152,1ST,Z1/Z2,Adv Topics in Responsible Mgmt
+BU,BSAD 482:20,3,3,58686,58686,In-Person,"Mattie, David",SCHW252,2ND,U1/U2,Decision Intel & Analytics
+BU,BSAD 483:10,3,3,52065,52065,In-Person,"Palanisamy, Ramaraj",SCHW252,1ST,X4/X5,System Analysis & Design
+BU,BSAD 484:20,3,3,57518,57518,In-Person,"Palanisamy, Ramaraj",SCHW252,2ND,O4/O5,SAP Implementation
+BU,BSAD 487:10,3,3,58682,58682,In-Person,"Mattie, David",SCHW215,1ST,X1/X2,Advances in IT
+BU,BSAD 492:20,3,3,46424,46424,In-Person,"Delorey, Randy",SCHW152,2ND,X7/X8,Consulting Project: Adv.Majors
+BU,BSAD 494:20,3,3,43910,43910,In-Person,"McIver, Rhonda",SCHW289,2ND,X7/X8,Honours Thesis
+BU,BSAD 497:10,3,3,57517,57517,In-Person,"Johnson, Trevor",SCHW152,1ST,Z7/Z8,ST: Modelling for Equities
+AR,CATH 101:10,3,3,58693,58693,In-Person,"Sastri, Martin",MULH4032,1ST,U7/U8,The Catholic Story
+AR,CATH 297:20,3,3,58696,58696,In-Person,"Sastri, Martin",MULH3034,2ND,E5,ST: Christianity and Conflict
+AR,CATH 298:10,3,3,58694,58694,In-Person,"Leger, Beverly (Dawn)",MULH3024,1ST,E5,ST: Christian Attitudes-Gender
+AR,CATH 331:20,3,3,58695,58695,In-Person,"Stewart, Suzanne",MULH2030,2ND,W4/W5,Catholicism & the Arts I
+AR,CELT 101:10,3,3,54796,54796,In-Person,"MacLeod, Robbie",AX124,1ST,W7/W8,Gaelic Language & Culture I
+AR,CELT 102:20,3,3,54797,54797,In-Person,"MacLeod, Robbie",IM113,2ND,W7/W8,Gaelic Language & Culture II
+AR,CELT 111:10,3,3,58471,58471,In-Person,"Linkletter, Michael",IM201,1ST,W7/W8,Irish I
+AR,CELT 131:10,3,3,47554,47554,In-Person,"Linkletter, Michael",MULH3024,1ST,Z7/Z8,Celtic Civilizations I
+AR,CELT 132:20,3,3,56611,56611,In-Person,"Linkletter, Michael",IM202,2ND,Z7/Z8,Celtic Civilizations II
+AR,CELT 220:10,3,3,58472,58472,In-Person,"Harrington, Nathaniel",IM202,1ST,U7/U8,Celtic Paganism
+AR,CELT 319:10,3,3,58842,58842,In-Person,"MacLeod, Robbie",GM001,1ST,U4/U5,Celtic Music
+AR,CELT 321:20,3,3,58848,58848,In-Person,"Linkletter, Michael",IM201,2ND,O4/O5,Celtic Art
+AR,CELT 325:20,3,3,58464,58464,In-Person,"Harrington, Nathaniel",IM113,2ND,Z4/Z5,The Celts in Popular Culture
+AR,CELT 327:10,3,3,58465,58465,In-Person,"MacLeod, Robbie",IM201,1ST,X4/X5,Medieval Ireland
+AR,CELT 328:20,3,3,58467,58467,In-Person,"MacLeod, Robbie",IM201,2ND,X4/X5,Medieval Wales
+AR,CELT 351:10,3,3,56609,56609,In-Person,"Harrington, Nathaniel",IM201,1ST,W4/W5,Folklore of Gaelic Ireland
+AR,CELT 352:20,3,3,56610,56610,In-Person,"Harrington, Nathaniel",IM201,2ND,W4/W5,Folklore:Scotland/Nova Scotia
+AR,CELT 361:10,3,3,58469,58469,In-Person,"Harrington, Nathaniel",IM201,1ST,O7/O8,ST: Celtic Cinema
+AR,CELT 362:20,3,3,58470,58470,In-Person,"Harrington, Nathaniel",IM201,2ND,O7/O8,ST: Marginalized Voices
+AR,CELT 363:20,6,6,59001,59001,In-Person,"MacLeod, Robbie",MULH3026,2ND,U4/U5,"ST: Love, Sex & Gender"
+AR,CELT 491:00,6,6,57695,57695,In-Person,"Linkletter, Michael",,FULL,TBA,Honours Thesis
+SC,CHEM 101:11A,3,3,54417,54417,In-Person,"Orlova, Galina",IM114,1ST,C1/C2/C3,General Chemistry I
+SC,CHEM 101:11B,3,3,54418,54418,In-Person,"Orlova, Galina",IM114,1ST,C1/C2/C3,General Chemistry I
+SC,CHEM 101:12A,3,3,54419,54419,In-Person,"Blair, Shamus",NFSC1072,1ST,C4/C5/C6,General Chemistry I
+SC,CHEM 101:12B,3,3,54420,54420,In-Person,"Blair, Shamus",NFSC1072,1ST,C4/C5/C6,General Chemistry I
+SC,CHEM 101:13A,3,3,54421,54421,In-Person,"Aquino, Manuel",NFSC1072,1ST,L4/L5/L6,General Chemistry I
+SC,CHEM 101:13B,3,3,54422,54422,In-Person,"Aquino, Manuel",NFSC1072,1ST,L4/L5/L6,General Chemistry I
+SC,CHEM 101L:11A,0,0,54423,54423,In-Person,"Orlova, Galina",NFSC1072,1ST,X7/Z7,CHEM 101 Lab
+SC,CHEM 101L:11B,0,0,54424,54424,In-Person,"Orlova, Galina",NFSC1072,1ST,U8/Z8,CHEM 101 Lab
+SC,CHEM 101L:12A,0,0,54425,54425,In-Person,"Blair, Shamus",NFSC1072,1ST,X1/Z1,CHEM 101 Lab
+SC,CHEM 101L:12B,0,0,54426,54426,In-Person,"Blair, Shamus",NFSC1072,1ST,O7/W8,CHEM 101 Lab
+SC,CHEM 101L:13A,0,0,54427,54427,In-Person,"Aquino, Manuel",NFSC1072,1ST,U7/W7,CHEM 101 Lab
+SC,CHEM 101L:13B,0,0,54428,54428,In-Person,"Aquino, Manuel",NFSC1072,1ST,O1/W2,CHEM 101 Lab
+SC,CHEM 102:21A,3,3,54429,54429,In-Person,"Orlova, Galina",IM114,2ND,C1/C2/C3,General Chemistry II
+SC,CHEM 102:21B,3,3,54430,54430,In-Person,"Orlova, Galina",IM114,2ND,C1/C2/C3,General Chemistry II
+SC,CHEM 102:22A,3,3,54433,54433,In-Person,"Aquino, Manuel",NFSC1072,2ND,C4/C5/C6,General Chemistry II
+SC,CHEM 102:22B,3,3,54434,54434,In-Person,"Aquino, Manuel",NFSC1072,2ND,C4/C5/C6,General Chemistry II
+SC,CHEM 102:23A,3,3,54437,54437,In-Person,"Blair, Shamus",NFSC1072,2ND,L4/L5/L6,General Chemistry II
+SC,CHEM 102:23B,3,3,54438,54438,In-Person,"Blair, Shamus",NFSC1072,2ND,L4/L5/L6,General Chemistry II
+SC,CHEM 102L:21A,0,0,54431,54431,In-Person,"Orlova, Galina",NFSC1072,2ND,X7/Z7,CHEM 102 Lab
+SC,CHEM 102L:21B,0,0,54432,54432,In-Person,"Orlova, Galina",NFSC1072,2ND,U8/Z8,CHEM 102 Lab
+SC,CHEM 102L:22A,0,0,54435,54435,In-Person,"Aquino, Manuel",NFSC1072,2ND,X1/Z1,CHEM 102 Lab
+SC,CHEM 102L:22B,0,0,54436,54436,In-Person,"Aquino, Manuel",NFSC1072,2ND,O7/W8,CHEM 102 Lab
+SC,CHEM 102L:23A,0,0,54439,54439,In-Person,"Blair, Shamus",NFSC1072,2ND,U7/W7,CHEM 102 Lab
+SC,CHEM 102L:23B,0,0,54440,54440,In-Person,"Blair, Shamus",NFSC1072,2ND,O1/W2,CHEM 102 Lab
+SC,CHEM 121:10,3,3,54441,54441,In-Person,"Marangoni, Gerrard",BB237,1ST,L4/L5/L6,Principles of Chemistry I
+SC,CHEM 121L:11,0,0,54443,54443,In-Person,"Marangoni, Gerrard",NFSC1072,1ST,O7/W8,CHEM 121 Lab
+SC,CHEM 121L:12,0,0,54444,54444,In-Person,"Marangoni, Gerrard",NFSC1072,1ST,U8/Z8,CHEM 121 Lab
+SC,CHEM 122:20,3,3,54442,54442,In-Person,"Marangoni, Gerrard",BB237,2ND,L4/L5/L6,Principles of Chemistry II
+SC,CHEM 122L:21,0,0,54445,54445,In-Person,"Marangoni, Gerrard",NFSC1072,2ND,O7/W8,CHEM 122 Lab
+SC,CHEM 122L:22,0,0,54446,54446,In-Person,"Marangoni, Gerrard",NFSC1072,2ND,U8/Z8,CHEM 122 Lab
+SC,CHEM 151:10,3,3,52151,52151,In-Person,"Blair, Shamus",MULH2070,1ST,A4/A5/A6,Fundamental Chemistry
+SC,CHEM 151L:11,0,0,52161,52161,In-Person,"Blair, Shamus",NFSC1072,1ST,U7/W7,CHEM 151 Lab
+SC,CHEM 151L:12,0,0,52330,52330,In-Person,"Blair, Shamus",NFSC1072,1ST,X7/Z7,CHEM 151 Lab
+SC,CHEM 151L:13,0,0,58934,58934,In-Person,"Blair, Shamus",NFSC1072,1ST,E4,CHEM 151 Lab
+SC,CHEM 221:10,3,3,54413,54413,In-Person,"Cormier, James",MULH2070,1ST,L4/L5/L6,Organic Chemistry I
+SC,CHEM 221L:11,0,0,54414,54414,In-Person,"Cormier, James",NFSC2010,1ST,O7/W8,CHEM 221 Lab
+SC,CHEM 221L:12,0,0,54447,54447,In-Person,"Cormier, James",NFSC2010,1ST,X7/Z7,CHEM 221 Lab
+SC,CHEM 221L:13,0,0,58310,58310,In-Person,"Cormier, James",NFSC2010,1ST,U8/Z8,CHEM 221 Lab
+SC,CHEM 222:20,3,3,48633,48633,In-Person,"Cormier, James",GM001,2ND,L4/L5/L6,Organic Chemistry II
+SC,CHEM 222L:21,0,0,48634,48634,In-Person,"Cormier, James",NFSC2010,2ND,O7/W8,CHEM 222 Lab
+SC,CHEM 222L:22,0,0,54448,54448,In-Person,"Cormier, James",NFSC2010,2ND,X7/Z7,CHEM 222 Lab
+SC,CHEM 231:10,3,3,46755,46755,In-Person,"Gulam Razul, M.",BB337,1ST,A1/A2/A3,Physical Chemistry I
+SC,CHEM 231L:10,0,0,40920,40920,In-Person,"Gulam Razul, M.",NFSC1072,1ST,O8/X8,CHEM 231 Lab
+SC,CHEM 232:20,3,3,46756,46756,In-Person,"Gulam Razul, M.",SCHW289,2ND,A1/A2/A3,Physical Chemistry II
+SC,CHEM 232L:20,0,0,40921,40921,In-Person,"Gulam Razul, M.",NFSC1072,2ND,O8/X8,CHEM 232 Lab
+SC,CHEM 245:20,3,3,45530,45530,In-Person,"Aquino, Manuel",MULH3034,2ND,C1/C2/C3,Basic Inorganic Chemistry
+SC,CHEM 245L:20,0,0,45531,45531,In-Person,"Aquino, Manuel",NFSC2010,2ND,U7/W7,CHEM 245 Lab
+SC,CHEM 255:20,3,3,46757,46757,In-Person,"Foo, Alexander",SCHW110,2ND,K1/K2/K3,Intro Biochemistry
+SC,CHEM 255L:21,0,0,40490,40490,In-Person,"Foo, Alexander",NFSC2010,2ND,U8/Z8,CHEM 255 Lab
+SC,CHEM 255L:22,0,0,40491,40491,In-Person,"Foo, Alexander",NFSC2010,2ND,O8/X8,CHEM 255 Lab
+SC,CHEM 265:10,3,3,45532,45532,In-Person,"Bertin, Erwan",MULH4022,1ST,C1/C2/C3,Basic Analytical Chemistry
+SC,CHEM 265L:10,0,0,45671,45671,In-Person,"Bertin, Erwan",NFSC2010,1ST,U7/W7,CHEM 265 Lab
+SC,CHEM 325:10,3,3,46032,46032,In-Person,"Cormier, James",MULH3034,1ST,B1/B2/B3,Organic Structural Methods
+SC,CHEM 325L:10,0,0,46429,46429,In-Person,"Cormier, James",NFSC3046,1ST,E4,CHEM 325 Lab
+SC,CHEM 331:10,3,3,46033,46033,In-Person,"Gulam Razul, M.",NFSC3046,1ST,A4/A5/A6,Intro to Quantum Mechanics
+SC,CHEM 331L:10,0,0,46034,46034,In-Person,"Gulam Razul, M.",NFSC1096,1ST,O7/W8,CHEM 331 Lab
+SC,CHEM 332:20,3,3,46035,46035,In-Person,"Gulam Razul, M.",NT412,2ND,A4/A5/A6,Intro Spect & Thermodynamics
+SC,CHEM 332L:20,0,0,46036,46036,In-Person,"Gulam Razul, M.",NFSC1096,2ND,O8/X8,CHEM 332 Lab
+SC,CHEM 341:10,3,3,46758,46758,In-Person,"MacLean, Brian",NFSC3046,1ST,L1/L2/L3,Inorganic & Theoret Chem I
+SC,CHEM 341L:10,0,0,40960,40960,In-Person,"Aquino, Manuel",NFSC3066,1ST,U8/Z8,CHEM 341 Lab
+SC,CHEM 342:20,3,3,46759,46759,In-Person,"MacLean, Brian",NFSC3046,2ND,L1/L2/L3,Inorganic & Theoret Chem II
+SC,CHEM 342L:20,0,0,40961,40961,In-Person,"Aquino, Manuel",NFSC3066,2ND,U8/Z8,CHEM 342 Lab
+SC,CHEM 355:10,3,3,47253,47253,In-Person,"Foo, Alexander",NFSC3046,1ST,K1/K2/K3,Advanced Biochemistry
+SC,CHEM 355L:10,0,0,47254,47254,In-Person,"Foo, Alexander",NFSC3066,1ST,O8/X8,CHEM 355 Lab
+SC,CHEM 361:10,3,3,46037,46037,In-Person,"Bertin, Erwan",NFSC3046,1ST,L4/L5/L6,Instru Analytical Spectroscopy
+SC,CHEM 361L:11,0,0,46038,46038,In-Person,"Bertin, Erwan",NFSC3037,1ST,X7/Z7,CHEM 361 Lab
+SC,CHEM 362:20,3,3,46040,46040,In-Person,"Bertin, Erwan",NFSC3046,2ND,L4/L5/L6,Instru Separations & Analysis
+SC,CHEM 362L:21,0,0,46041,46041,In-Person,"Bertin, Erwan",NFSC3037,2ND,X7/Z7,CHEM 362 Lab
+SC,CHEM 362L:22,0,0,46042,46042,In-Person,"Bertin, Erwan",NFSC3037,2ND,O7/W8,CHEM 362 Lab
+SC,CHEM 391:00,0,0,51520,51520,In-Person,"Orlova, Galina",NFSC1072,FULL,K4/K5/K6,Chemistry Seminar I
+SC,CHEM 421:10,3,3,46043,46043,In-Person,"Orlova, Galina",NFSC3046,1ST,A1/A2/A3,Physical Organic Chemistry
+SC,CHEM 421L:10,0,0,46044,46044,In-Person,"Orlova, Galina",NFSC1096,1ST,U7/W7,CHEM 421 Lab
+SC,CHEM 422:20,3,3,46045,46045,In-Person,"Hallett-Tapley, Geniece",NFSC3046,2ND,A1/A2/A3,Advanced Organic Chemistry
+SC,CHEM 422L:20,0,0,46046,46046,In-Person,"Hallett-Tapley, Geniece",NFSC3066,2ND,U7/W7,CHEM 422 Lab
+SC,CHEM 423:10,3,3,56259,56259,In-Person,"MacLean, Brian",NFSC3046,1ST,C1/C2/C3,Industrial Organic & Inorganic
+SC,CHEM 434:20,3,3,58311,58311,In-Person,"Marangoni, Gerrard",CO265,2ND,C4/C5/C6,Colloids & Interfaces
+SC,CHEM 434L:20,0,0,58312,58312,In-Person,"Marangoni, Gerrard",,2ND,TBA,CHEM 434 Lab
+SC,CHEM 445:20,3,3,51047,51047,In-Person,"Hallett-Tapley, Geniece",NFSC3046,2ND,B4/B5/B6,Intro to Photochemistry
+SC,CHEM 455:10,3,3,58313,58313,In-Person,"Foo, Alexander",NFSC3046,1ST,B4/B5/B6,Medicinal Chemistry
+SC,CHEM 455L:10,0,0,58314,58314,In-Person,"Foo, Alexander",,1ST,TBA,CHEM 455 Lab
+SC,CHEM 490:00,6,6,57618,57618,In-Person,"Orlova, Galina",,FULL,TBA,Honours Thesis
+SC,CHEM 491:00,0,0,51521,51521,In-Person,"Foo, Alexander",NFSC1072,FULL,K4/K5/K6,Chemistry Seminar II
+SC,CHEM 493:00,3,3,57939,57939,In-Person,"Orlova, Galina",,FULL,TBA,Honours Thesis
+AR,CLAS 111:10,3,3,53569,53569,In-Person,"Carty, Edward (Ed)",AX23A,1ST,K4/K5/K6,Latin I
+AR,CLAS 112:20,3,3,56329,56329,In-Person,"Carty, Edward (Ed)",CO265,2ND,K4/K5/K6,Latin II
+AR,CLAS 198:10,3,3,58925,58925,In-Person,"Penner, Ken",BB305,1ST,K4/K5/K6,ST: Introductory Greek I
+AR,CLAS 241:20,3,3,58706,58706,In-Person,"Parks, Sara",BB237,2ND,U7/U8,Greek and Roman Mythology
+SC,CLEN 101:10,3,3,53708,53708,In-Person,"MacDougall, Andrew",MULH3034,1ST,L1/L2/L3,Intro to the Climate System
+SC,CLEN 101L:11,0,0,53709,53709,In-Person,"MacDougall, Andrew; Schumacher, Matthew",NFSC1080,1ST,U7/W7,CLEN 101 Lab
+SC,CLEN 101L:12,0,0,56997,56997,In-Person,"MacDougall, Andrew; Schumacher, Matthew",NFSC1080,1ST,O7/W8,CLEN 101 Lab
+SC,CLEN 102:20,3,3,53710,53710,In-Person,"Kellman, Lisa",MULH3034,2ND,L1/L2/L3,Intro to Environmental Systems
+SC,CLEN 102L:20,0,0,53711,53711,In-Person,"Kellman, Lisa",NFSC1080,2ND,U7/W7,CLEN 102 Lab
+SC,CLEN 201:10,3,3,55712,55712,In-Person,"McMillan,",CO110,1ST,E6,Climate Change and People
+SC,CLEN 202:20,3,3,58769,58769,In-Person,"Beltrami, Hugo",MULH4022,2ND,K1/K2/K3,Understanding Climate Change
+SC,CLEN 202L:20,0,0,53687,53687,In-Person,"Beltrami, Hugo",NFSC2041,2ND,O8/X8,CLEN 202 Lab
+SC,CLEN 301:10,3,3,55286,55286,In-Person,"Isnor, Richard",MULH3032,1ST,O7/O8,Intro to Science Policy
+SC,CLEN 304:10,3,3,58436,58436,In-Person,"MacDougall, Andrew",NFSC1080,1ST,E5,Regional Weather & Climate
+SC,CLEN 304L:10,0,0,58437,58437,In-Person,"MacDougall, Andrew",NFSC1080,1ST,X7/Z7,CLEN 304 Lab
+SC,CLEN 401:10,3,3,56255,56255,In-Person,"MacDougall, Andrew",,1ST,TBA,Climate & Environment Issues
+SC,CLEN 402:20,3,3,56758,56758,In-Person,"Beltrami, Hugo",,2ND,TBA,Climate/Environment Practicum
+SC,CLEN 490:00,6,6,58056,58056,In-Person,"MacDougall, Andrew",,FULL,TBA,Honours Thesis
+BU,COOP 130:10,0,0,58967,58967,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",SCHW205,C16,O8/X8,Professional Dev Workshop III
+BU,COOP 401:10,0,0,58935,58935,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C1,TBA,Work Term I
+BU,COOP 401:20,0,0,58936,58936,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C3,TBA,Work Term I
+BU,COOP 402:10,0,0,58937,58937,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C1,TBA,Work Term II
+BU,COOP 402:20,0,0,58938,58938,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C3,TBA,Work Term II
+BU,COOP 403:10,0,0,58939,58939,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C1,TBA,Work Term III
+BU,COOP 403:20,0,0,58940,58940,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C3,TBA,Work Term III
+BU,COOP 404:10,0,0,58941,58941,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C1,TBA,Work Term IV
+BU,COOP 404:20,0,0,58942,58942,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",,C3,TBA,Work Term IV
+BU,COOP 405:10,3,3,58943,58943,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",SCHW190,C11,O8/X8,Co-op Debrief & Final Report
+BU,COOP 405:20,3,3,58944,58944,In-Person,"MacDonald, Susan (Jane); McKenna, Sarah",SCHW190,C21,O8/X8,Co-op Debrief & Final Report
+SC,CSCI 128:20,3,3,53821,53821,In-Person,"Naeem, Mohammad",MULH4024,2ND,Z4/Z5,Coding for Problem Solving
+SC,CSCI 135:10,3,3,52908,52908,In-Person,"Cai, Hao",MULH4024,1ST,B4/B5/B6,Comp. Application Technology
+SC,CSCI 161:11,3,3,44866,44866,In-Person,"Hughes, James",MULH2070,1ST,K4/K5/K6,Intro to Programming
+SC,CSCI 161:12,3,3,55779,55779,In-Person,"Aljendi, Shadi",SCHW110,1ST,C1/C2/C3,Intro to Programming
+SC,CSCI 161L:11,0,0,44918,44918,In-Person,"Hughes, James",MULH4024,1ST,A9/L8,CSCI 161 Lab
+SC,CSCI 161L:12,0,0,54112,54112,In-Person,"Hughes, James",MULH4024,1ST,C9/K9,CSCI 161 Lab
+SC,CSCI 161L:13,0,0,55793,55793,In-Person,"Aljendi, Shadi",MULH4024,1ST,A7/C4,CSCI 161 Lab
+SC,CSCI 161L:14,0,0,55794,55794,In-Person,"Aljendi, Shadi",MULH4024,1ST,A5/K7,CSCI 161 Lab
+SC,CSCI 162:10,3,3,55587,55587,In-Person,"Delamer, Jean-Alexis",MULH4024,1ST,L1/L2/L3,Programming & Data Structures
+SC,CSCI 162:20,3,3,44768,44768,In-Person,"Hughes, James",MULH2032,2ND,K4/K5/K6,Programming & Data Structures
+SC,CSCI 162L:21,0,0,44920,44920,In-Person,"Hughes, James",MULH4024,2ND,A9/L8,CSCI 162 Lab
+SC,CSCI 162L:22,0,0,47895,47895,In-Person,"Hughes, James",MULH4024,2ND,C9/K9,CSCI 162 Lab
+SC,CSCI 215:20,3,3,52099,52099,In-Person,"Aljendi, Shadi",MULH3034,2ND,E6,Social Issues: Information Age
+SC,CSCI 223:10,3,3,53822,53822,In-Person,"King, Milton",MULH4024,1ST,B1/B2/B3,Introduction to Data Science
+SC,CSCI 225:10,3,3,54569,54569,In-Person,"Naeem, Mohammad",MULH2034,1ST,A4/A5/A6,Coding in Health Analytics
+SC,CSCI 255:10,3,3,46804,46804,In-Person,"Lin, Man",MULH3034,1ST,A1/A2/A3,Advanced Data Structures
+SC,CSCI 255:20,3,3,55588,55588,In-Person,"Delamer, Jean-Alexis",MULH2030,2ND,C1/C2/C3,Advanced Data Structures
+SC,CSCI 255L:10,0,0,56355,56355,In-Person,"Lin, Man",MULH4024,1ST,A8/L7,CSCI 255 Lab
+SC,CSCI 255L:20,0,0,56354,56354,In-Person,"Delamer, Jean-Alexis",MULH4024,2ND,A8/L7,CSCI 255 Lab
+SC,CSCI 263:20,3,3,49928,49928,In-Person,"King, Milton",MULH3030,2ND,L1/L2/L3,Computer Organization
+SC,CSCI 263L:20,0,0,49929,49929,In-Person,"King, Milton",MULH4024,2ND,C8/K8,CSCI 263 Lab
+SC,CSCI 275:20,3,3,52914,52914,In-Person,"Darwish, Tasneem",CO120,2ND,A1/A2/A3,Database Management Systems
+SC,CSCI 277:10,3,3,52892,52892,In-Person,"Finbow, Stephen",MULH2030,1ST,B4/B5/B6,Discrete Structures
+SC,CSCI 335:20,3,3,58733,58733,In-Person,"Wang, Ping",SCHW190,2ND,B4/B5/B6,Management Science
+SC,CSCI 340:10,3,3,58449,58449,In-Person,"Hughes, James",MULH4024,1ST,K1/K2/K3,Evolutionary Computation
+SC,CSCI 350:20,3,3,55591,55591,In-Person,"Levman, Jacob",MULH3024,2ND,K7/K8/K9,Biomedical Computation
+SC,CSCI 355:20,3,3,56071,56071,In-Person,"Smith, Taylor",MULH3022,2ND,B4/B5/B6,Data Struct & Algorithm Analy
+SC,CSCI 356:10,3,3,56357,56357,In-Person,"Smith, Taylor",BB236,1ST,C4/C5/C6,Theory of Computing
+SC,CSCI 361:10,3,3,58444,58444,In-Person,"King, Milton",MULH4032,1ST,L4/L5/L6,Natural Language Processing
+SC,CSCI 364:20,3,3,58450,58450,In-Person,"Lin, Man",IM202,2ND,L4/L5/L6,Mobile Application Development
+SC,CSCI 368:10,3,3,52104,52104,In-Person,"Darwish, Tasneem",MULH3026,1ST,K4/K5/K6,Data Communications & Networks
+SC,CSCI 368L:10,0,0,52105,52105,In-Person,"Darwish, Tasneem",MULH4024,1ST,B7/C7,CSCI 368 Lab
+SC,CSCI 375:10,3,3,52106,52106,In-Person,"Gondra Luja, Iker",SCHW289,1ST,W1/W2,Operating Systems
+SC,CSCI 375L:10,0,0,52107,52107,In-Person,"Gondra Luja, Iker",MULH4024,1ST,C8/K8,CSCI 375 Lab
+SC,CSCI 444:10,3,3,58445,58445,In-Person,"Levman, Jacob",BB236,1ST,K4/K5/K6,Machine Learning
+SC,CSCI 455:10,3,3,58451,58451,In-Person,"Aljendi, Shadi",MULH4022,1ST,S4/S5,Parallel Computing
+SC,CSCI 455L:10,0,0,58452,58452,In-Person,"Aljendi, Shadi",MULH4024,1ST,R4,CSCI 455 Lab
+SC,CSCI 483:10,3,3,58453,58453,In-Person,"Naeem, Mohammad",CO110,1ST,L7/L8/L9,Interactive Programming Java
+SC,CSCI 485:20,3,3,52920,52920,In-Person,"Cai, Hao",MULH2032,2ND,A4/A5/A6,Software Design
+SC,CSCI 487:20,3,3,58454,58454,In-Person,"Cai, Hao",MULH4032,2ND,K4/K5/K6,Org of Programming Languages
+SC,CSCI 490:00,6,6,57617,57617,In-Person,"Gondra Luja, Iker",,FULL,TBA,Honours Thesis
+SC,CSCI 491:00,0,0,51153,51153,In-Person,"Gondra Luja, Iker",MULH2070,FULL,A7,Senior Seminar
+SC,CSCI 493:00,3,3,57934,57934,In-Person,"Gondra Luja, Iker",,FULL,TBA,Senior Thesis
+SC,CSCI 495:20,3,3,53830,53830,In-Person,"Gondra Luja, Iker",CO265,2ND,W1/W2,Artificial Intelligence
+AR,DEVS 101:10J,3,3,52775,52775,In-Person,"Langdon, Jonathan",MULH3034,1ST,Z7/Z8,Intro to Development Studies
+AR,DEVS 101:20,3,3,56591,56591,In-Person,"Chattopadhyay, Sutapa",MULH2034,2ND,W7/W8,Intro to Development Studies
+AR,DEVS 201:10,3,3,47680,47680,In-Person,"Burnett, Kim",MULH3026,1ST,U7/U8,International Dev:Global South
+AR,DEVS 201:20,3,3,47681,47681,In-Person,"Chattopadhyay, Sutapa",CO110,2ND,W1/W2,International Dev:Global South
+AR,DEVS 202:10,3,3,47682,47682,In-Person,"Burnett, Kim",MULH3024,1ST,X4/X5,International Dev: Canada
+AR,DEVS 202:20,3,3,47683,47683,In-Person,"Burnett, Kim",MULH4032,2ND,U7/U8,International Dev: Canada
+AR,DEVS 203:10,3,3,55713,55713,In-Person,"McMillan,",CO110,1ST,E6,Climate Change and People
+AR,DEVS 211:10,3,3,57405,57405,In-Person,"Dodaro, Santo",MULH3026,1ST,X1/X2,Local/Community Econ Develop
+AR,DEVS 257:10,3,3,58418,58418,In-Person,"Forestell, Nancy",CO110,1ST,W7/W8,Canada & Global South
+AR,DEVS 302:10,3,3,58439,58439,In-Person,"Dodaro, Santo",MULH3022,1ST,U1/U2,Globalization & Development
+AR,DEVS 303:20,3,3,58440,58440,In-Person,"Burnett, Kim",MULH4032,2ND,Z4/Z5,"Power, People, Planet, Profit"
+AR,DEVS 305:10,3,3,58489,58489,In-Person,"Ozkok, Zeynep",IM202,1ST,Z7/Z8,Economic Development I
+AR,DEVS 306:20,3,3,58491,58491,In-Person,"Ozkok, Zeynep",MULH4032,2ND,Z7/Z8,Economic Development II
+AR,DEVS 311:10,3,3,57389,57389,In-Person,"Langdon, Jonathan",MULH3022,1ST,O7/W8,Issues - Development Practice
+AR,DEVS 315:10,3,3,58441,58441,In-Person,"Chattopadhyay, Sutapa",IM201,1ST,W1/W2,Gender & Development
+AR,DEVS 321:20,3,3,57427,57427,In-Person,"Alam, Rashedul",AX124,2ND,U4/U5,People and Development
+AR,DEVS 352:10,3,3,55360,55360,In-Person,"SAD - TBA,",SCHW156,1ST,W1/W2,Social Entrepreneurship
+AR,DEVS 355:20,3,3,58829,58829,In-Person,"EVS - TBA,",BB236,2ND,U7/U8,Global Issues
+AR,DEVS 371:20,3,3,58575,58575,In-Person,"Allen, Nathan",MULH3026,2ND,X1/X2,Pol Economy of Development
+AR,DEVS 401:20,3,3,57390,57390,In-Person,"Langdon, Jonathan",CO265,2ND,O7/W8,Theories of Development
+AR,DEVS 405:10,3,3,57388,57388,In-Person,"Fanjoy, Martha; Sousa, José (Wellington)",CO242,1ST,X7/Z4,Community-Based Dev
+AR,DEVS 412:10,3,3,58442,58442,In-Person,"Cameron, Sheena",,1ST,TBA,Dev. Studies Internship
+AR,DEVS 490:00,6,6,58443,58443,In-Person,"Dodaro, Santo",,FULL,TBA,Thesis
+AR,ECON 101:11,3,3,46070,46070,In-Person,"Rosborough, Jonathan",SCHW110,1ST,W4/W5,Introductory Microeconomics
+AR,ECON 101:12,3,3,46071,46071,In-Person,"Rosborough, Jonathan",MULH2070,1ST,W1/W2,Introductory Microeconomics
+AR,ECON 101:13,3,3,51295,51295,In-Person,"Withey, Patrick",BB237,1ST,Z1/Z2,Introductory Microeconomics
+AR,ECON 101:14,3,3,55796,55796,In-Person,"Dodaro, Santo",MULH2030,1ST,X4/X5,Introductory Microeconomics
+AR,ECON 102:21,3,3,46075,46075,In-Person,"Tkacz, Greg",SCHW110,2ND,W4/W5,Introductory Macroeconomics
+AR,ECON 102:22,3,3,46076,46076,In-Person,"Tkacz, Greg",MULH2070,2ND,W1/W2,Introductory Macroeconomics
+AR,ECON 102:23,3,3,51296,51296,In-Person,"Alessandrini, Diana",MULH2070,2ND,Z1/Z2,Introductory Macroeconomics
+AR,ECON 102:24,3,3,55847,55847,In-Person,"Alessandrini, Diana",IM114,2ND,Z4/Z5,Introductory Macroeconomics
+AR,ECON 201:11,3,3,46082,46082,In-Person,"Leo, Teng",MULH4030,1ST,U1/U2,Intermediate Microeconomics I
+AR,ECON 201:12,3,3,49330,49330,In-Person,"Leo, Teng",MULH4034,1ST,U4/U5,Intermediate Microeconomics I
+AR,ECON 201:21,3,3,49837,49837,In-Person,"Rosborough, Jonathan",CO120,2ND,W7/W8,Intermediate Microeconomics I
+AR,ECON 201:22,3,3,57409,57409,In-Person,"Withey, Patrick",MULH3022,2ND,X4/X5,Intermediate Microeconomics I
+AR,ECON 202:11,3,3,47690,47690,In-Person,"Ozkok, Zeynep",MULH4034,1ST,Z1/Z2,Intermediate Macroeconomics I
+AR,ECON 202:12,3,3,57410,57410,In-Person,"Ozkok, Zeynep",KC1018A,1ST,Z4/Z5,Intermediate Macroeconomics I
+AR,ECON 202:21,3,3,51741,51741,In-Person,"Dodaro, Santo",CO110,2ND,U1/U2,Intermediate Macroeconomics I
+AR,ECON 202:22,3,3,51742,51742,In-Person,"Dodaro, Santo",MULH4030,2ND,U4/U5,Intermediate Macroeconomics I
+AR,ECON 211:10,3,3,57404,57404,In-Person,"Dodaro, Santo",MULH3026,1ST,X1/X2,Local/Commun Development Econ
+AR,ECON 241:10,3,3,51743,51743,In-Person,"Tkacz, Greg",MULH2032,1ST,W1/W2,Cdn Econ Prospects/Challenges
+AR,ECON 242:20,3,3,54490,54490,In-Person,"Malloy, Brandon",MULH4030,2ND,U1/U2,Int'l Econ. Policy & Problems
+AR,ECON 271:20,3,3,58499,58499,In-Person,"Ozkok, Zeynep",MULH4034,2ND,S4/S5,Quant Methods in Economics
+AR,ECON 281:10,3,3,58498,58498,In-Person,"Withey, Patrick",MULH4030,1ST,U7/U8,Environmental Economics
+AR,ECON 291:20,3,3,56371,56371,In-Person,"Malloy, Brandon",SCHW156,2ND,R4/R5,"Leisure, Recreation & Sports"
+AR,ECON 301:20,3,3,57408,57408,In-Person,"Rosborough, Jonathan",MULH3034,2ND,W4/W5,Intermediate Microeconomics II
+AR,ECON 302:20,3,3,46790,46790,In-Person,"Alessandrini, Diana",MULH2032,2ND,Z7/Z8,Intermediate Macroeconomics II
+AR,ECON 305:10,3,3,58488,58488,In-Person,"Ozkok, Zeynep",IM202,1ST,Z7/Z8,Economic Development I
+AR,ECON 306:20,3,3,58490,58490,In-Person,"Ozkok, Zeynep",MULH4032,2ND,Z7/Z8,Economic Development II
+AR,ECON 335:10,3,3,53761,53761,In-Person,"Tkacz, Greg",MULH4034,1ST,W4/W5,Money &  Financial Markets I
+AR,ECON 336:20,3,3,58487,58487,In-Person,"Tkacz, Greg",MULH4034,2ND,O1/O2,Money & Financial Markets II
+AR,ECON 371:10,3,3,48406,48406,In-Person,"Leo, Teng",AX23A,1ST,U7/U8,Econometrics I
+AR,ECON 391:10,3,3,57413,57413,In-Person,"Alessandrini, Diana",SCHW289,1ST,X4/X5,Public Finance I
+AR,ECON 401:10,3,3,50402,50402,In-Person,"Rosborough, Jonathan",MULH4022,1ST,W7/W8,Advanced Microeconomics
+AR,ECON 402:20,3,3,56365,56365,In-Person,"Malloy, Brandon",MULH4030,2ND,U7/U8,Advanced Macroeconomics
+AR,ECON 471:20,3,3,58492,58492,In-Person,"Leo, Teng",SCHW190,2ND,W1/W2,Mathematical Economics
+AR,ECON 472:20,3,3,58638,58638,In-Person,"Leo, Teng",MULH4022,2ND,W7/W8,Advanced Econometrics
+AR,ECON 493:10,3,3,51294,51294,In-Person,"Alessandrini, Diana",MULH3022,1ST,X7/X8,Seminar
+AR,ECON 494:00,3,3,46923,46923,In-Person,"Withey, Patrick",,FULL,TBA,Thesis
+ED,EDUC 405A:P5,3,3,59034,59034,In-Person,"Jaskowiak, Kajetan (Kajtek)",Off-campus,OE2,TBA,Teaching Cooperative Games
+ED,EDUC 406:20,3,3,56110,56110,In-Person,"DUC - TBA,",XH328,2ND,A8/A9/B9/L7,Classroom Management
+ED,EDUC 407:20,3,3,56112,56112,In-Person,"Foran, Andrew",CO150,2ND,A1/B1/B2/C2,Outdoor Ed: Winter Pursuits
+ED,EDUC 408:10,3,3,56714,56714,In-Person,"Oakes, Laurie",XH228B,1ST,B7/C7/C8/K8,Learning Disabilities
+ED,EDUC 411:11,3,3,48657,48657,In-Person,"Fairbrother, Michael",XH126,1ST,A3/K1/L1/L2,C & I Language & Literacy I
+ED,EDUC 412A:10,3,3,54907,54907,In-Person,"Husband, Marc",XH126,1ST,A2/B3/K4/L5,C & I in Early Elementary Math
+ED,EDUC 412B:20,3,3,54909,54909,In-Person,"Husband, Marc","XH228B , MULH3032",2ND,A3/K1/L1/L2,C & I Upper Elementary Math
+ED,EDUC 412B:47,3,3,59025,59025,In-Person,"Husband, Marc",Off-campus,OC5,TBA,C & I Upper Elementary Math
+ED,EDUC 412B:58,3,3,59026,59026,In-Person,"Morris, Ann",Off-campus,OC5,TBA,C & I Upper Elementary Math
+ED,EDUC 413:11,3,3,55748,55748,In-Person,"Sylliboy, Simon",CO150,1ST,A1/B1/B2/C2,C & I in Science
+ED,EDUC 413:12,3,3,58905,58905,In-Person,"Sylliboy, Simon",CO150,1ST,A3/K1/L1/L2,C & I in Science
+ED,EDUC 414:20,3,3,54917,54917,In-Person,"Fairbrother, Michael",XH126,2ND,A2/B3/K4/L5,C & I Elementary Lang Arts II
+ED,EDUC 414:47,3,3,59014,59014,In-Person,"Fairbrother, Michael",Off-campus,OC1,TBA,C & I Elementary Lang Arts II
+ED,EDUC 415:21,3,3,54073,54073,In-Person,"Tucker, Allison",CO150,2ND,A2/B3/K4/L5,Integration of Curriculum
+ED,EDUC 415:22,3,3,58912,58912,In-Person,"Clarke, Carolyn",CO342,2ND,A2/B3/K4/L5,Integration of Curriculum
+ED,EDUC 415:47,3,3,59018,59018,In-Person,"Astephen, Cynthia (Cindy)",Off-campus,OC2,TBA,Integration of Curriculum
+ED,EDUC 415:58,3,3,59015,59015,In-Person,"Clarke, Carolyn",Off-campus,OC1,TBA,Integration of Curriculum
+ED,EDUC 416:10,3,3,55746,55746,In-Person,"Ankomah, William",XH228B,1ST,A1/B1/B2/C2,C & I Elementary Soc Studies
+ED,EDUC 416:20,3,3,58913,58913,In-Person,"Ankomah, William",CO150,2ND,A3/K1/L1/L2,C & I Elementary Soc Studies
+ED,EDUC 416:47,3,3,59028,59028,In-Person,"Ankomah, William",Off-campus,OC6,TBA,C & I Elementary Soc Studies
+ED,EDUC 418:10,3,3,58907,58907,In-Person,"Smith, Bryan",CO150,1ST,B7/C7/C8/K8,Elem Physical/Health Education
+ED,EDUC 421A:10,3,3,56762,56762,In-Person,"Mitton, Jennifer",XH228A,1ST,A1/B1/B2/C2,C & I Secondary English I
+ED,EDUC 421A:47,3,3,59036,59036,In-Person,"Fairbrother, Michael",Off-campus,OC1,TBA,C & I Secondary English I
+ED,EDUC 421B:20,3,3,56763,56763,In-Person,"Mitton, Jennifer",XH228A,2ND,A1/B1/B2/C2,C & I Secondary English II
+ED,EDUC 422A:10,3,3,49157,49157,In-Person,"Robinson, Ingrid",XH328,1ST,A3/K1/L1/L2,C & I Sec. Social Studies I
+ED,EDUC 422B:20,3,3,47739,47739,In-Person,"Robinson, Ingrid",XH328,2ND,A3/K1/L1/L2,C & I Sec. Social Studies II
+ED,EDUC 423A:10,3,3,56712,56712,In-Person,"Malcolm, Cheryl",XH228B,1ST,A2/B3/K4/L5,C & I Secondary Mathematics I
+ED,EDUC 423A:47,3,3,59017,59017,In-Person,,Off-campus,OC2,TBA,C & I Secondary Mathematics I
+ED,EDUC 423B:20,3,3,56721,56721,In-Person,"Malcolm, Cheryl",XH228B,2ND,A2/B3/K4/L5,C & I Secondary Mathematics II
+ED,EDUC 425A:10,3,3,56719,56719,In-Person,"Smith, Bryan",XH126,1ST,A5/A6/B6/L4,C & I Secondary Phys Ed I
+ED,EDUC 425B:20,3,3,56730,56730,In-Person,"Smith, Bryan",XH126,2ND,A5/A6/B6/L4,C & I Secondary Phys Ed II
+ED,EDUC 427A:10,3,3,47743,47743,In-Person,"MacLeod, Katarin",XH124,1ST,A1/B1/B2/C2,C & I Secondary Science I
+ED,EDUC 427B:20,3,3,47744,47744,In-Person,"MacLeod, Katarin",XH124,2ND,A1/B1/B2/C2,C & I Secondary Science II
+ED,EDUC 428A:10,3,3,47745,47745,In-Person,"MacInnis, Ashley",XH228A,1ST,B7/C7/C8/K8,C & I Secondary French I
+ED,EDUC 428B:20,3,3,47746,47746,In-Person,"MacInnis, Ashley",XH228A,2ND,B7/C7/C8/K8,C & I Secondary French II
+ED,EDUC 432A:11,3,3,47748,47748,In-Person,"Hadley, Gregory (Greg)",XH228B,1ST,A4/B5/C1/K2,Principles & Practices Sec. I
+ED,EDUC 432A:12,3,3,52247,52247,In-Person,"Smith, Bryan",XH328,1ST,A4/B5/C1/K2,Principles & Practices Sec. I
+ED,EDUC 432B:21,3,3,47751,47751,In-Person,"Hadley, Gregory (Greg)",XH228B,2ND,A4/B5/C1/K2,Principles & Practices Sec. II
+ED,EDUC 432B:22,3,3,52249,52249,In-Person,"Smith, Bryan",XH328,2ND,A4/B5/C1/K2,Principles & Practices Sec. II
+ED,EDUC 433:11,3,3,47181,47181,In-Person,"Coelho, Carla",XH328,1ST,A5/B6/K7/L8,Sociology of Education
+ED,EDUC 433:12,3,3,47182,47182,In-Person,"Mackey, Wendy",CO150,1ST,A5/B6/K7/L8,Sociology of Education
+ED,EDUC 433:13,3,3,45210,45210,In-Person,"Kearns, Laura-Lee",CO342,1ST,A5/B6/K7/L8,Sociology of Education
+ED,EDUC 434:21,3,3,46375,46375,In-Person,"Jutras, Michael (Mickey)",XH228B,2ND,A7/B8/C4/K5,Contemp Issues in Public Educ
+ED,EDUC 434:22,3,3,46376,46376,In-Person,"Hadley, Gregory (Greg)",XH328,2ND,A7/B8/C4/K5,Contemp Issues in Public Educ
+ED,EDUC 434:23,3,3,51312,51312,In-Person,"Smith, Bryan",XH126,2ND,A7/B8/C4/K5,Contemp Issues in Public Educ
+ED,EDUC 434:47,3,3,59027,59027,In-Person,"McMullen, Jennifer",Off-campus,OC6,TBA,Contemp Issues in Public Educ
+ED,EDUC 434:58,3,3,59029,59029,In-Person,"Patterson, Garnet",Off-campus,OC6,TBA,Contemp Issues in Public Educ
+ED,EDUC 435:21,3,3,47197,47197,In-Person,"Carter, Ellen",XH328,2ND,A5/B6/K7/L8,Inclusive Practices I
+ED,EDUC 435:22,3,3,47198,47198,In-Person,"Mackey, Wendy",CO150,2ND,A5/B6/K7/L8,Inclusive Practices I
+ED,EDUC 435:23,3,3,45209,45209,In-Person,"Kearns, Laura-Lee",CO342,2ND,A5/B6/K7/L8,Inclusive Practices I
+ED,EDUC 436:11,3,3,47183,47183,In-Person,"Gilham, Christopher",XH228B,1ST,A7/B8/C4/K5,Inclusive Practices II
+ED,EDUC 436:12,3,3,47184,47184,In-Person,"Keith, Erin",XH126,1ST,A7/B8/C4/K5,Inclusive Practices II
+ED,EDUC 436:13,3,3,47185,47185,In-Person,,XH328,1ST,A7/B8/C4/K5,Inclusive Practices II
+ED,EDUC 436:47,3,3,59013,59013,In-Person,"Balignasay, Janet",Off-campus,OC1,TBA,Inclusive Practices II
+ED,EDUC 436:48,3,3,59019,59019,In-Person,"Balignasay, Janet",Off-campus,OC2,TBA,Inclusive Practices II
+ED,EDUC 437:10,3,3,44662,44662,In-Person,"Kennedy, Kathryn (Marie)",XH228B,1ST,A8/A9/B9/L7,School Counselling
+ED,EDUC 438:11,3,3,48073,48073,In-Person,"Malcolm, Cheryl",XH228B,1ST,A5/B6/K7/L8,Assessment for & of Learning
+ED,EDUC 438:12,3,3,50163,50163,In-Person,"Hadley, Gregory (Greg)",CO342,1ST,A2/B3/K4/L5,Assessment for & of Learning
+ED,EDUC 438:47,3,3,59012,59012,In-Person,"Barclay, Alexandra (Ali)",Off-campus,OC1,TBA,Assessment for & of Learning
+ED,EDUC 438:48,3,3,59037,59037,In-Person,"Tucker, Allison",Off-campus,OC3,TBA,Assessment for & of Learning
+ED,EDUC 439A:10,3,3,47753,47753,In-Person,"Clarke, Carolyn",XH126,1ST,A4/B5/C1/K2,Principles & Practices Elem I
+ED,EDUC 439B:20,3,3,47754,47754,In-Person,"Clarke, Carolyn",XH126,2ND,A1/B1/B2/C2,Principles & Practices Elem II
+ED,EDUC 440:21,3,3,48066,48066,In-Person,"Coelho, Carla",CO342,2ND,A4/B5/C1/K2,Literacy in the Content Areas
+ED,EDUC 440:22,3,3,48067,48067,In-Person,"Coelho, Carla",XH328,2ND,A2/B3/K4/L5,Literacy in the Content Areas
+ED,EDUC 444:10,3,3,43968,43968,In-Person,"Foran, Andrew",XH126,1ST,B7/C7/C8/K8,Outdoor Experiential Education
+ED,EDUC 447:20,3,3,56720,56720,In-Person,"Gilham, Christopher",XH228B,2ND,A5/B6/K7/L8,Mental Health Education
+ED,EDUC 447:47,3,3,59024,59024,In-Person,,Off-campus,OC5,TBA,Mental Health Education
+ED,EDUC 448A:10,3,3,58908,58908,In-Person,"MacGillivray, Shari",,1ST,A8/A9/B9/L7,C & I Sec Family Studies I
+ED,EDUC 448B:20,3,3,58909,58909,In-Person,"Synishin, Suzanne",,2ND,A8/A9/B9/L7,C & I Sec Family Studies II
+ED,EDUC 448B:47,3,3,59038,59038,In-Person,,Off-campus,OC5,TBA,C & I Sec Family Studies II
+ED,EDUC 457A:10,3,3,56707,56707,In-Person,"Robinson, Daniel",CO150,1ST,A7/B8/C4/K5,C & I Early Elementary Phys Ed
+ED,EDUC 457B:20,3,3,56724,56724,In-Person,"Robinson, Daniel",CO150,2ND,A7/B8/C4/K5,C & I Upper Elem Phys Ed
+ED,EDUC 458:20,3,3,58911,58911,In-Person,"Power, Rachel",XH124,2ND,A8/A9/B9/L7,C & I in Visual Arts
+ED,EDUC 458:47,3,3,59030,59030,In-Person,"Power, Rachel",Off-campus,OC7,TBA,C & I in Visual Arts
+ED,EDUC 458:58,3,3,59020,59020,In-Person,"Power, Rachel",Off-campus,OC2,TBA,C & I in Visual Arts
+ED,EDUC 463:11,3,3,56732,56732,In-Person,"Tucker, Allison",CO150,1ST,A4/B5/C1/K2,Elementary Assessment
+ED,EDUC 463:12,3,3,58914,58914,In-Person,"Tucker, Allison",CO150,1ST,A2/B3/K4/L5,Elementary Assessment
+ED,EDUC 463:47,3,3,59021,59021,In-Person,"Tucker, Allison",Off-campus,OC3,TBA,Elementary Assessment
+ED,EDUC 464:10,3,3,57288,57288,In-Person,"Chisholm-MacDonald, Mary (Darlene)",XH126,1ST,A8/A9/B9/L7,Environmental Education
+ED,EDUC 464:47,3,3,59016,59016,In-Person,"Chisholm-MacDonald, Mary (Darlene)",Off-campus,OC2,TBA,Environmental Education
+ED,EDUC 469A:20,3,3,58915,58915,In-Person,"Sylliboy, Simon",XH228B,2ND,B7/C7/C8/K8,ST: Indigenous Pedagogy
+ED,EDUC 469B:20,3,3,58910,58910,In-Person,"Tucker, Allison",XH126,2ND,A4/B5/C1/K2,ST: Elementary Play Learning
+ED,EDUC 471:10,3,3,44007,44007,In-Person,"Powers, Rebecca (Becky)",,1ST,TBA,Internship I
+ED,EDUC 472:10,3,3,58929,58929,In-Person,"Power, Rachel",,1ST,TBA,Internship II
+ED,EDUC 472:20,3,3,44008,44008,In-Person,"Powers, Rebecca (Becky)",,2ND,TBA,Internship II
+ED,EDUC 481:10,3,3,44009,44009,In-Person,"Powers, Rebecca (Becky)",,1ST,TBA,Internship III
+ED,EDUC 481:20,3,3,58930,58930,In-Person,"Power, Rachel",,2ND,TBA,Internship III
+ED,EDUC 481:47,3,3,59022,59022,In-Person,,Off-campus,OC4,TBA,Internship III
+ED,EDUC 481:58,3,3,59023,59023,In-Person,,Off-campus,OC4,TBA,Internship III
+ED,EDUC 482:10,3,3,58928,58928,In-Person,"Power, Rachel",,1ST,TBA,Internship IV
+ED,EDUC 482:20,3,3,56220,56220,In-Person,"Powers, Rebecca (Becky)",,2ND,TBA,Internship IV
+ED,EDUC 482:47,3,3,59031,59031,In-Person,,Off-campus,OC8,TBA,Internship IV
+ED,EDUC 482:58,3,3,59032,59032,In-Person,,Off-campus,OC8,TBA,Internship IV
+SC,EESC 171:10,3,3,58754,58754,In-Person,"McCarron, Travis",IM114,1ST,L4/L5/L6,Understanding the Earth
+SC,EESC 171L:11,0,0,58755,58755,In-Person,"Rennie, Colette; McCarron, Travis",NFSC2041,1ST,R4,EESC 171 Lab
+SC,EESC 171L:12,0,0,58786,58786,In-Person,"Rennie, Colette; McCarron, Travis",NFSC2041,1ST,Z7,EESC 171 Lab
+SC,EESC 172:20,3,3,58757,58757,In-Person,"Risk, David",MULH2034,2ND,L4/L5/L6,"Envir., Climate & Resources"
+SC,EESC 172L:21,0,0,58758,58758,In-Person,"Rennie, Colette",NFSC2041,2ND,R4,EESC 172 Lab
+SC,EESC 172L:22,0,0,58759,58759,In-Person,"Rennie, Colette",NFSC2041,2ND,Z7,EESC 172 Lab
+SC,EESC 173:10,3,3,58761,58761,In-Person,"Cunningham, Celeste",NFSC1072,1ST,S4/S5,Natural Hazards
+SC,EESC 245:20,3,3,58762,58762,In-Person,"McCarron, Travis",NFSC2045,2ND,B1/B2/B3,Structural Geology
+SC,EESC 245L:20,0,0,58763,58763,In-Person,"McCarron, Travis",NFSC2034,2ND,U7/W7,EESC 245 Lab
+SC,EESC 265:20,3,3,58764,58764,In-Person,"Clark, Matthew",NFSC2045,2ND,A1/A2/A3,Data Analysis: Earth/Envir Sci
+SC,EESC 265L:20,0,0,58765,58765,In-Person,"Clark, Matthew",NFSC2041,2ND,U8/Z8,EESC 265 Lab
+SC,EESC 266:10,3,3,58795,58795,In-Person,"Kellman, Lisa",NFSC2045,1ST,B4/B5/B6,Hydrology
+SC,EESC 266L:10,0,0,58767,58767,In-Person,"Kellman, Lisa",NFSC2045,1ST,U8/Z8,EESC 266 Lab
+SC,EESC 272:20,3,3,58768,58768,In-Person,"Beltrami, Hugo",MULH4022,2ND,K1/K2/K3,Understanding Climate Change
+SC,EESC 272L:20,0,0,58770,58770,In-Person,"Beltrami, Hugo",NFSC2041,2ND,O8/X8,EESC 272 Lab
+SC,EESC 273:10,3,3,58771,58771,In-Person,"Bambrick Banks, Jillian",NFSC1072,1ST,E6,Health & the Environment
+SC,EESC 274:20,3,3,58772,58772,In-Person,"Bambrick Banks, Jillian",NFSC1072,2ND,E6,Health Impacts: Climate Change
+SC,EESC 277:20,3,3,58773,58773,In-Person,"Bambrick Banks, Jillian",IM114,2ND,K4/K5/K6,The Earth in Everyday Life
+SC,EESC 279:10,3,3,58774,58774,In-Person,"Cunningham, Celeste",NFSC2041,1ST,B1/B2/B3,Earth's Crustal Materials
+SC,EESC 279L:10,0,0,58775,58775,In-Person,"Cunningham, Celeste",NFSC2034,1ST,U7/W7,EESC 279 Lab
+SC,EESC 301:20,3,3,58793,58793,In-Person,"Archibald, Donnelly",NFSC2045,2ND,C1/C2/C3,Genesis of Igneous Rocks
+SC,EESC 301L:20,0,0,58794,58794,In-Person,"Archibald, Donnelly",NFSC2045,2ND,U7/W7,EESC 301 Lab
+SC,EESC 303:10,3,3,58791,58791,In-Person,"McCarron, Travis",NFSC2045,1ST,E5,Mineralogy
+SC,EESC 303L:10,0,0,58792,58792,In-Person,"McCarron, Travis",NFSC2041,1ST,U8/Z8,EESC 303 Lab
+SC,EESC 304:20,3,3,58777,58777,In-Person,"Cunningham, Celeste",NFSC2041,2ND,C4/C5/C6,Sedimentology & Stratigraphy
+SC,EESC 304L:20,0,0,58778,58778,In-Person,"Cunningham, Celeste",NFSC2034,2ND,O7/W8,EESC 304 Lab
+SC,EESC 305:20,3,3,58787,58787,In-Person,"McCarron, Travis",NFSC2045,2ND,B4/B5/B6,Geochemistry
+SC,EESC 305L:20,0,0,58788,58788,In-Person,"McCarron, Travis",NFSC2045,2ND,U8/Z8,EESC 305 Lab
+SC,EESC 365:10,3,3,58779,58779,In-Person,"Bambrick Banks, Jillian",NFSC2041,1ST,C4/C5/C6,Geomorphol & Quanternary Geol
+SC,EESC 365L:10,0,0,58780,58780,In-Person,"Bambrick Banks, Jillian",NFSC2034,1ST,X7/Z7,EESC 365 Lab
+SC,EESC 376:20,3,3,58781,58781,In-Person,"Clark, Matthew",,2ND,TBA,Envir Earth Sci Field Course
+SC,EESC 377:20,3,3,58782,58782,In-Person,"Clark, Matthew",NFSC2045,2ND,E6,Earth Observing
+SC,EESC 377L:20,0,0,58783,58783,In-Person,"Clark, Matthew",NFSC2045,2ND,O7/W8,EESC 377 Lab
+SC,EESC 473:20,3,3,58789,58789,In-Person,"Risk, David",NFSC2045,2ND,L1/L2/L3,Sustainable Energy Systems
+SC,EESC 473L:20,0,0,58790,58790,In-Person,"Risk, David",NFSC2045,2ND,X7/Z7,EESC 473 Lab
+SC,EESC 490:00,6,6,58852,58852,In-Person,"Bambrick Banks, Jillian",,FULL,TBA,Honours Thesis
+SC,EESC 491:00,0,0,58784,58784,In-Person,"Bambrick Banks, Jillian",NFSC2045,FULL,A5,Senior Seminar
+AR,ENGL 100:00H,6,6,58526,58526,In-Person,"Khoury, Joseph",MULH3024,FULL,B4/B5/B6,Literature & Critical Writing
+AR,ENGL 111:11,3,3,51834,51834,In-Person,"Nilges, Mathias",MULH4034,1ST,E5,Lit. & Academic Writing I
+AR,ENGL 111:12,3,3,51835,51835,In-Person,"Estill, Laura",MULH3022,1ST,O4/O5,Lit. & Academic Writing I
+AR,ENGL 111:13,3,3,51836,51836,In-Person,"Moynagh, Maureen",MULH3022,1ST,A4/A5/A6,Lit. & Academic Writing I
+AR,ENGL 111:14,3,3,51837,51837,In-Person,"Wilputte, Earla",CO265,1ST,K1/K2/K3,Lit. & Academic Writing I
+AR,ENGL 111:15,3,3,51838,51838,In-Person,"Wright, Kailin",MULH3024,1ST,W7/W8,Lit. & Academic Writing I
+AR,ENGL 111:16,3,3,55615,55615,In-Person,"Wright, Kailin",MULH3022,1ST,W4/W5,Lit. & Academic Writing I
+AR,ENGL 111:17,3,3,58554,58554,In-Person,"Rushton, Cory",MULH4034,1ST,E4,Lit. & Academic Writing I
+AR,ENGL 111:18,3,3,58555,58555,In-Person,"Wilputte, Earla",CO265,1ST,A1/A2/A3,Lit. & Academic Writing I
+AR,ENGL 111:19,3,3,58654,58654,In-Person,"Potts, Jason",MULH3024,1ST,Z1/Z2,Lit. & Academic Writing I
+AR,ENGL 111:21,3,3,58527,58527,In-Person,"Moynagh, Maureen",MULH4022,2ND,A4/A5/A6,Lit. & Academic Writing I
+AR,ENGL 111:22,3,3,58528,58528,In-Person,"D'Arcy, Michael",MULH3022,2ND,E4,Lit. & Academic Writing I
+AR,ENGL 111:23,3,3,58529,58529,In-Person,"McGillivray, Mary",MULH3026,2ND,W7/W8,Lit. & Academic Writing I
+AR,ENGL 111:24,3,3,58530,58530,In-Person,"McGillivray, Mary",MULH3034,2ND,Z7/Z8,Lit. & Academic Writing I
+AR,ENGL 111:25,3,3,57254,57254,In-Person,"Nilges, Mathias",MULH4022,2ND,E5,Lit. & Academic Writing I
+AR,ENGL 111:66,3,3,58865,58865,Online-No Scheduled Delivery,"D'Arcy, Michael",Online,1ST,TBA,Lit. & Academic Writing I
+AR,ENGL 111:67,3,3,58895,58895,Online-Scheduled Delivery,"Kilfoil, Kara",Online,2ND,TBA,Lit. & Academic Writing I
+AR,ENGL 204:20,3,3,58553,58553,In-Person,"Estill, Laura",SCHW290,2ND,O4/O5,Shakespeare: Page/Stage/Online
+AR,ENGL 210:10,3,3,58540,58540,In-Person,"Rushton, Cory",SCHW190,1ST,U7/U8,Bodies and Words
+AR,ENGL 215:11,3,3,56795,56795,In-Person,"Potts, Jason",AX124,1ST,Z4/Z5,Literary Criticism Principles
+AR,ENGL 219:10,3,3,58538,58538,In-Person,"Potts, Jason",CO265,1ST,W4/W5,How to Tell a Story
+AR,ENGL 220:20,3,3,58548,58548,In-Person,"Rushton, Cory",MULH3026,2ND,U7/U8,"The Horror, The Horror"
+AR,ENGL 225:20,3,3,58549,58549,In-Person,"Smith, Douglas",MULH3022,2ND,U7/U8,Creative Writing: Children's
+AR,ENGL 226:10,3,3,58539,58539,In-Person,"Estill, Laura",CO265,1ST,X4/X5,Tablet to Tablet: Texts & Tech
+AR,ENGL 227:20,3,3,58546,58546,In-Person,"McGillivray, Mary",MULH3026,2ND,W4/W5,Writing From Here
+AR,ENGL 232:20,3,3,58547,58547,In-Person,"Potts, Jason",CO242,2ND,W4/W5,Why Care About Characters
+AR,ENGL 233:10,3,3,58531,58531,In-Person,"Wright, Kailin",AX124,1ST,U7/U8,Children's Lit: 1865-Present
+AR,ENGL 236:20,3,3,55623,55623,In-Person,"Rushton, Cory",MULH4034,2ND,U4/U5,Children's Film & Television
+AR,ENGL 248:10,3,3,58536,58536,In-Person,"Nilges, Mathias",MULH3026,1ST,E4,Cli-Fi and Environmental Lit
+AR,ENGL 249:10,3,3,58537,58537,In-Person,"D'Arcy, Michael",MULH4022,1ST,E4,Detective Fiction & Film
+AR,ENGL 253:10,3,3,58648,58648,In-Person,"Wilputte, Earla",CO265,1ST,U4/U5,Coffeehouse Culture
+AR,ENGL 254:20,3,3,58544,58544,In-Person,"Wilputte, Earla",CO120,2ND,U4/U5,Topics:18th Century Literature
+AR,ENGL 257:20,3,3,58543,58543,In-Person,"Nilges, Mathias",SCHW290,2ND,E4,21st Century American Novel
+AR,ENGL 267:10,3,3,55628,55628,In-Person,"Smith, Douglas",SCHW289,1ST,U7/U8,Introductory Creative Writing
+AR,ENGL 282:20,3,3,58463,58463,In-Person,"Moynagh, Maureen",MULH3022,2ND,Z7/Z8,Literatures of Global Justice
+AR,ENGL 301:10,3,3,58542,58542,In-Person,"D'Arcy, Michael",MULH3022,1ST,E5,European Film
+AR,ENGL 304:20,3,3,58552,58552,In-Person,"Khoury, Joseph",CO120,2ND,Z4/Z5,Early Tudor & Elizabethan Ren
+AR,ENGL 314:20,3,3,58649,58649,In-Person,"D'Arcy, Michael",MULH4032,2ND,E5,Contemporary Literary Theory
+AR,ENGL 322:10,3,3,57268,57268,In-Person,"Smith, Douglas",SCHW289,1ST,W7/W8,Intermediate Creative Writing
+AR,ENGL 327:10,3,3,58466,58466,In-Person,"MacLeod, Robbie",IM201,1ST,X4/X5,Medieval Ireland
+AR,ENGL 328:20,3,3,58468,58468,In-Person,"MacLeod, Robbie",IM201,2ND,X4/X5,Medieval Wales
+AR,ENGL 329:10,3,3,58462,58462,In-Person,"Moynagh, Maureen",MULH3022,1ST,Z7/Z8,Studies in Women Writers
+AR,ENGL 338:20,3,3,58545,58545,In-Person,"Wright, Kailin",BB337,2ND,U7/U8,Studies in Canadian Drama
+AR,ENGL 339:20,3,3,58550,58550,In-Person,"Nilges, Mathias",AX124,2ND,W7/W8,Cultural Theory Pop Culture
+AR,ENGL 365:10,3,3,58534,58534,In-Person,"Stewart, Suzanne",SCHW289,1ST,Z7/Z8,Canadian Fiction
+AR,ENGL 379:20,3,3,58841,58841,In-Person,"Potts, Jason",CO242,2ND,Z4/Z5,American Literature
+AR,ENGL 388:20,3,3,58551,58551,In-Person,"Rushton, Cory",CO242,2ND,X4/X5,Heroic Literature: Middle Ages
+AR,ENGL 391:10,3,3,57620,57620,In-Person,"McGillivray, Mary",CO242,1ST,W7/W8,ST: Poetry of Atlantic Canada
+AR,ENGL 397:20,3,3,57627,57627,In-Person,"Wilputte, Earla",BB305,2ND,W7/W8,ST: Coquette
+AR,ENGL 400:00,6,6,47049,47049,In-Person,"Khoury, Joseph",,FULL,TBA,Honours Thesis
+AR,ENGL 491:10,3,3,55638,55638,In-Person,"McGillivray, Mary",CO242,1ST,W7/W8,ST: Poetry of Atlantic Canada
+AR,ENGL 492:20,3,3,55640,55640,In-Person,"Wilputte, Earla",BB305,2ND,W7/W8,ST: Coquette
+AR,ENGL 497:00,0,0,44116,44116,In-Person,"Khoury, Joseph",,FULL,TBA,Advanced Major Thesis
+SC,ENGR 121:10,3,3,46958,46958,In-Person,"Zhou, Ping",SCHW110,1ST,A1/A2/A3/K4,Calculus I for Engineers
+SC,ENGR 121L:11,0,0,41019,41019,In-Person,"Keizer, Peter",AX124,1ST,A4,ENGR 121 Problem Session
+SC,ENGR 121L:12,0,0,54606,54606,In-Person,"Keizer, Peter",CO242,1ST,B5,ENGR 121 Problem Session
+SC,ENGR 122:20,3,3,46959,46959,In-Person,"Zhou, Ping",MULH2030,2ND,A1/A2/A3/K4,Calculus II for Engineers
+SC,ENGR 122L:21,0,0,41021,41021,In-Person,"Keizer, Peter",MULH3024,2ND,A4,ENGR 122 Problem Session
+SC,ENGR 122L:22,0,0,54608,54608,In-Person,"Keizer, Peter",AX124,2ND,B5,ENGR 122 Problem Session
+SC,ENGR 123:10,3,3,53813,53813,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A1/K5/L1,Linear Algebra for Engineers
+SC,ENGR 123L:10,0,0,53815,53815,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A3/L2,ENGR 123 Lab
+SC,ENGR 128:10,3,3,54129,54129,In-Person,"MacDonald, Brittany",GM001,1ST,K1/K2/K3,Engineering Design & Graphics
+SC,ENGR 128L:11,0,0,54130,54130,In-Person,"MacDonald, Brittany",NFSC3035,1ST,O7/W8,ENGR 128 Lab
+SC,ENGR 128L:12,0,0,54131,54131,In-Person,"Azad, Mohammad",NFSC3035,1ST,U8/Z8,ENGR 128 Lab
+SC,ENGR 132:20,3,3,49900,49900,In-Person,"NGR - TBA,",NFSC1072,2ND,E7,Technical Communications
+SC,ENGR 132L:20,0,0,57902,57902,In-Person,"NGR - TBA,",MULH3034,2ND,C9/K9,ENGR Design I Lab
+SC,ENGR 136:20,3,3,46937,46937,In-Person,"Oguejiofor, Emeka",NFSC3034,2ND,B6/C1/C2,Statics
+SC,ENGR 136L:21,0,0,43034,43034,In-Person,"Azad, Mohammad",NFSC3035,2ND,O7/W8,ENGR 136 Lab
+SC,ENGR 136L:22,0,0,50874,50874,In-Person,"Azad, Mohammad",NFSC3035,2ND,U8/Z8,ENGR 136 Lab
+SC,ENGR 147:10,3,3,58844,58844,In-Person,"Comeau, Frank",KC1018A,1ST,L1/L2/L3,Computer Programming
+SC,ENGR 147L:10,0,0,58845,58845,In-Person,"Comeau, Frank",MULH3032,1ST,E7,ENGR 147 Lab
+SC,ENGR 211:10,3,3,48907,48907,In-Person,"MacDonald, Brittany",NFSC3034,1ST,C1/C2/C3,Thermo-Fluids I
+SC,ENGR 211L:10,0,0,48908,48908,In-Person,"Azad, Mohammad",NFSC3034,1ST,O8/X8,ENGR 211 Lab
+SC,ENGR 212:20,3,3,48909,48909,In-Person,"MacDonald, Brittany",NFSC3034,2ND,C4/C5/C6,Thermo-Fluids II
+SC,ENGR 212L:20,0,0,48910,48910,In-Person,"Azad, Mohammad",NFSC3034,2ND,U7/W7,ENGR 212 Lab
+SC,ENGR 216:20,3,3,48905,48905,In-Person,"NGR - TBA,",NFSC2041,2ND,K1/K2/K3,Geology for Engineers
+SC,ENGR 216L:20,0,0,48906,48906,In-Person,"NGR - TBA,",NFSC2034,2ND,O8/X8,ENGR 216 Lab
+SC,ENGR 221:10,3,3,46938,46938,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,B4/B6/C6,Differential Equation for Engr
+SC,ENGR 221L:10,0,0,46939,46939,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A2/K4,ENGR 221 Lab
+SC,ENGR 222:20,3,3,46940,46940,In-Person,"Salimi, Mehdi",MULH2034,2ND,A1/A2/A3,Calculus III for Engineers
+SC,ENGR 222L:20,0,0,40542,40542,In-Person,"Keizer, Peter",NFSC3034,2ND,E4,ENGR 222 Lab
+SC,ENGR 224:20,3,3,46942,46942,In-Person,"Cupido, Kyran",MULH2032,2ND,C1/C2/C3,Probability & Statistics
+SC,ENGR 224L:20,0,0,46943,46943,In-Person,"Keizer, Peter",MULH2030,2ND,E5,ENGR 224 Lab
+SC,ENGR 227:20,3,3,51281,51281,In-Person,"MacDonald, Brittany",NFSC3035,2ND,L1/L2/L3,Fundamentals of Process Engr
+SC,ENGR 227L:20,0,0,51282,51282,In-Person,"MacDonald, Brittany",NFSC3034,2ND,C9/K9,ENGR 227 Lab
+SC,ENGR 231:20,3,3,51283,51283,In-Person,"Oguejiofor, Emeka",NFSC3034,2ND,B1/B2/B3,Dynamics
+SC,ENGR 231L:20,0,0,51284,51284,In-Person,"Azad, Mohammad",NFSC3035,2ND,O8/X8,ENGR 231 Lab
+SC,ENGR 232:21,3,3,48914,48914,In-Person,"Oguejiofor, Emeka",NFSC3034,2ND,A4/A5/L5,Design & Communications II
+SC,ENGR 232L:21,0,0,48915,48915,In-Person,"Oguejiofor, Emeka",NFSC3034,2ND,X7/Z7,ENGR 232 Lab
+SC,ENGR 235:10,3,3,46947,46947,In-Person,"Oguejiofor, Emeka",NFSC3034,1ST,B1/B2/B3,Strength of Materials
+SC,ENGR 235L:10,0,0,53807,53807,In-Person,"Oguejiofor, Emeka",NFSC3035,1ST,U7/W7,ENGR 235 Lab
+SC,ENGR 237:10,3,3,46949,46949,In-Person,"Comeau, Frank",NFSC3034,1ST,K1/K2/K3,Basic Electric Circuits Theory
+SC,ENGR 237L:11,0,0,44042,44042,In-Person,"Marjerrison, Casey",NFSC1079,1ST,O7/W8,ENGR 237 LAB
+SC,ENGR 237L:12,0,0,51559,51559,In-Person,"Marjerrison, Casey",NFSC1079,1ST,U8/Z8,ENGR 237 LAB
+SC,ENGR 238:20,3,3,50548,50548,In-Person,"Comeau, Frank",NFSC3034,2ND,L1/L2/L3,Digital Logic
+SC,ENGR 238L:20,0,0,50550,50550,In-Person,"Marjerrison, Casey",NFSC1079,2ND,O7/W8,ENGR 238 LAB
+SC,ENGR 242:10,3,3,51285,51285,In-Person,"Azad, Mohammad",NFSC3034,1ST,B5/K7/L3,Engineering Economics
+SC,ENGR 242L:10,0,0,51286,51286,In-Person,"Azad, Mohammad",NFSC3034,1ST,A8/L7,ENGR 242 Lab
+SC,ENGR 246:20,3,3,51292,51292,In-Person,"Comeau, Frank",NFSC3034,2ND,K1/K2/K3,Circuit Analysis
+SC,ENGR 246L:20,0,0,51293,51293,In-Person,"Comeau, Frank",NFSC1079,2ND,C9/K9,ENGR 246 Lab
+SC,ENGR 253:20,3,3,58846,58846,In-Person,"NGR - TBA,",NFSC3035,2ND,C4/C5/C6,Eng Modelling & Optimization
+SC,ENGR 253L:20,0,0,58847,58847,In-Person,"Azad, Mohammad",NFSC3035,2ND,S5,ENGR 253 Lab
+AR,FREN 111:11,3,3,51867,51867,In-Person,"Péladeau-Houle, Mendel",BB337,1ST,W4/W5,Basic French I
+AR,FREN 111:12,3,3,57475,57475,In-Person,"Greco, Maria (Maria Cristina)",IM202,1ST,W7/W8,Basic French I
+AR,FREN 111:20,3,3,51868,51868,In-Person,"Greco, Maria (Maria Cristina)",SCHW289,2ND,W4/W5,Basic French I
+AR,FREN 111L:11,0,0,51887,51887,In-Person,"Maillet, David",IM210,1ST,B6,FREN 111 Lab
+AR,FREN 111L:12,0,0,56466,56466,In-Person,"Maillet, David",IM210,1ST,L1,FREN 111 Lab
+AR,FREN 111L:13,0,0,56467,56467,In-Person,"Maillet, David",IM210,1ST,K4,FREN 111 Lab
+AR,FREN 111L:14,0,0,56468,56468,In-Person,"Maillet, David",IM210,1ST,C2,FREN 111 Lab
+AR,FREN 111L:15,0,0,58341,58341,In-Person,"Maillet, David",,1ST,TBA,FREN 111 Lab
+AR,FREN 111L:16,0,0,58076,58076,In-Person,"Maillet, David",IM210,1ST,L6,FREN 111 Lab
+AR,FREN 111L:21,0,0,51893,51893,In-Person,"Maillet, David",IM210,2ND,B1,FREN 111 Lab
+AR,FREN 111L:22,0,0,56473,56473,In-Person,"Maillet, David",IM210,2ND,C2,FREN 111 Lab
+AR,FREN 111L:23,0,0,56474,56474,In-Person,"Maillet, David",IM210,2ND,K5,FREN 111 Lab
+AR,FREN 111L:24,0,0,58342,58342,In-Person,"Maillet, David",,2ND,TBA,FREN 111 Lab
+AR,FREN 112:21,3,3,51871,51871,In-Person,"Greco, Maria (Maria Cristina)",IM202,2ND,U7/U8,Basic French II
+AR,FREN 112:22,3,3,57476,57476,In-Person,"Péladeau-Houle, Mendel",IM202,2ND,A4/A5/A6,Basic French II
+AR,FREN 112L:21,0,0,51898,51898,In-Person,"Maillet, David",IM210,2ND,L7,FREN 112 Lab
+AR,FREN 112L:22,0,0,56469,56469,In-Person,"Maillet, David",IM210,2ND,B3,FREN 112 Lab
+AR,FREN 112L:23,0,0,56470,56470,In-Person,"Maillet, David",IM210,2ND,K3,FREN 112 Lab
+AR,FREN 112L:24,0,0,57017,57017,In-Person,"Maillet, David",IM210,2ND,B6,FREN 112 Lab
+AR,FREN 112L:25,0,0,58008,58008,In-Person,"Maillet, David",IM210,2ND,L4,FREN 112 Lab
+AR,FREN 112L:26,0,0,58236,58236,In-Person,"Maillet, David",IM210,2ND,B5,FREN 112 Lab
+AR,FREN 112L:27,0,0,58343,58343,In-Person,"Maillet, David",,2ND,TBA,FREN 112 Lab
+AR,FREN 211:11,3,3,51872,51872,In-Person,"Kocay, Victor",IM201,1ST,O4/O5,Intermediate French I
+AR,FREN 211:12,3,3,56483,56483,In-Person,"Faulkner, Morgan",KC1018A,1ST,W4/W5,Intermediate French I
+AR,FREN 211:20,3,3,51874,51874,In-Person,"Kocay, Victor",CO110,2ND,Z4/Z5,Intermediate French I
+AR,FREN 211L:11,0,0,51901,51901,In-Person,"Maillet, David",IM210,1ST,A7,FREN 211 Lab
+AR,FREN 211L:12,0,0,56475,56475,In-Person,"Maillet, David",IM210,1ST,K7,FREN 211 Lab
+AR,FREN 211L:13,0,0,56476,56476,In-Person,"Maillet, David",IM210,1ST,B9,FREN 211 Lab
+AR,FREN 211L:14,0,0,56477,56477,In-Person,"Maillet, David",IM210,1ST,L3,FREN 211 Lab
+AR,FREN 211L:15,0,0,57020,57020,In-Person,"Maillet, David",,1ST,TBA,FREN 211 Lab
+AR,FREN 211L:21,0,0,51904,51904,In-Person,"Maillet, David",IM210,2ND,C4,FREN 211 Lab
+AR,FREN 211L:22,0,0,58340,58340,In-Person,"Maillet, David",,2ND,TBA,FREN 211 Lab
+AR,FREN 211L:23,0,0,56479,56479,In-Person,"Maillet, David",IM210,2ND,B9,FREN 211 Lab
+AR,FREN 212:21,3,3,51876,51876,In-Person,"Kocay, Victor",IM202,2ND,O4/O5,Intermediate French II
+AR,FREN 212:22,3,3,57477,57477,In-Person,"Péladeau-Houle, Mendel",IM201,2ND,A7/A8/A9,Intermediate French II
+AR,FREN 212L:21,0,0,51910,51910,In-Person,"Maillet, David",,2ND,TBA,FREN 212 Lab
+AR,FREN 212L:22,0,0,56480,56480,In-Person,"Maillet, David",IM210,2ND,A6,FREN 212 Lab
+AR,FREN 212L:23,0,0,56481,56481,In-Person,"Maillet, David",IM210,2ND,L3,FREN 212 Lab
+AR,FREN 212L:24,0,0,58010,58010,In-Person,"Maillet, David",IM210,2ND,L1,FREN 212 Lab
+AR,FREN 225:20,3,3,57474,57474,In-Person,"Faulkner, Morgan",CO265,2ND,Z4/Z5,Business French I
+AR,FREN 254:10,3,3,58339,58339,In-Person,"Faulkner, Morgan",MULH4030,1ST,W7/W8,Langue et Culture: Le Monde
+AR,FREN 311:10,3,3,51880,51880,In-Person,"Péladeau-Houle, Mendel",IM201,1ST,A1/A2/A3,Advanced French I
+AR,FREN 312:20,3,3,51882,51882,In-Person,"Péladeau-Houle, Mendel",IM201,2ND,A1/A2/A3,Advanced French II
+AR,FREN 327:20,3,3,58337,58337,In-Person,"Kocay, Victor",IM201,2ND,O1/O2,French Writing I
+AR,FREN 335:20,3,3,58640,58640,In-Person,"Faulkner, Morgan",CO242,2ND,Z7/Z8,Literature & Decolonization
+AR,FREN 342:10,3,3,58336,58336,In-Person,"Kocay, Victor",IM201,1ST,O1/O2,Linguistics II
+AR,FREN 398:10,3,3,58851,58851,In-Person,"Péladeau-Houle, Mendel",IM201,1ST,U4/U5,ST: Animal Ethics/French Art
+AR,GERM 101:10,3,3,50610,50610,In-Person,"Lade, Marlis",MULH3022,1ST,X1/X2,German for Beginners I
+AR,GERM 101L:11,0,0,56492,56492,In-Person,"Maillet, David",IM210,1ST,L7,GERM 101 Lab
+AR,GERM 101L:12,0,0,57490,57490,In-Person,"Maillet, David",IM210,1ST,B3,GERM 101 Lab
+AR,GERM 101L:13,0,0,58127,58127,In-Person,"Maillet, David",,1ST,TBA,GERM 101 Lab
+AR,GERM 102:20,3,3,50611,50611,In-Person,"Lade, Marlis",MULH3022,2ND,X1/X2,German for Beginners II
+AR,GERM 102L:20,0,0,56493,56493,In-Person,"Maillet, David",,2ND,TBA,GERM 102 Lab
+AR,GERM 201:10,3,3,51864,51864,In-Person,"Lade, Marlis",MULH4022,1ST,X4/X5,Language & Culture I
+AR,GERM 201L:11,0,0,55865,55865,In-Person,"Maillet, David",IM210,1ST,C9,GERM 201 lab
+AR,GERM 201L:12,0,0,58092,58092,In-Person,"Maillet, David",,1ST,TBA,GERM 201 lab
+AR,GERM 298:20,3,3,58412,58412,In-Person,"Lade, Marlis",MULH4022,2ND,X4/X5,ST: German Language & Cinema
+AR,HIST 101:10,3,3,51196,51196,In-Person,"Lalande, Guy",CO120,1ST,A1/A2/A3,Western Civ Prehistory to 1648
+AR,HIST 102:20,3,3,51197,51197,In-Person,"Lalande, Guy",MULH3030,2ND,A1/A2/A3,Western Civ. 1648-1968
+AR,HIST 103:10,3,3,57330,57330,In-Person,"Trembinski, Donna",MULH2030,1ST,U7/U8,World History to 220 CE
+AR,HIST 104:20,3,3,55489,55489,In-Person,"Trembinski, Donna",MULH2030,2ND,U7/U8,World History 220 - 1300 CE
+AR,HIST 121:10,3,3,54577,54577,In-Person,"Zecker, Robert",CO110,1ST,B1/B2/B3,Global Race & Ethnicity I
+AR,HIST 122:20,3,3,54578,54578,In-Person,"Zecker, Robert",MULH3034,2ND,B1/B2/B3,Global Race & Ethnicity II
+AR,HIST 141:10J,3,3,54576,54576,In-Person,"Frazer, Christopher",CO110,1ST,X1/X2,"Empire & Plague, 1300-1800"
+AR,HIST 142:20J,3,3,54579,54579,In-Person,"Frazer, Christopher",MULH3030,2ND,C1/C2/C3,Revolution: Global from 1750
+AR,HIST 213:10,3,3,54585,54585,In-Person,"Pigeon, Stephan",BB236,1ST,Z7/Z8,Canada: Pre-Confederation
+AR,HIST 215:20,3,3,54586,54586,In-Person,"Pigeon, Stephan",SCHW289,2ND,Z7/Z8,Canada: Post-Confederation
+AR,HIST 216:10,3,3,58414,58414,In-Person,"Kalman, Samuel",MULH3030,1ST,E6,Modern France
+AR,HIST 228:10,3,3,58806,58806,In-Person,"MacKenzie, Barry",MULH4030,1ST,E5,Maritimes: Pre-Confederation
+AR,HIST 229:20,3,3,58807,58807,In-Person,"MacKenzie, Barry",MULH4030,2ND,E5,Maritimes: Post-Confederation
+AR,HIST 242:10,3,3,53774,53774,In-Person,"Zecker, Robert",SCHW290,1ST,U4/U5,United States to 1865
+AR,HIST 244:20,3,3,53775,53775,In-Person,"Zecker, Robert",MULH3030,2ND,U4/U5,The United States after 1865
+AR,HIST 247:20,3,3,58415,58415,In-Person,"Trembinski, Donna",MULH3032,2ND,W1/W2,Crusades and Their Cultures
+AR,HIST 255:10,3,3,58416,58416,In-Person,"Frazer, Christopher",MULH3026,1ST,C4/C5/C6,Colonial Latin America
+AR,HIST 257:10,3,3,58417,58417,In-Person,"Forestell, Nancy",CO110,1ST,W7/W8,Canada & Global South
+AR,HIST 261:10,3,3,58419,58419,In-Person,"Kalman, Samuel",MULH4032,1ST,W7/W8,Europe: 19th Century
+AR,HIST 283:10,3,3,58420,58420,In-Person,"Semple, Rhonda",MULH3032,1ST,W7/W8,Making Britain Great
+AR,HIST 297:10,3,3,58745,58745,In-Person,"Pigeon, Stephan",NT612,1ST,Z4/Z5,ST: Historical Methods
+AR,HIST 298:10,3,3,58796,58796,In-Person,"Lalande, Guy",BB337,1ST,A4/A5/A6,"ST: The USSR, 1917-1991"
+AR,HIST 299:20,3,3,58729,58729,In-Person,"Semple, Rhonda",MULH3032,2ND,W7/W8,ST: British Empire Decolonize
+AR,HIST 302:20,3,3,58413,58413,In-Person,"Forestell, Nancy",CO242,2ND,W7/W8,Histories of Health in Canada
+AR,HIST 319:10,3,3,58421,58421,In-Person,"Pigeon, Stephan",MULH4030,1ST,O7/O8,Myth & Memory in Cdn History
+AR,HIST 326:10,3,3,58422,58422,In-Person,"Frazer, Christopher",MULH3024,1ST,C1/C2/C3,History of Cuba
+AR,HIST 327:20,3,3,54792,54792,In-Person,"Frazer, Christopher",MULH4030,2ND,C4/C5/C6,Pirates of the Caribbean
+AR,HIST 332:10,3,3,58423,58423,In-Person,"Trembinski, Donna",BB337,1ST,W1/W2,Medieval Body
+AR,HIST 344:10,3,3,58425,58425,In-Person,"Semple, Rhonda; Trembinski, Donna",AX124,1ST,W4/W5,Uses and Abuses of History
+AR,HIST 360:20,3,3,58730,58730,In-Person,"Semple, Rhonda",MULH3032,2ND,E5,Gender Sexuality Empires
+AR,HIST 364:10,3,3,58426,58426,In-Person,"Kalman, Samuel",MULH3034,1ST,E5,The Holocaust
+AR,HIST 391:10,3,3,58797,58797,In-Person,"Lalande, Guy",CO242,1ST,K1/K2/K3,ST: WWI: Causes and Battles
+AR,HIST 395:10,3,3,58704,58704,In-Person,"Black, Winston",NT612,1ST,Z1/Z2,ST: Medieval Church
+AR,HIST 397:20,3,3,58746,58746,In-Person,"Pigeon, Stephan",MULH4030,2ND,O7/O8,"ST: Social Media, Past/Present"
+AR,HIST 399:20,3,3,58798,58798,In-Person,"Lalande, Guy",CO242,2ND,K1/K2/K3,ST: WWI: Diplomacy/Home Fronts
+AR,HIST 457:10,3,3,58805,58805,In-Person,"Zecker, Robert",NT612,1ST,U7/U8,Topics in American History
+AR,HIST 490:00,6,6,54158,54158,In-Person,"Foran, Andrew",,FULL,TBA,Thesis
+AR,HIST 497:20,3,3,58747,58747,In-Person,"Pigeon, Stephan",NT612,2ND,E6,"ST: Empire, Archives and Destr"
+AR,HIST 498:20,3,3,58705,58705,In-Person,"Black, Winston",AX113,2ND,Z4/Z5,ST: Medieval Cult of Saints
+SC,HKIN 102:10,1.5,1.5,57606,57606,In-Person,"MacNeil, Aldona",AD-STUDIO,1ST,X1/X2,Instructional Group Fitness
+SC,HKIN 103:10,1.5,1.5,57607,57607,In-Person,"Mason, James (Jason)",,1ST,W4/W5,Skateboarding
+SC,HKIN 104:21,1.5,1.5,58708,58708,In-Person,"Cavanagh, Mike",MAIN-GYM,2ND,A4/A5/A6,Pickleball
+SC,HKIN 104:22,1.5,1.5,58709,58709,In-Person,"Cavanagh, Mike",AUX-GYM,2ND,C1/C2/C3,Pickleball
+SC,HKIN 115:10A,3,3,46722,46722,In-Person,"Rasmussen, Roy",MULH2030,1ST,C4/C5/C6,Intro to Human Kinetics
+SC,HKIN 115:10B,3,3,57528,57528,In-Person,"Rasmussen, Roy",MULH2030,1ST,C4/C5/C6,Intro to Human Kinetics
+SC,HKIN 115:10C,3,3,57529,57529,In-Person,"Rasmussen, Roy",MULH2030,1ST,C4/C5/C6,Intro to Human Kinetics
+SC,HKIN 115:20A,3,3,54638,54638,In-Person,"Kolen, Angela",BB237,2ND,K1/K2/K3,Intro to Human Kinetics
+SC,HKIN 115:20B,3,3,57531,57531,In-Person,"Kolen, Angela",BB237,2ND,K1/K2/K3,Intro to Human Kinetics
+SC,HKIN 115:20C,3,3,57532,57532,In-Person,"Kolen, Angela",BB237,2ND,K1/K2/K3,Intro to Human Kinetics
+SC,HKIN 115L:10A,0,0,40495,40495,In-Person,"MacNeil, Aldona",ESC203,1ST,B8,HKIN 115 Lab
+SC,HKIN 115L:10B,0,0,40496,40496,In-Person,"MacNeil, Aldona",ESC203,1ST,C8,HKIN 115 Lab
+SC,HKIN 115L:10C,0,0,40497,40497,In-Person,"MacNeil, Aldona",ESC203,1ST,L8,HKIN 115 Lab
+SC,HKIN 115L:20A,0,0,54639,54639,In-Person,"MacNeil, Aldona",ESC203,2ND,B8,HKIN 115 Lab
+SC,HKIN 115L:20B,0,0,54640,54640,In-Person,"MacNeil, Aldona",ESC203,2ND,C8,HKIN 115 Lab
+SC,HKIN 115L:20C,0,0,54641,54641,In-Person,"MacNeil, Aldona",ESC203,2ND,L8,HKIN 115 Lab
+SC,HKIN 119:20,1.5,1.5,58352,58352,In-Person,"MacNeil, Aldona",POOL,2ND,U7/W7,Aquatic Activities
+SC,HKIN 121:20,1.5,1.5,53833,53833,In-Person,"Waterman, Gary",MAIN-GYM,2ND,A1/A2/A3,Badminton
+SC,HKIN 123:10,1.5,1.5,53836,53836,In-Person,"Vernon, Tyrell",MAIN-GYM,1ST,B4/B5/B6,Basketball
+SC,HKIN 125:10,1.5,1.5,55882,55882,In-Person,"MacGillivray, Sabra",AD-STUDIO,1ST,W1/W2,Contemporary Dance/Pilates
+SC,HKIN 126:10,1.5,1.5,55430,55430,In-Person,"Thompson, Kelly",MAIN-GYM,1ST,B1/B2/B3,Fitness
+SC,HKIN 126:20,1.5,1.5,56923,56923,In-Person,"Thompson, Kelly",MAIN-GYM,2ND,C1/C2/C3,Fitness
+SC,HKIN 127:10,1.5,1.5,53840,53840,In-Person,"Thompson, Kelly",AUX-GYM,1ST,A1/A2/A3,Gymnastics
+SC,HKIN 127:20,1.5,1.5,53841,53841,In-Person,"Thompson, Kelly",AUX-GYM,2ND,A1/A2/A3,Gymnastics
+SC,HKIN 128:10,1.5,1.5,53842,53842,In-Person,"Svec, Jonathon",MAIN-GYM,1ST,A4/A5/A6,Football
+SC,HKIN 129:20,1.5,1.5,55431,55431,In-Person,"KIN - TBA, H",KC-MNRINK,2ND,A1/A2/A3,Hockey
+SC,HKIN 131:11,1.5,1.5,58353,58353,In-Person,"Cavanagh, Mike",AUX-GYM,1ST,B1/B2/B3,Rugby
+SC,HKIN 131:12,1.5,1.5,58369,58369,In-Person,"Cavanagh, Mike","MAIN-GYM , AUX-GYM",1ST,L4/L5/L6,Rugby
+SC,HKIN 132:10,1.5,1.5,53845,53845,In-Person,"Spencer, Geoffrey (Geoff)",AUX-GYM,1ST,C1/C2/C3,Soccer
+SC,HKIN 132:20,1.5,1.5,57293,57293,In-Person,"Spencer, Geoffrey (Geoff)",MAIN-GYM,2ND,L1/L2/L3,Soccer
+SC,HKIN 133:10,1.5,1.5,53847,53847,In-Person,"Artibello, Tara",MAIN-GYM,1ST,C1/C2/C3,Volleyball
+SC,HKIN 133:20,1.5,1.5,53848,53848,In-Person,"Artibello, Tara",MAIN-GYM,2ND,B1/B2/B3,Volleyball
+SC,HKIN 134:10,1.5,1.5,55811,55811,In-Person,"Berthiaume, Benjamin (Ben)",AUX-GYM,1ST,U4/U5,Golf
+SC,HKIN 135:20,1.5,1.5,56407,56407,In-Person,"Artibello, Tara",KC-MNRINK,2ND,L1/L2/L3,Ice Games
+SC,HKIN 136:10A,3,3,53851,53851,In-Person,"Harenberg, Sebastian",MULH2030,1ST,W1/W2,Sport & Exercise Psychology
+SC,HKIN 136:10B,3,3,57534,57534,In-Person,"Harenberg, Sebastian",MULH2030,1ST,W1/W2,Sport & Exercise Psychology
+SC,HKIN 136:10C,3,3,57535,57535,In-Person,"Harenberg, Sebastian",MULH2030,1ST,W1/W2,Sport & Exercise Psychology
+SC,HKIN 136:21A,3,3,55433,55433,In-Person,"Harenberg, Sebastian",ASCHL207,2ND,U1/U2,Sport & Exercise Psychology
+SC,HKIN 136:21B,3,3,57896,57896,In-Person,"Harenberg, Sebastian",ASCHL207,2ND,U1/U2,Sport & Exercise Psychology
+SC,HKIN 136:21C,3,3,57537,57537,In-Person,"Harenberg, Sebastian",ASCHL207,2ND,U1/U2,Sport & Exercise Psychology
+SC,HKIN 136:22A,3,3,54783,54783,In-Person,"Harenberg, Sebastian",KC1018A,2ND,U4/U5,Sport & Exercise Psychology
+SC,HKIN 136:22B,3,3,57538,57538,In-Person,"Harenberg, Sebastian",KC1018A,2ND,U4/U5,Sport & Exercise Psychology
+SC,HKIN 136:22C,3,3,57539,57539,In-Person,"Harenberg, Sebastian",KC1018A,2ND,U4/U5,Sport & Exercise Psychology
+SC,HKIN 136L:10A,0,0,53856,53856,In-Person,"Spencer, Geoffrey (Geoff)",KC1018A,1ST,A7,HKIN 136 Lab
+SC,HKIN 136L:10B,0,0,53857,53857,In-Person,"Spencer, Geoffrey (Geoff)",KC2020-21,1ST,K7,HKIN 136 Lab
+SC,HKIN 136L:10C,0,0,53858,53858,In-Person,"Spencer, Geoffrey (Geoff)",KC1018,1ST,B8,HKIN 136 Lab
+SC,HKIN 136L:21A,0,0,54784,54784,In-Person,"Spencer, Geoffrey (Geoff)",KC1018A,2ND,A7,HKIN 136 Lab
+SC,HKIN 136L:21B,0,0,55434,55434,In-Person,"Spencer, Geoffrey (Geoff)",KC1018A,2ND,B7,HKIN 136 Lab
+SC,HKIN 136L:21C,0,0,55435,55435,In-Person,"Spencer, Geoffrey (Geoff)",ASCHL207,2ND,K7,HKIN 136 Lab
+SC,HKIN 136L:22A,0,0,55436,55436,In-Person,"Spencer, Geoffrey (Geoff)",ASCHL207,2ND,L7,HKIN 136 Lab
+SC,HKIN 136L:22B,0,0,55458,55458,In-Person,"Spencer, Geoffrey (Geoff)",ASCHL207,2ND,K8,HKIN 136 Lab
+SC,HKIN 136L:22C,0,0,55459,55459,In-Person,"Spencer, Geoffrey (Geoff)",ASCHL207,2ND,C8,HKIN 136 Lab
+SC,HKIN 137:10,1.5,1.5,57294,57294,In-Person,"Tweedie, Constance",MAIN-GYM,1ST,K1/K2/K3,Low Organized Games
+SC,HKIN 137:20,1.5,1.5,56404,56404,In-Person,"Spencer, Geoffrey (Geoff)",MAIN-GYM,2ND,B4/B5/B6,Low Organized Games
+SC,HKIN 139:20,1.5,1.5,55437,55437,In-Person,"Clark, Sally",AUX-GYM,2ND,K1/K2/K3,Movement Education
+SC,HKIN 141:10,1.5,1.5,57305,57305,In-Person,"Foran, Andrew",,1ST,X7/Z7,Outdoor Education
+SC,HKIN 142:10,1.5,1.5,57295,57295,In-Person,"Spencer, Geoffrey (Geoff)",MAIN-GYM,1ST,A1/A2/A3,ParaSport
+SC,HKIN 143:10,1.5,1.5,58370,58370,In-Person,"MacGillivray, Sabra; Clark, Sally",AD-STUDIO,1ST,U1/U2,Social Dance
+SC,HKIN 144:10,1.5,1.5,56936,56936,In-Person,"Artibello, Tara",,1ST,U8/Z8,Target Games
+SC,HKIN 144:20,1.5,1.5,56937,56937,In-Person,"Artibello, Tara",ASCHL-MPR,2ND,U8/Z8,Target Games
+SC,HKIN 145:10,1.5,1.5,53885,53885,In-Person,"Spencer, Matthew",AUX-GYM,1ST,C4/C5/C6,Track & Field
+SC,HKIN 146:10,1.5,1.5,53886,53886,In-Person,"Crouse, Josh",ESC110,1ST,E4,Weight Training
+SC,HKIN 146:20,1.5,1.5,53887,53887,In-Person,"Crouse, Josh",ESC110,2ND,E4,Weight Training
+SC,HKIN 148:11,1.5,1.5,53889,53889,In-Person,"Tweedie, Constance",KC2022,1ST,U1/U2,Yoga
+SC,HKIN 148:12,1.5,1.5,56379,56379,In-Person,"Tweedie, Constance",AD-STUDIO,1ST,U4/U5,Yoga
+SC,HKIN 148:21,1.5,1.5,56403,56403,In-Person,"Tweedie, Constance",AD-STUDIO,2ND,O1/O2,Yoga
+SC,HKIN 148:22,1.5,1.5,56921,56921,In-Person,"Tweedie, Constance",AD-STUDIO,2ND,U4/U5,Yoga
+SC,HKIN 150:10,3,3,53892,53892,In-Person,"Rorke, Thomas",KC1018,1ST,X1/X2,Sport in the Humanities
+SC,HKIN 150:20,3,3,53893,53893,In-Person,"Rorke, Thomas",KC1018,2ND,Z1/Z2,Sport in the Humanities
+SC,HKIN 151:10,3,3,53894,53894,In-Person,"Reid, Ryan",SCHW110,1ST,L4/L5/L6,Applied Anatomy/Physiology I
+SC,HKIN 151L:11,0,0,53895,53895,In-Person,"Reid, Ryan",BB227,1ST,U7/W7,HKIN 151 Lab
+SC,HKIN 151L:12,0,0,53896,53896,In-Person,"Reid, Ryan",BB227,1ST,E4,HKIN 151 Lab
+SC,HKIN 151L:13,0,0,53897,53897,In-Person,"Reid, Ryan",BB227,1ST,X7/Z7,HKIN 151 Lab
+SC,HKIN 151L:14,0,0,53898,53898,In-Person,"Reid, Ryan",BB227,1ST,O7/W8,HKIN 151 Lab
+SC,HKIN 151L:15,0,0,53899,53899,In-Person,"Reid, Ryan",BB227,1ST,U8/Z8,HKIN 151 Lab
+SC,HKIN 151L:16,0,0,54928,54928,In-Person,"Reid, Ryan",BB227,1ST,E5,HKIN 151 Lab
+SC,HKIN 151L:17,0,0,56408,56408,In-Person,"Reid, Ryan",BB227,1ST,O8/X8,HKIN 151 Lab
+SC,HKIN 151L:18,0,0,58826,58826,In-Person,"Reid, Ryan",BB227,1ST,E7,HKIN 151 Lab
+SC,HKIN 152:20,3,3,53900,53900,In-Person,"Reid, Ryan",SCHW110,2ND,L4/L5/L6,Applied Anatomy/Physiology II
+SC,HKIN 152L:21,0,0,53901,53901,In-Person,"Reid, Ryan",BB227,2ND,U7/W7,HKIN 152 Lab
+SC,HKIN 152L:22,0,0,53902,53902,In-Person,"Reid, Ryan",BB227,2ND,E4,HKIN 152 Lab
+SC,HKIN 152L:23,0,0,53903,53903,In-Person,"Reid, Ryan",BB227,2ND,X7/Z7,HKIN 152 Lab
+SC,HKIN 152L:24,0,0,53904,53904,In-Person,"Reid, Ryan",BB227,2ND,O7/W8,HKIN 152 Lab
+SC,HKIN 152L:25,0,0,53905,53905,In-Person,"Reid, Ryan",BB227,2ND,U8/Z8,HKIN 152 Lab
+SC,HKIN 152L:26,0,0,54929,54929,In-Person,"Reid, Ryan",BB227,2ND,E5,HKIN 152 Lab
+SC,HKIN 152L:27,0,0,56409,56409,In-Person,"Reid, Ryan",BB227,2ND,O8/X8,HKIN 152 Lab
+SC,HKIN 152L:28,0,0,58827,58827,In-Person,"Reid, Ryan",BB227,2ND,E7,HKIN 152 Lab
+SC,HKIN 154:10,3,3,53906,53906,In-Person,"Weaving, Charlene",KC2020-21,1ST,O7/W8,Intro to Ethics & Sport
+SC,HKIN 203:10,1.5,1.5,55441,55441,In-Person,"Spencer, Geoffrey (Geoff)",KC2020-21,1ST,K4/K5/K6,Judging & Officiating
+SC,HKIN 203:20,1.5,1.5,56993,56993,In-Person,"Spencer, Geoffrey (Geoff)",KC1018,2ND,K4/K5/K6,Judging & Officiating
+SC,HKIN 204:20,1.5,1.5,57613,57613,In-Person,"MacNeil, Aldona","ESC203 , AD-STUDIO",2ND,X1/X2,Group Exercise Certification
+SC,HKIN 206:10,1.5,1.5,58586,58586,In-Person,"Crouse, Josh",AD-STUDIO,1ST,W4/W5,Adv. Instr.: Exercise Oncology
+SC,HKIN 215:10A,3,3,56940,56940,In-Person,"Lam, Melanie",IM114,1ST,U4/U5,Intro Motor Learning/Control
+SC,HKIN 215:10B,3,3,57540,57540,In-Person,"Lam, Melanie",IM114,1ST,U4/U5,Intro Motor Learning/Control
+SC,HKIN 215:10C,3,3,57541,57541,In-Person,"Lam, Melanie",IM114,1ST,U4/U5,Intro Motor Learning/Control
+SC,HKIN 215:20A,3,3,56941,56941,In-Person,"Lam, Melanie",KC1018A,2ND,Z4/Z5,Intro Motor Learning/Control
+SC,HKIN 215:20B,3,3,57544,57544,In-Person,"Lam, Melanie",KC1018A,2ND,Z4/Z5,Intro Motor Learning/Control
+SC,HKIN 215:20C,3,3,57545,57545,In-Person,"Lam, Melanie",KC1018A,2ND,Z4/Z5,Intro Motor Learning/Control
+SC,HKIN 215L:10A,0,0,42015,42015,In-Person,"Tweedie, Constance",ESC203,1ST,K4,HKIN 215 Lab
+SC,HKIN 215L:10B,0,0,42016,42016,In-Person,"Tweedie, Constance",ESC203,1ST,L4,HKIN 215 Lab
+SC,HKIN 215L:10C,0,0,42017,42017,In-Person,"Tweedie, Constance",ESC203,1ST,A5,HKIN 215 Lab
+SC,HKIN 215L:20A,0,0,45735,45735,In-Person,"Tweedie, Constance",ESC203,2ND,K4,HKIN 215 Lab
+SC,HKIN 215L:20B,0,0,45736,45736,In-Person,"Tweedie, Constance",ESC203,2ND,B5,HKIN 215 Lab
+SC,HKIN 215L:20C,0,0,45737,45737,In-Person,"Tweedie, Constance",ESC203,2ND,C5,HKIN 215 Lab
+SC,HKIN 222:20,3,3,56934,56934,In-Person,"Sutherland, Tara",SCHW110,2ND,B1/B2/B3,Care/Prevent Athletic Injuries
+SC,HKIN 222L:21,0,0,43085,43085,In-Person,"MacNeil, Aldona",ASCHL184,2ND,A4,HKIN 222 Lab
+SC,HKIN 222L:22,0,0,43086,43086,In-Person,"MacNeil, Aldona",ASCHL184,2ND,K4,HKIN 222 Lab
+SC,HKIN 222L:23,0,0,43087,43087,In-Person,"MacNeil, Aldona",ASCHL184,2ND,B5,HKIN 222 Lab
+SC,HKIN 222L:24,0,0,44699,44699,In-Person,"MacNeil, Aldona",ASCHL184,2ND,L5,HKIN 222 Lab
+SC,HKIN 222L:25,0,0,53910,53910,In-Person,"MacNeil, Aldona",ASCHL184,2ND,C5,HKIN 222 Lab
+SC,HKIN 222L:26,0,0,56396,56396,In-Person,"MacNeil, Aldona",ASCHL184,2ND,B4,HKIN 222 Lab
+SC,HKIN 222L:27,0,0,56397,56397,In-Person,"MacNeil, Aldona",ASCHL184,2ND,L4,HKIN 222 Lab
+SC,HKIN 226:10,3,3,58354,58354,In-Person,"Kolen, Angela",KC1018A,1ST,A1/A2/A3,Focus on Personal Health
+SC,HKIN 227:10,1.5,1.5,56400,56400,In-Person,"Thompson, Kelly",AUX-GYM,1ST,U7/W7,Adv. Instruction: Gymnastics
+SC,HKIN 227:20,1.5,1.5,53912,53912,In-Person,"Thompson, Kelly",AUX-GYM,2ND,U7/W7,Adv. Instruction: Gymnastics
+SC,HKIN 230:10,3,3,57611,57611,In-Person,"Reid, Ryan",KC2020-21,1ST,X1/X2,PA & the Population
+SC,HKIN 246:20,1.5,1.5,57610,57610,In-Person,"Crouse, Josh",ASCHL207,2ND,E6,Sport Science Theory
+SC,HKIN 253:10,3,3,53919,53919,In-Person,"Rorke, Thomas",KC1018,1ST,X4/X5,Sport Philosophy
+SC,HKIN 253:20,3,3,58367,58367,In-Person,"Rorke, Thomas",ASCHL207,2ND,X4/X5,Sport Philosophy
+SC,HKIN 264:10,3,3,54028,54028,Online-Scheduled Delivery,"Krahn, Alixandra",ONLINE,1ST,U8/Z8,The Sociology of Sport
+SC,HKIN 264:20,3,3,54029,54029,Online-Scheduled Delivery,"Krahn, Alixandra",ONLINE,2ND,U7/W7,The Sociology of Sport
+SC,HKIN 265:10A,3,3,54651,54651,In-Person,"Kane, Daniel",IM114,1ST,X1/X2,Exercise Physiology
+SC,HKIN 265:10B,3,3,57589,57589,In-Person,"Kane, Daniel",IM114,1ST,X1/X2,Exercise Physiology
+SC,HKIN 265:10C,3,3,57590,57590,In-Person,"Kane, Daniel",IM114,1ST,X1/X2,Exercise Physiology
+SC,HKIN 265:20A,3,3,54652,54652,In-Person,"Kane, Daniel",SCHW156,2ND,X1/X2,Exercise Physiology
+SC,HKIN 265:20B,3,3,57593,57593,In-Person,"Kane, Daniel",SCHW156,2ND,X1/X2,Exercise Physiology
+SC,HKIN 265:20C,3,3,57594,57594,In-Person,"Kane, Daniel",SCHW156,2ND,X1/X2,Exercise Physiology
+SC,HKIN 265L:10A,0,0,54653,54653,In-Person,"Thompson, Kelly",ESC120,1ST,A5/L4,HKIN 265 Lab
+SC,HKIN 265L:10B,0,0,54654,54654,In-Person,"Thompson, Kelly",ESC120,1ST,K7/L7,HKIN 265 Lab
+SC,HKIN 265L:10C,0,0,54655,54655,In-Person,"Thompson, Kelly",ESC120,1ST,C5/K5,HKIN 265 Lab
+SC,HKIN 265L:20A,0,0,54658,54658,In-Person,"Thompson, Kelly",ESC120,2ND,A5/L4,HKIN 265 Lab
+SC,HKIN 265L:20B,0,0,54659,54659,In-Person,"Thompson, Kelly",ESC120,2ND,K7/L7,HKIN 265 Lab
+SC,HKIN 265L:20C,0,0,54788,54788,In-Person,"Thompson, Kelly",ESC120,2ND,B8/C8,HKIN 265 Lab
+SC,HKIN 316:20,3,3,58355,58355,Online-Scheduled Delivery,"Hajj, Joëlle",ONLINE,2ND,O7/W8,Motor Control in Populations
+SC,HKIN 321:10,3,3,56935,56935,In-Person,"Sutherland, Tara",KC1018,1ST,Z1/Z2,Adv Care/Prevent Ath Injuries
+SC,HKIN 332:10,3,3,56382,56382,In-Person,"Weaving, Charlene",KC1018A,1ST,X7/Z7,Gender Sport/Physical Activity
+SC,HKIN 345:10,3,3,56384,56384,In-Person,"Vossen, Jeffrey",KC2020-21,1ST,A4/A5/A6,Personal Training Essentials
+SC,HKIN 345L:10,0,0,56385,56385,In-Person,"Vossen, Jeffrey",ESC120,1ST,O5/X5,HKIN 345 Lab
+SC,HKIN 347:20,3,3,56398,56398,In-Person,"Sutherland, Tara",ASCHL207,2ND,B4/B5/B6,Rehabilitation Techniques
+SC,HKIN 352:10,3,3,47629,47629,In-Person,"Nzindukiyimana, Ornella",KC1018,1ST,U7/W7,History of Sport
+SC,HKIN 352:21,3,3,52086,52086,In-Person,"Nzindukiyimana, Ornella",KC1018,2ND,U8/Z8,History of Sport
+SC,HKIN 352:22,3,3,54740,54740,In-Person,"Nzindukiyimana, Ornella",KC1018,2ND,W7/W8,History of Sport
+SC,HKIN 354:10,3,3,58368,58368,In-Person,"Rorke, Thomas",KC1018,1ST,Z4/Z5,Sport Morality
+SC,HKIN 354:20,3,3,47218,47218,In-Person,"Rorke, Thomas",KC1018,2ND,Z4/Z5,Sport Morality
+SC,HKIN 357:10,3,3,57324,57324,Online-Scheduled Delivery,"O'Brien, Myles",ONLINE,1ST,W1/W2,Aging & Exercise
+SC,HKIN 376:10A,3,3,50804,50804,In-Person,"MacKenzie, Sasho",KC2020-21,1ST,A1/A2/A3,Biomechanics
+SC,HKIN 376:10B,3,3,57597,57597,In-Person,"MacKenzie, Sasho",KC2020-21,1ST,A1/A2/A3,Biomechanics
+SC,HKIN 376:10C,3,3,57598,57598,In-Person,"MacKenzie, Sasho",KC2020-21,1ST,A1/A2/A3,Biomechanics
+SC,HKIN 376:20A,3,3,41816,41816,In-Person,"MacKenzie, Sasho",BB237,2ND,A1/A2/A3,Biomechanics
+SC,HKIN 376:20B,3,3,57601,57601,In-Person,"MacKenzie, Sasho",BB237,2ND,A1/A2/A3,Biomechanics
+SC,HKIN 376:20C,3,3,57602,57602,In-Person,"MacKenzie, Sasho",BB237,2ND,A1/A2/A3,Biomechanics
+SC,HKIN 376L:10A,0,0,50677,50677,In-Person,"Vossen, Jeffrey",ESC8,1ST,U7/W7,HKIN 376 Lab
+SC,HKIN 376L:10B,0,0,50678,50678,In-Person,"Vossen, Jeffrey",ESC8,1ST,X7/Z7,HKIN 376 Lab
+SC,HKIN 376L:10C,0,0,50679,50679,In-Person,"Vossen, Jeffrey",ESC8,1ST,O7/W8,HKIN 376 Lab
+SC,HKIN 376L:20A,0,0,49863,49863,In-Person,"Vossen, Jeffrey",ESC8,2ND,U7/W7,HKIN 376 Lab
+SC,HKIN 376L:20B,0,0,49864,49864,In-Person,"Vossen, Jeffrey",ESC8,2ND,X7/Z7,HKIN 376 Lab
+SC,HKIN 376L:20C,0,0,54663,54663,In-Person,"Vossen, Jeffrey",ESC8,2ND,O7/W8,HKIN 376 Lab
+SC,HKIN 385:10,3,3,57296,57296,In-Person,"Casey, Amanda",KC1018,1ST,W4/W5,Adapted Physical Education
+SC,HKIN 385L:11,0,0,57297,57297,In-Person,"Casey, Amanda; Artibello, Tara",KC-MNRINK,1ST,B8/C8,HKIN 385 Lab-SLEDGE
+SC,HKIN 385L:12,0,0,57445,57445,In-Person,"Casey, Amanda; Artibello, Tara",POOL,1ST,U2,HKIN 385 Lab-AQUA
+SC,HKIN 385L:13,0,0,57446,57446,In-Person,"Casey, Amanda; Artibello, Tara",POOL,1ST,L5,HKIN 385 Lab-AQUA
+SC,HKIN 395:20,3,3,58364,58364,In-Person,"Casey, Amanda",KC1018,2ND,W4/W5,Disab Health and Comm Rehab
+SC,HKIN 395L:21,0,0,58365,58365,In-Person,"Artibello, Tara",KC-MNRINK,2ND,B8/C8,HKIN 395 Lab
+SC,HKIN 395L:22,0,0,58366,58366,In-Person,"Artibello, Tara",KC-TRACK,2ND,C9/X5,HKIN 395 Lab
+SC,HKIN 396:10,3,3,50682,50682,In-Person,"MacKenzie, Sasho",KC1018,1ST,B1/B2/B3,Research Methods
+SC,HKIN 397:20,3,3,49869,49869,In-Person,"Weaving, Charlene",KC1018A,2ND,O7/W8,Qualitative Research Methods
+SC,HKIN 416:10,3,3,58356,58356,In-Person,"Lam, Melanie",KC2020-21,1ST,U7/U8,Control of Human Movement
+SC,HKIN 416L:10,0,0,58357,58357,In-Person,"Lam, Melanie",ESC19,1ST,E5,HKIN 416 Lab
+SC,HKIN 425:10,3,3,58358,58358,In-Person,"Kolen, Angela",KC1018A,1ST,B1/B2/B3,Child Growth & Development
+SC,HKIN 425L:10,0,0,58359,58359,In-Person,"Kolen, Angela",,1ST,TBA,HKIN 425 Lab
+SC,HKIN 426:20,3,3,52082,52082,In-Person,"Kolen, Angela",KC1018A,2ND,B1/B2/B3,Health Education
+SC,HKIN 433:10,3,3,56696,56696,In-Person,"URS -TBA,",MSBM147,1ST,O7/W8,Policy for Health-Strategies
+SC,HKIN 443:20,3,3,56388,56388,In-Person,"Weaving, Charlene",KC1018,2ND,X7/Z7,Modern Olympic Games
+SC,HKIN 445:10,3,3,48791,48791,In-Person,"Casey, Amanda",KC1018,1ST,U4/U5,Instructional Strategies
+SC,HKIN 445L:10,0,0,52953,52953,In-Person,"Casey, Amanda; Artibello, Tara",,1ST,TBA,HKIN 445 Lab
+SC,HKIN 456:20,3,3,56391,56391,In-Person,"Vossen, Jeffrey",ASCHL207,2ND,A4/A5/A6,Fitness Assessment & Exercise
+SC,HKIN 456L:20,0,0,56392,56392,In-Person,"Vossen, Jeffrey; Tweedie, Constance",ESC120,2ND,O5/X5,HKIN 456 Lab
+SC,HKIN 463:20,3,3,57612,57612,In-Person,"Harenberg, Sebastian",ASCHL207,2ND,E5,Psyc Skills Training for PE
+SC,HKIN 466:20,3,3,55452,55452,In-Person,"Reid, Ryan",ASCHL207,2ND,X1/X2,Clinical Exercise Physiology
+SC,HKIN 466L:20,0,0,55453,55453,In-Person,"Reid, Ryan",ESC208,2ND,U8/Z8,HKIN 466 Lab
+SC,HKIN 474:20,3,3,58360,58360,In-Person,"MacKenzie, Sasho",ESC8,2ND,W4/W5,Applied Biomechanics
+SC,HKIN 474L:20,0,0,58361,58361,In-Person,"MacKenzie, Sasho",ESC123,2ND,X7/Z7,HKIN 474 Lab
+SC,HKIN 490:00,6,6,57656,57656,In-Person,"Weaving, Charlene; MacKenzie, Sasho",KC1018A,FULL,K5,Honours Thesis
+SC,HKIN 492:20,3,3,57307,57307,In-Person,"Kane, Daniel",ASCHL207,2ND,U7/W7,Exercise Metabolism
+SC,HKIN 499:10,3,3,58855,58855,In-Person,"Hood, Michael (Jonathan)",,1ST,TBA,Gender in Coaching in AUS
+AR,HLTH 111:10,3,3,56225,56225,In-Person,"Holmes, Christina",BB237,1ST,X1/X2,Fundamentals of Health I
+AR,HLTH 112:21,3,3,56227,56227,In-Person,"MacGillivray, Megan",MULH4030,2ND,X1/X2,Fundamentals of Health II
+AR,HLTH 112:22,3,3,56228,56228,In-Person,"Khakpour, Mahasti",MULH4030,2ND,Z1/Z2,Fundamentals of Health II
+AR,HLTH 201:10,3,3,53026,53026,In-Person,"Thompson, Kara",GM001,1ST,O4/O5,Health Across the Lifespan I
+AR,HLTH 202:20,3,3,53027,53027,In-Person,"Thompson, Kara",MULH2030,2ND,O7/O8,Health Across the Lifespan II
+AR,HLTH 203:10,3,3,57703,57703,In-Person,"Ruco, Arlinda",MULH2032,1ST,B4/B5/B6,Intro: Health Research Methods
+AR,HLTH 203:20,3,3,57698,57698,In-Person,"Ruco, Arlinda",MULH4022,2ND,B4/B5/B6,Intro: Health Research Methods
+AR,HLTH 203L:11,0,0,57704,57704,In-Person,"Ruco, Arlinda",MULH2032,1ST,C4,HLTH 203 Lab
+AR,HLTH 203L:12,0,0,57705,57705,In-Person,"Ruco, Arlinda",MULH2032,1ST,A7,HLTH 203 Lab
+AR,HLTH 203L:21,0,0,53722,53722,In-Person,"Ruco, Arlinda",MULH4022,2ND,C4,HLTH 203 Lab
+AR,HLTH 203L:22,0,0,53723,53723,In-Person,"Ruco, Arlinda",MULH4022,2ND,A7,HLTH 203 Lab
+AR,HLTH 218:20,3,3,57734,57734,In-Person,"Holmes, Christina",MULH3032,2ND,U7/U8,Anthro of Health & Illness
+AR,HLTH 301:11,3,3,55580,55580,In-Person,"Khakpour, Mahasti",MULH4030,1ST,O4/O5,"Global Health, Equity & Innov"
+AR,HLTH 301:12,3,3,57701,57701,In-Person,"Khakpour, Mahasti",MULH4030,1ST,X4/X5,"Global Health, Equity & Innov"
+AR,HLTH 302:21,3,3,55581,55581,In-Person,"Holmes, Christina",MULH4034,2ND,U1/U2,Health in All Policies
+AR,HLTH 302:22,3,3,57702,57702,In-Person,"Holmes, Christina",MULH3026,2ND,Z4/Z5,Health in All Policies
+AR,HLTH 395:10,3,3,57706,57706,In-Person,"MacGillivray, Megan",BB236,1ST,C1/C2/C3,ST: Disability & Aging
+AR,HLTH 401:11,3,3,54790,54790,In-Person,"Ruco, Arlinda",BB337,1ST,O7/W8,Health Leadership
+AR,HLTH 401:12,3,3,56641,56641,In-Person,"Ruco, Arlinda",MULH2032,1ST,U8/Z8,Health Leadership
+AR,HLTH 412:21,3,3,56229,56229,In-Person,"MacGillivray, Megan",MULH3026,2ND,O7/O8,Health Innovation
+AR,HLTH 412:22,3,3,56230,56230,In-Person,"MacGillivray, Megan",BB337,2ND,O4/O5,Health Innovation
+AR,HLTH 421:20,3,3,57735,57735,In-Person,"Khakpour, Mahasti",AX124,2ND,Z7/Z8,Nutrition in Global Health
+AR,HLTH 490:00,6,6,56810,56810,In-Person,"Khakpour, Mahasti",BB305,FULL,Z4,Honours Thesis
+SC,HNU 135:20,3,3,57636,57636,In-Person,"MacKinnon, Norma",BB237,2ND,O7/O8,Intro Nutrition for Nursing
+SC,HNU 142:10,3,3,54924,54924,In-Person,"MacKinnon, Norma",IM114,1ST,W4/W5,Intro to Food & Health
+SC,HNU 142:66,3,3,58871,58871,Online-No Scheduled Delivery,"Emrich, Teri",Online,1ST,TBA,Intro to Food & Health
+SC,HNU 142:67,3,3,58896,58896,Online-No Scheduled Delivery,"Emrich, Teri",Online,2ND,TBA,Intro to Food & Health
+SC,HNU 145:20,3,3,46847,46847,In-Person,"English, Marcia",BB237,2ND,B4/B5/B6,Intro to Foods
+SC,HNU 145L:21,0,0,40500,40500,In-Person,"Viana, Lauren",BB259,2ND,X7/Z7,HNU 145 Lab
+SC,HNU 145L:22,0,0,51573,51573,In-Person,"Viana, Lauren",BB259,2ND,O7/W8,HNU 145 Lab
+SC,HNU 146:10,3,3,50573,50573,In-Person,"Viana, Lauren",BB236,1ST,B1/B2/B3,Intro to Food Science
+SC,HNU 146L:11,0,0,40502,40502,In-Person,"Viana, Lauren",BB259,1ST,X7/Z7,HNU 146 Lab
+SC,HNU 146L:12,0,0,40504,40504,In-Person,"Viana, Lauren",BB259,1ST,O7/W8,HNU 146 Lab
+SC,HNU 163:66,3,3,59045,59045,Online-No Scheduled Delivery,"Murphy, Leanne",Online,1ST,TBA,Nutrition for Health & Fitness
+SC,HNU 225:20,3,3,55426,55426,In-Person,"Reid, Laura",BB255,2ND,L4/L5/L6,Professional Practice
+SC,HNU 225L:20,0,0,55394,55394,In-Person,"Reid, Laura",BB255,2ND,S4,HNU 225 Lab
+SC,HNU 242:10,3,3,55397,55397,In-Person,"Jamieson, Jennifer",MULH3024,1ST,K1/K2/K3,Nutrition Science
+SC,HNU 262:20,3,3,46849,46849,In-Person,"Jamieson, Jennifer",BB237,2ND,A4/A5/A6,Nutrit in Human Metabolism
+SC,HNU 298:66,3,3,58872,58872,Online-No Scheduled Delivery,"Murphy, Leanne",Online,1ST,TBA,ST: Sport Nutrition
+SC,HNU 351:10,3,3,48233,48233,In-Person,"Harvie, Ruth",SCHW289,1ST,Z4/Z5,Nutritional Assessment
+SC,HNU 351L:10,0,0,48402,48402,In-Person,"Harvie, Ruth",BB255,1ST,U8/Z8,HNU 351 Lab
+SC,HNU 355:10,3,3,58701,58701,In-Person,"Reid, Laura",BB255,1ST,W4/W5,Nutrition in Chronic Disease
+SC,HNU 355L:10,0,0,58702,58702,In-Person,"Reid, Laura",BB255,1ST,S4,HNU 355 Lab
+SC,HNU 356:10,3,3,48234,48234,In-Person,"Harvie, Ruth",SCHW290,1ST,X1/X2,Food Service & Food Production
+SC,HNU 356L:10,0,0,48239,48239,In-Person,"Viana, Lauren",BB255,1ST,U7/W7,HNU 356 Lab
+SC,HNU 363:20,3,3,53714,53714,In-Person,"NU - TBA,",BB337,2ND,Z1/Z2,Sport Nutrition
+SC,HNU 365:20,3,3,48235,48235,In-Person,"MacDonald, Helen (Angela)",BB255,2ND,U1/U2,Community Nutrition
+SC,HNU 366:10,3,3,46855,46855,In-Person,"MacDonald, Helen (Angela)",BB255,1ST,X4/X5,Maternal & Pediatric Nutrition
+SC,HNU 384:10,3,3,53716,53716,In-Person,"Everitt, Tracy",BB337,1ST,O1/O2,Nutrition Research Design
+SC,HNU 405:10,3,3,48354,48354,In-Person,"Everitt, Tracy",BB255,1ST,Z1/Z2,Food Availability
+SC,HNU 421:20,3,3,57708,57708,In-Person,"Khakpour, Mahasti",AX124,2ND,Z7/Z8,Nutrition in Global Health
+SC,HNU 425:20,3,3,57632,57632,In-Person,"Everitt, Tracy",BB255,2ND,U4/U5,Nutrition in Aging
+SC,HNU 433:10,3,3,56695,56695,In-Person,"URS -TBA,",MSBM147,1ST,O7/W8,Policy for Health-Strategies
+SC,HNU 445:20,3,3,55391,55391,In-Person,"English, Marcia",BB305,2ND,O1/O2,Food Product Development
+SC,HNU 445L:20,0,0,55392,55392,In-Person,"Viana, Lauren",BB256,2ND,U8/Z8,HNU 445 Lab
+SC,HNU 452:20,3,3,57634,57634,In-Person,"Harvie, Ruth",BB305,2ND,W1/W2,Clinical Nutrition Therapy
+SC,HNU 452L:20,0,0,57635,57635,In-Person,"Harvie, Ruth",BB255,2ND,O7/W8,HNU 452 Lab
+SC,HNU 456:20,3,3,48237,48237,In-Person,"Harvie, Ruth",BB255,2ND,U7/W7,Food Service System Management
+SC,HNU 471:11,3,3,58674,58674,In-Person,"Maltby, Neil",SCHW215,1ST,Z4/Z5,Entrepreneurial Practices
+SC,HNU 471:12,3,3,58680,58680,In-Person,"SAD - TBA,",SCHW215,1ST,Z7/Z8,Entrepreneurial Practices
+SC,HNU 475:20,3,3,48917,48917,In-Person,"MacDonald, Helen (Angela)",AX124,2ND,X4/Z4,Effecting Change
+SC,HNU 481:10,6,6,49102,49102,In-Person,"MacDonald, Helen (Angela)",,1ST,TBA,Internship Practicum I
+SC,HNU 481:20,6,6,48516,48516,In-Person,"Reid, Laura",,2ND,TBA,Internship Practicum I
+SC,HNU 482:11,6,6,47909,47909,In-Person,"Reid, Laura",,1ST,TBA,Internship Practicum II
+SC,HNU 482:12,6,6,58088,58088,In-Person,"MacDonald, Helen (Angela)",,1ST,TBA,Internship Practicum II
+SC,HNU 482:20,6,6,56124,56124,In-Person,"MacDonald, Helen (Angela)",,2ND,TBA,Internship Practicum II
+SC,HNU 483:11,6,6,47280,47280,In-Person,"Reid, Laura",,1ST,TBA,Internship Practicum III
+SC,HNU 483:12,6,6,58089,58089,In-Person,"MacDonald, Helen (Angela)",,1ST,TBA,Internship Practicum III
+SC,HNU 483:21,6,6,44159,44159,In-Person,"Reid, Laura",,2ND,TBA,Internship Practicum III
+SC,HNU 483:22,6,6,58234,58234,In-Person,"MacDonald, Helen (Angela)",,2ND,TBA,Internship Practicum III
+SC,HNU 485:20,3,3,53718,53718,In-Person,"Everitt, Tracy",BB255,2ND,X1/X2,Applied Nutrition Research
+SC,HNU 490:00,6,6,57633,57633,In-Person,"Jamieson, Jennifer; English, Marcia",MULH4034,FULL,O4/O5,Honours Thesis
+SC,HNU 491:00,0,0,51303,51303,In-Person,"Jamieson, Jennifer; English, Marcia",,FULL,TBA,Advanced Major & Hon Seminar
+SC,HNU 497:66,3,3,58898,58898,Online-No Scheduled Delivery,,Online,2ND,TBA,ST: Nutrition Policy
+AR,IDS 305:20,3,3,56022,56022,In-Person,"Oxner, Mary",NT412,2ND,W4/W5,Immersion Service Learning
+SC,MATH 101:10,3,3,51162,51162,In-Person,"Zhou, Ping",BB237,1ST,W7/W8,"Sets, Logic & Number Theory"
+SC,MATH 101:20,3,3,52205,52205,In-Person,"Zhou, Ping",MULH2070,2ND,W7/W8,"Sets, Logic & Number Theory"
+SC,MATH 102:10,3,3,52204,52204,In-Person,"Taylor, Tara",MULH2032,1ST,L4/L5/L6,"Graphs, Functions, Geometry"
+SC,MATH 102:20,3,3,52091,52091,In-Person,"Al-Shaghay, Abdullah",MULH2070,2ND,L4/L5/L6,"Graphs, Functions, Geometry"
+SC,MATH 105:11A,3,3,53028,53028,In-Person,"Salimi, Mehdi",MULH2032,1ST,W7/W8,Business Mathematics
+SC,MATH 105:11B,3,3,53258,53258,In-Person,"Salimi, Mehdi",MULH2032,1ST,W7/W8,Business Mathematics
+SC,MATH 105:12A,3,3,53029,53029,In-Person,"De'Bell, Keith",MULH2032,1ST,O1/O2,Business Mathematics
+SC,MATH 105:12B,3,3,53259,53259,In-Person,"De'Bell, Keith",MULH2032,1ST,O1/O2,Business Mathematics
+SC,MATH 105:13A,3,3,53030,53030,In-Person,"De'Bell, Keith",MULH2034,1ST,X1/X2,Business Mathematics
+SC,MATH 105:13B,3,3,53260,53260,In-Person,"De'Bell, Keith",MULH2034,1ST,X1/X2,Business Mathematics
+SC,MATH 105:14A,3,3,54113,54113,In-Person,"Wang, Ping",MULH2034,1ST,Z7/Z8,Business Mathematics
+SC,MATH 105:14B,3,3,54114,54114,In-Person,"Wang, Ping",MULH2034,1ST,Z7/Z8,Business Mathematics
+SC,MATH 105:15A,3,3,56811,56811,In-Person,"van Bommel, Martin",MULH4034,1ST,X4/X5,Business Mathematics
+SC,MATH 105:15B,3,3,56812,56812,In-Person,"van Bommel, Martin",MULH4034,1ST,X4/X5,Business Mathematics
+SC,MATH 105:20,3,3,53032,53032,In-Person,"Salimi, Mehdi",MULH4034,2ND,X1/X2,Business Mathematics
+SC,MATH 105L:11A,0,0,53033,53033,In-Person,"Salimi, Mehdi",MULH3026,1ST,K2,MATH 105 Lab
+SC,MATH 105L:11B,0,0,53034,53034,In-Person,"Salimi, Mehdi",MULH3026,1ST,B5,MATH 105 Lab
+SC,MATH 105L:12A,0,0,53035,53035,In-Person,"De'Bell, Keith",SCHW190,1ST,B3,MATH 105 Lab
+SC,MATH 105L:12B,0,0,53036,53036,In-Person,"De'Bell, Keith",SCHW190,1ST,L5,MATH 105 Lab
+SC,MATH 105L:13A,0,0,53037,53037,In-Person,"De'Bell, Keith",MULH3026,1ST,A5,MATH 105 Lab
+SC,MATH 105L:13B,0,0,53038,53038,In-Person,"De'Bell, Keith",MULH3026,1ST,K7,MATH 105 Lab
+SC,MATH 105L:14A,0,0,54115,54115,In-Person,"Salimi, Mehdi",CO242,1ST,C4,MATH 105 Lab
+SC,MATH 105L:14B,0,0,54116,54116,In-Person,"Salimi, Mehdi",CO242,1ST,A7,MATH 105 Lab
+SC,MATH 105L:15A,0,0,56813,56813,In-Person,"van Bommel, Martin",SCHW256,1ST,B6,MATH 105 Lab
+SC,MATH 105L:15B,0,0,56814,56814,In-Person,"van Bommel, Martin",SCHW256,1ST,L8,MATH 105 Lab
+SC,MATH 105L:21,0,0,53041,53041,In-Person,"Salimi, Mehdi",MULH3026,2ND,C1,MATH 105 Lab
+SC,MATH 105L:22,0,0,53042,53042,In-Person,"Salimi, Mehdi",MULH3026,2ND,K7,MATH 105 Lab
+SC,MATH 106:11,3,3,52351,52351,In-Person,"van den Hoogen, Robert","MULH2032 , NFSC1072",1ST,A4/A5/A6/L3,Calculus l
+SC,MATH 106:12,3,3,52352,52352,In-Person,"Lukeman, Ryan",MULH2070,1ST,B4/B5/B6/K2,Calculus l
+SC,MATH 106L:11,0,0,52354,52354,In-Person,"Keizer, Peter",SCHW289,1ST,L1,MATH 106 Lab
+SC,MATH 106L:12,0,0,52355,52355,In-Person,"Keizer, Peter",MULH3024,1ST,K5,MATH 106 Lab
+SC,MATH 106L:13,0,0,52356,52356,In-Person,"Keizer, Peter",SCHW289,1ST,L2,MATH 106 Lab
+SC,MATH 106L:14,0,0,52357,52357,In-Person,"Keizer, Peter",MULH3024,1ST,L3,MATH 106 Lab
+SC,MATH 107:21,3,3,52363,52363,In-Person,"Lukeman, Ryan",NFSC1072,2ND,A4/A5/A6/L3,Calculus ll
+SC,MATH 107:22,3,3,52365,52365,In-Person,"Lukeman, Ryan","MULH2032 , MULH2070",2ND,B4/B5/B6/K2,Calculus ll
+SC,MATH 107L:21,0,0,52366,52366,In-Person,"Keizer, Peter",SCHW289,2ND,L1,MATH 107 Lab ll
+SC,MATH 107L:22,0,0,52367,52367,In-Person,"Keizer, Peter",MULH3024,2ND,K5,MATH 107 Lab ll
+SC,MATH 107L:23,0,0,52368,52368,In-Person,"Keizer, Peter",SCHW289,2ND,L2,MATH 107 Lab ll
+SC,MATH 121:10,3,3,46826,46826,In-Person,"Zhou, Ping",SCHW110,1ST,A1/A2/A3/K4,Calculus I for Engineers
+SC,MATH 121L:11,0,0,46835,46835,In-Person,"Keizer, Peter",AX124,1ST,A4,MATH 121 Problem Session
+SC,MATH 121L:12,0,0,54605,54605,In-Person,"Keizer, Peter",CO242,1ST,B5,MATH 121 Problem Session
+SC,MATH 122:20,3,3,46827,46827,In-Person,"Zhou, Ping",MULH2030,2ND,A1/A2/A3/K4,Calculus II for Engineers
+SC,MATH 122L:21,0,0,46836,46836,In-Person,"Keizer, Peter",MULH3024,2ND,A4,MATH 122 Problem Session
+SC,MATH 122L:22,0,0,54607,54607,In-Person,"Keizer, Peter",AX124,2ND,B5,MATH 122 Problem Session
+SC,MATH 126:10,3,3,52349,52349,In-Person,"Wang, Ping",MULH2030,1ST,A4/A5/A6,Calculus l
+SC,MATH 126L:11,0,0,52358,52358,In-Person,"Keizer, Peter",AX124,1ST,C1,MATH 126 Lab
+SC,MATH 126L:12,0,0,52360,52360,In-Person,"Keizer, Peter",AX124,1ST,B1,MATH 126 Lab
+SC,MATH 127:20,3,3,52364,52364,In-Person,"Wang, Ping",MULH2070,2ND,A4/A5/A6,Calculus ll
+SC,MATH 127L:21,0,0,52371,52371,In-Person,"Keizer, Peter",MULH3024,2ND,C1,MATH 127 Lab ll
+SC,MATH 127L:22,0,0,52372,52372,In-Person,"Keizer, Peter",MULH3024,2ND,B1,MATH 127 Lab ll
+SC,MATH 221:10,3,3,46828,46828,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,B4/B6/C6,Differential Equation for Engr
+SC,MATH 221L:10,0,0,46837,46837,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A2/K4,MATH 221 Lab
+SC,MATH 222:20,3,3,46829,46829,In-Person,"Salimi, Mehdi",MULH2034,2ND,A1/A2/A3,Calculus III for Engineers
+SC,MATH 222L:20,0,0,40521,40521,In-Person,"Keizer, Peter",NFSC3034,2ND,E4,MATH 222 Problem Session
+SC,MATH 223:10,3,3,53812,53812,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A1/K5/L1,Linear Algebra for Engineers
+SC,MATH 223L:10,0,0,53814,53814,In-Person,"van den Hoogen, Robert",NFSC3034,1ST,A3/L2,MATH 223 Problem Session
+SC,MATH 236:10,3,3,58476,58476,In-Person,"De'Bell, Keith",AX124,1ST,E6,Data Modeling for Business
+SC,MATH 253:10,3,3,46834,46834,In-Person,"Al-Shaghay, Abdullah",BB237,1ST,B1/B2/B3,Matrix Algebra
+SC,MATH 254:20,3,3,41854,41854,In-Person,"Al-Shaghay, Abdullah",MULH3034,2ND,K1/K2/K3,Linear Algebra
+SC,MATH 267:20,3,3,42980,42980,In-Person,"Zhou, Ping",MULH3030,2ND,B1/B2/B3,Calculus III
+SC,MATH 277:10,3,3,42981,42981,In-Person,"Finbow, Stephen",MULH2030,1ST,B4/B5/B6,Discrete Structures
+SC,MATH 287:10,3,3,58731,58731,In-Person,"Lukeman, Ryan",MULH3024,1ST,B1/B2/B3,Natural Resource Modeling
+SC,MATH 335:20,3,3,58732,58732,In-Person,"Wang, Ping",SCHW190,2ND,B4/B5/B6,Management Science
+SC,MATH 354:20,3,3,58734,58734,In-Person,"DeWolf, Darien",NFSC1096,2ND,A4/A5/A6,Modern Algebra I
+SC,MATH 366:10,3,3,58479,58479,In-Person,"Taylor, Tara",AX23A,1ST,A4/A5/A6,Real Analysis I
+SC,MATH 367:10,3,3,44931,44931,In-Person,"Salimi, Mehdi",MULH3026,1ST,L4/L5/L6,Differential Equations
+SC,MATH 372:10,3,3,58838,58838,In-Person,"Al-Shaghay, Abdullah",AX23A,1ST,B4/B5/B6,Theory of Numbers
+SC,MATH 382:20,3,3,56840,56840,In-Person,"van Bommel, Martin",MULH4034,2ND,Z7/Z8,Sports Analytics
+SC,MATH 466:20,3,3,58480,58480,In-Person,"Finbow, Stephen",,2ND,TBA,Real Analysis II
+SC,MATH 481:20,3,3,58482,58482,In-Person,"Lukeman, Ryan",AX23A,2ND,C1/C2/C3,Partial Differential Equations
+SC,MATH 490:00,6,6,57696,57696,In-Person,"Finbow, Stephen",,FULL,TBA,Honours Thesis
+SC,MATH 491:00,0,0,51161,51161,In-Person,"Wang, Ping",MULH2034,FULL,A7,Senior Seminar
+SC,MATH 493:00,3,3,57936,57936,In-Person,"Finbow, Stephen",,FULL,TBA,Senior Thesis
+AR,MIKM 105:10,3,3,58335,58335,Online-Scheduled Delivery,"Stevens, Dawn",ONLINE,1ST,E5,Mi'kmaq Language I
+AR,MIKM 205:20,3,3,57492,57492,Online-Scheduled Delivery,"Stevens, Dawn",ONLINE,2ND,E5,Mi'kmaq Language II
+AR,MLAN 209:10,3,3,58639,58639,In-Person,"Darwish, Linda",SCHW289,1ST,S4/S5,Beginning Arabic
+AR,MUSI 104:10,1.5,1.5,57660,57660,In-Person,"Billington, Ryan",GM112,1ST,C1/C2,Structure of CP Music
+AR,MUSI 105:10,1.5,1.5,57661,57661,In-Person,"Lalonde, Jessica",GM112,1ST,A2/A3,Aural Skills I
+AR,MUSI 108:20,1.5,1.5,57662,57662,In-Person,"Omae, Kenji",GM113,2ND,C1/C2,Jazz Theory
+AR,MUSI 109:20,1.5,1.5,57663,57663,In-Person,"Billington, Ryan",GM113,2ND,A2/A3,Aural Skills II
+AR,MUSI 112:10,3,3,58393,58393,In-Person,"Bannerman, Donald (Brent)",GM108,1ST,A1/A2/A3,The Art of Listening
+AR,MUSI 112:20,3,3,54925,54925,In-Person,"Lalonde, Jessica",GM108,2ND,W1/W2,The Art of Listening
+AR,MUSI 117:10,3,3,52175,52175,In-Person,"Hanlon, Jacob (Jake)",SCHW110,1ST,E5,History of Popular Music
+AR,MUSI 118:20,3,3,58394,58394,In-Person,"Michelli, Anthony",GM108,2ND,X1/X2,World Music
+AR,MUSI 146:10,1.5,1.5,58373,58373,In-Person,"Billington, Ryan",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble I
+AR,MUSI 147:10,1.5,1.5,58374,58374,In-Person,"Tynan, Paul",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble I
+AR,MUSI 156:20,1.5,1.5,58375,58375,In-Person,"Billington, Ryan",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble II
+AR,MUSI 157:20,1.5,1.5,58376,58376,In-Person,"Tynan, Paul",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble II
+AR,MUSI 165:10,3,3,50667,50667,In-Person,"Michelli, Anthony",GM108,1ST,U4/U5,Jazz History
+AR,MUSI 166:10,3,3,53959,53959,In-Person,"Farrugia, Adrean",GM118,1ST,X4/X5,Basic Keyboarding Skills
+AR,MUSI 166:20,3,3,57669,57669,In-Person,"Farrugia, Adrean",GM118,2ND,X4/X5,Basic Keyboarding Skills
+AR,MUSI 181:10,3,3,58396,58396,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance I
+AR,MUSI 181:20,3,3,58397,58397,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance I
+AR,MUSI 191:00,3,3,58377,58377,In-Person,"Tynan, Paul",GM108,FULL,W4,Secondary Instrument I
+AR,MUSI 195:10,3,3,58398,58398,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance II
+AR,MUSI 195:20,3,3,58399,58399,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance II
+AR,MUSI 208:10,1.5,1.5,57670,57670,In-Person,"Rushka, Paul",GM113,1ST,K5/K6,Jazz Theory and Arranging
+AR,MUSI 209:20,1.5,1.5,57671,57671,In-Person,"Rushka, Paul",GM113,2ND,K5/K6,Aural Skills III
+AR,MUSI 214:10,3,3,54626,54626,In-Person,"Collins, Franklin (Brent)",GM001,1ST,E7,Hist & Techniques for Guitar
+AR,MUSI 214:20,3,3,52203,52203,In-Person,"Brunkhorst, Kevin",GM108,2ND,X4/X5,Hist & Techniques for Guitar
+AR,MUSI 217:20,3,3,58395,58395,In-Person,"Brunkhorst, Kevin",SCHW110,2ND,E5,The Beatles
+AR,MUSI 246:10,1.5,1.5,58379,58379,In-Person,"Billington, Ryan",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble III
+AR,MUSI 247:10,1.5,1.5,58380,58380,In-Person,"Tynan, Paul",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble III
+AR,MUSI 256:20,1.5,1.5,58381,58381,In-Person,"Billington, Ryan",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble IV
+AR,MUSI 257:20,1.5,1.5,58382,58382,In-Person,"Tynan, Paul",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble IV
+AR,MUSI 263:10,3,3,55787,55787,In-Person,"Farrugia, Adrean",GM113,1ST,U4/U5,Improvisation Fundamentals
+AR,MUSI 265:20,3,3,54765,54765,In-Person,"Omae, Kenji",GM112,2ND,Z4/Z5,Jazz Styles & Literature
+AR,MUSI 275:10,3,3,50668,50668,In-Person,"Curry, Carolyn",GM108,1ST,Z4/Z5,Songwriters & Their Songs
+AR,MUSI 276:20,3,3,51769,51769,In-Person,"Curry, Carolyn",GM108,2ND,U4/U5,Songwriting Workshop
+AR,MUSI 281:10,3,3,58400,58400,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance III
+AR,MUSI 281:20,3,3,58401,58401,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance III
+AR,MUSI 291:00,3,3,46554,46554,In-Person,"Tynan, Paul",GM108,FULL,W4,Secondary Instrument II
+AR,MUSI 295:10,3,3,58402,58402,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance IV
+AR,MUSI 295:20,3,3,58403,58403,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance IV
+AR,MUSI 304:10,3,3,56273,56273,In-Person,"Omae, Kenji",GM112,1ST,U4/U5,Small Ensemble Arranging
+AR,MUSI 312:20,3,3,57658,57658,In-Person,"Billington, Ryan",GM108,2ND,Z4/Z5,Women and Popular Music
+AR,MUSI 319:10,3,3,58843,58843,In-Person,"MacLeod, Robbie",GM001,1ST,U4/U5,Celtic Music
+AR,MUSI 322:10,3,3,53971,53971,In-Person,"Bannerman, Donald (Brent)",GM108,1ST,W1/W2,Western Art Music I
+AR,MUSI 323:20,3,3,53972,53972,In-Person,"Bannerman, Donald (Brent)",GM112,2ND,W1/W2,Western Art Music II
+AR,MUSI 325:20,3,3,56274,56274,In-Person,"Hanlon, Jacob (Jake)",GM112,2ND,U4/U5,Jazz Composition
+AR,MUSI 346:10,1.5,1.5,58384,58384,In-Person,"Billington, Ryan",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble V
+AR,MUSI 347:10,1.5,1.5,58385,58385,In-Person,"Tynan, Paul",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble V
+AR,MUSI 356:20,1.5,1.5,58386,58386,In-Person,"Billington, Ryan",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble VI
+AR,MUSI 357:20,1.5,1.5,58387,58387,In-Person,"Tynan, Paul",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble VI
+AR,MUSI 360:20,3,3,55605,55605,In-Person,"Rushka, Paul",GM113,2ND,Z4/Z5,Advancing Improvisation
+AR,MUSI 381:10,3,3,58404,58404,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance V
+AR,MUSI 381:20,3,3,58405,58405,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance V
+AR,MUSI 391:00,3,3,58383,58383,In-Person,"Tynan, Paul",GM108,FULL,W4,Secondary Instrument III
+AR,MUSI 395:10,3,3,58406,58406,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance VI
+AR,MUSI 395:20,3,3,58407,58407,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance VI
+AR,MUSI 426:10,3,3,56235,56235,In-Person,"Brunkhorst, Kevin",GM112,1ST,O4/O5,Adv. Arranging/Orchestration
+AR,MUSI 446:10,1.5,1.5,58389,58389,In-Person,"Billington, Ryan",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble VII
+AR,MUSI 447:10,1.5,1.5,58390,58390,In-Person,"Tynan, Paul",GM108,1ST,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble VII
+AR,MUSI 456:20,1.5,1.5,58391,58391,In-Person,"Billington, Ryan",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Vocal Ensemble VIII
+AR,MUSI 457:20,1.5,1.5,58392,58392,In-Person,"Tynan, Paul",GM108,2ND,O7/O8/U7/U8/W7/W8/X7/X8/Z7/Z8,Instrumental Ensemble VIII
+AR,MUSI 465:10,3,3,54768,54768,In-Person,"Rushka, Paul",GM112,1ST,Z4/Z5,Jazz Styles & Literature
+AR,MUSI 481:10,3,3,58408,58408,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance VII
+AR,MUSI 481:20,3,3,58409,58409,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance VII
+AR,MUSI 491:00,3,3,58388,58388,In-Person,"Tynan, Paul",GM108,FULL,W4,Secondary Instrument IV
+AR,MUSI 492:20,0,0,53977,53977,In-Person,"Tynan, Paul",,2ND,TBA,Recital
+AR,MUSI 494:20,3,3,53978,53978,In-Person,"Tynan, Paul",,2ND,TBA,Honours Recital & Thesis
+AR,MUSI 495:10,3,3,58410,58410,In-Person,"Tynan, Paul",GM108,1ST,W4,Applied Performance VIII
+AR,MUSI 495:20,3,3,58411,58411,In-Person,"Tynan, Paul",GM108,2ND,W4,Applied Performance VIII
+SC,NURS 206:11,3,3,53150,53150,In-Person,,MSBM147,1ST,O8/Z7,Discipline and Profession
+SC,NURS 206:12,3,3,53151,53151,In-Person,,"MSBS225 , MSBC117",1ST,O5/Z4,Discipline and Profession
+SC,NURS 206:20A,3,3,52254,52254,In-Person,,"MSBM147 , MSBC117",2ND,W7/Z7,Discipline and Profession
+SC,NURS 207:11,6,6,53153,53153,In-Person,,"MSBM147 , MSBC117",1ST,B6/B7/C7/K6/L6/L8,Intro to Nursing Therapeutics
+SC,NURS 207:12,6,6,53154,53154,In-Person,,"MSBC117 , MSBS225 , SCHW156",1ST,A6/B4/C4/C9/L5/L6,Intro to Nursing Therapeutics
+SC,NURS 207:20A,6,6,52255,52255,In-Person,,"MSBM147 , MSBC117",2ND,A4/A5/B4/C3/K3/K7,Intro to Nursing Therapeutics
+SC,NURS 207L:11,0,0,53156,53156,In-Person,,MSBM247,1ST,K3/L3/U1/X1/Z1,NURS 207 Lab
+SC,NURS 207L:12,0,0,53157,53157,In-Person,,MSBM247,1ST,A4/C1/X1/Z4,NURS 207 Lab
+SC,NURS 207L:13,0,0,53159,53159,In-Person,,MSBM247,1ST,A1/A2/B1/C1/K4/W7,NURS 207 Lab
+SC,NURS 207L:14,0,0,53160,53160,In-Person,,MSBM247,1ST,A1/B1/C1/K1/L1/Z8,NURS 207 Lab
+SC,NURS 207L:20A,0,0,53200,53200,In-Person,,MSBM247,2ND,A3/B3/C2/C6/C9/K2/L2/L3/L6/U8/Z8,NURS 207 Lab
+SC,NURS 208:11,3,3,53180,53180,In-Person,,MSBM147,1ST,X7/Z5,Foundations of Health Systems
+SC,NURS 208:12,3,3,53181,53181,In-Person,,MSBS225,1ST,U2/X2,Foundations of Health Systems
+SC,NURS 208:20A,3,3,52256,52256,In-Person,,"MSBM147 , MSBC117",2ND,U7/X4,Foundations of Health Systems
+SC,NURS 209:11,3,3,53183,53183,In-Person,,MSBM147,1ST,U8/W4,Nursing Roles & Practices I
+SC,NURS 209:12,3,3,53184,53184,In-Person,,MSBS225,1ST,U7/U8,Nursing Roles & Practices I
+SC,NURS 209:20A,3,3,52257,52257,In-Person,,MSBM147,2ND,W1/Z1,Nursing Roles & Practices I
+SC,NURS 209L:11,0,0,53186,53186,In-Person,,MSBM247,1ST,U2/Z2,NURS 209 Lab
+SC,NURS 209L:12,0,0,53187,53187,In-Person,,MSBM247,1ST,B8/C8/K5,NURS 209 Lab
+SC,NURS 209L:13,0,0,53189,53189,In-Person,,MSBM247,1ST,X7/Z7,NURS 209 Lab
+SC,NURS 209L:14,0,0,53190,53190,In-Person,,MSBM247,1ST,O1/W2,NURS 209 Lab
+SC,NURS 209L:21A,0,0,57729,57729,In-Person,,MSBM247,2ND,U5/Z5,NURS 209 Lab
+SC,NURS 209L:22A,0,0,58333,58333,In-Person,,MSBM247,2ND,B8/C8/K5,NURS 209 Lab
+SC,NURS 231:21,3,3,53204,53204,In-Person,,MSBC117,2ND,O2/Z8,Research & Collaborative Prac.
+SC,NURS 231:22,3,3,53205,53205,In-Person,,MSBM147,2ND,W4/W8,Research & Collaborative Prac.
+SC,NURS 231:72N,3,3,58916,58916,Online-No Scheduled Delivery,,Distance,L3,TBA,Research & Collaborative Prac.
+SC,NURS 232:21,3,3,53207,53207,In-Person,,"MSBS225 , MSBC117",2ND,O7/X5,Health & Nurs Therapeutics I
+SC,NURS 232:22,3,3,53208,53208,In-Person,,MSBM147,2ND,O7/U4,Health & Nurs Therapeutics I
+SC,NURS 232L:21,0,0,53210,53210,In-Person,,MSBM247,2ND,O1/W2,NURS 232 Lab
+SC,NURS 232L:22,0,0,53211,53211,In-Person,,MSBM247,2ND,U2/Z2,NURS 232 Lab
+SC,NURS 232L:23,0,0,53213,53213,In-Person,,MSBM247,2ND,X7/Z7,NURS 232 Lab
+SC,NURS 232L:24,0,0,53214,53214,In-Person,,MSBM247,2ND,X1/Z1,NURS 232 Lab
+SC,NURS 233:21,6,6,53216,53216,In-Person,,"MSBS225 , MSBC117",2ND,A6/B6/B8/C6/K5/L3,Care of Families in Transition
+SC,NURS 233:22,6,6,53217,53217,In-Person,,"MSBM147 , MSBC117",2ND,B7/C2/C7/K2/K4/L4,Care of Families in Transition
+SC,NURS 234:21,3,3,53230,53230,In-Person,,,2ND,U1/U4/U7/W1/W4/W7/X1/X4/X7/Z1/Z4/Z7,Introduction: Nursing Practice
+SC,NURS 234:22,3,3,54139,54139,In-Person,,,2ND,O2/O5/O8/U2/U5/U8/X2/X5/X8/Z2/Z5/Z8,Introduction: Nursing Practice
+SC,NURS 234:72N,3,3,58917,58917,Online-No Scheduled Delivery,,Distance,L2,TBA,Nursing Roles & Practices II
+SC,NURS 265:72N,3,3,58931,58931,Online-No Scheduled Delivery,,Distance,L4,TBA,Evidence-Based Nursing
+SC,NURS 297:72N,3,3,58924,58924,Online-No Scheduled Delivery,"Hansen-Ketchum, Patti",Distance,L1,TBA,ST: RN Role Transition
+SC,NURS 302:10,3,3,58835,58835,In-Person,"URS -TBA,",MULH3032,1ST,E6,2SLGBTQ+ Health & Social Care
+SC,NURS 303:20,3,3,58334,58334,In-Person,,MSBM147,2ND,E4,Indigenous Perspectives Health
+SC,NURS 306:11,3,3,53192,53192,In-Person,,MSBM147,1ST,X2/Z2,Adv Nurs Leadership/Practice
+SC,NURS 306:12,3,3,53727,53727,In-Person,,MSBS225,1ST,U1/Z1,Adv Nurs Leadership/Practice
+SC,NURS 306:13,3,3,58500,58500,In-Person,,MSBC117,1ST,W7/X4,Adv Nurs Leadership/Practice
+SC,NURS 307:11,3,3,53193,53193,In-Person,,MSBM147,1ST,O2/U2,Health & Nurs Therapeutics II
+SC,NURS 307:12,3,3,53729,53729,In-Person,,MSBS225,1ST,W7/Z4,Health & Nurs Therapeutics II
+SC,NURS 307:13,3,3,58501,58501,In-Person,,"GM001 , MSBC117",1ST,U4/W2,Health & Nurs Therapeutics II
+SC,NURS 307L:11,0,0,53194,53194,In-Person,,", MSBC117",1ST,B8/C8/K5,NURS 307 Lab
+SC,NURS 307L:12,0,0,53731,53731,In-Person,,MSBC117,1ST,K8,NURS 307 Lab
+SC,NURS 307L:13,0,0,58350,58350,In-Person,,", MSBC117",1ST,C4/K2,NURS 307 Lab
+SC,NURS 307L:14,0,0,58351,58351,In-Person,,", MSBC117",1ST,A7/B2/C2/K2,NURS 307 Lab
+SC,NURS 307L:15,0,0,58502,58502,In-Person,,"MSBM147 ,",1ST,B8/K5,NURS 307 Lab
+SC,NURS 307L:16,0,0,58503,58503,In-Person,,"MSBC117 ,",1ST,B8/K1,NURS 307 Lab
+SC,NURS 308:11,6,6,53195,53195,In-Person,,"MSBM147 , MSBS225",1ST,B2/B6/C2/K6/L6/L8,Physical & Mental Illness
+SC,NURS 308:12,6,6,53733,53733,In-Person,,"MSBM147 , MSBS225",1ST,A4/B8/C1/K5/K7/L7,Physical & Mental Illness
+SC,NURS 308:13,6,6,58504,58504,In-Person,,"MSBC117 , MSBS225",1ST,A2/B1/C1/C8/K8/L1,Physical & Mental Illness
+SC,NURS 308:72N,6,6,58918,58918,Online-No Scheduled Delivery,,Distance,L6,TBA,Mental & Physical Illness
+SC,NURS 309:11,3,3,53229,53229,In-Person,,,1ST,U1/U4/U7/W1/W4/W7/X1/X4/X7/Z1/Z4/Z7,Nursing Roles & Practices III
+SC,NURS 309:12,3,3,54140,54140,In-Person,,,1ST,O2/O5/O8/U2/U5/U8/X2/X5/X8/Z2/Z5/Z8,Nursing Roles & Practices III
+SC,NURS 309:13,3,3,58505,58505,In-Person,,,1ST,O2/O5/O8/U2/U5/U8/X2/X5/X8/Z2/Z5/Z8,Nursing Roles & Practices III
+SC,NURS 332:21,3,3,53225,53225,In-Person,,MSBM147,2ND,X5/Z2,Multi-System Health Challenges
+SC,NURS 332:22,3,3,53735,53735,In-Person,,MSBS225,2ND,U4/X4,Multi-System Health Challenges
+SC,NURS 332:23,3,3,58506,58506,In-Person,,"MSBM147 , MSBS225",2ND,W7/X7,Multi-System Health Challenges
+SC,NURS 332:72N,3,3,58919,58919,Online-No Scheduled Delivery,,Distance,L2,TBA,Multi-System Health Challenges
+SC,NURS 332L:21,0,0,53226,53226,In-Person,,MSBC117,2ND,A6,NURS 332 Lab
+SC,NURS 332L:22,0,0,53307,53307,In-Person,,MSBC117,2ND,B6,NURS 332 Lab
+SC,NURS 332L:23,0,0,53737,53737,In-Person,,MSBC117,2ND,L1,NURS 332 Lab
+SC,NURS 332L:24,0,0,56046,56046,In-Person,,MSBC117,2ND,A2,NURS 332 Lab
+SC,NURS 332L:25,0,0,58507,58507,In-Person,,MSBC117,2ND,B1,NURS 332 Lab
+SC,NURS 332L:26,0,0,58508,58508,In-Person,,MSBC117,2ND,C1,NURS 332 Lab
+SC,NURS 333:21,6,6,53227,53227,In-Person,,MSBM147,2ND,B3/C2/C6/K2/L3/L5,Physical Health II
+SC,NURS 333:22,6,6,53741,53741,In-Person,,MSBS225,2ND,A5/B1/C1/C2/K2/K7,Physical Health II
+SC,NURS 333:23,6,6,58509,58509,In-Person,,MSBS225,2ND,A2/B8/C8/L1,Physical Health II
+SC,NURS 333:72N,6,6,58920,58920,Online-No Scheduled Delivery,,Distance,L6,TBA,Physical Health II
+SC,NURS 334:21,3,3,53231,53231,In-Person,,,2ND,U1/U4/U7/W1/W4/W7/X1/X4/X7/Z1/Z4/Z7,Nursing Roles & Practices IV
+SC,NURS 334:22,3,3,54141,54141,In-Person,,,2ND,O2/O5/O8/U2/U5/U8/X2/X5/X8/Z2/Z5/Z8,Nursing Roles & Practices IV
+SC,NURS 334:23,3,3,58510,58510,In-Person,,,2ND,O2/O5/O8/U2/U5/U8/X2/X5/X8/Z2/Z5/Z8,Nursing Roles & Practices IV
+SC,NURS 364:20,3,3,56692,56692,In-Person,"URS -TBA,",MSBS225,2ND,E4,Social Justice & Health
+SC,NURS 395:20,3,3,56128,56128,In-Person,,,2ND,TBA,Honours Thesis Seminar I
+SC,NURS 406:11,3,3,54449,54449,In-Person,,MSBC117,1ST,B8/K5/K7/L7,Professional Role Transition
+SC,NURS 406:12,3,3,54450,54450,In-Person,,MSBC117,1ST,A3/B3/C2/K2,Professional Role Transition
+SC,NURS 408:11,3,3,54451,54451,In-Person,,MULH3032,1ST,A4/C1/K4/L4,Adv Population & Public Health
+SC,NURS 408:12,3,3,54452,54452,In-Person,,MULH3032,1ST,B6/K3/L3/L8,Adv Population & Public Health
+SC,NURS 408:72N,3,3,58921,58921,Online-No Scheduled Delivery,,Distance,L2,TBA,Adv Population & Public Health
+SC,NURS 409:11,6,6,54453,54453,In-Person,,,1ST,TBA,Nursing Roles & Practices V
+SC,NURS 409:12,6,6,54454,54454,In-Person,,,1ST,TBA,Nursing Roles & Practices V
+SC,NURS 409:72N,6,6,58922,58922,Online-No Scheduled Delivery,,Distance,L3,TBA,Nursing Roles & Practices V
+SC,NURS 433:10,3,3,56694,56694,In-Person,,MSBM147,1ST,O7/W8,Policy for Health-Strategies
+SC,NURS 440:10A,15,15,58739,58739,In-Person,,,NU,TBA,Transition to Nursing Practice
+SC,NURS 440:21,15,15,54455,54455,In-Person,,,2ND,TBA,Transition to Nursing Practice
+SC,NURS 440:22,15,15,54456,54456,In-Person,,,2ND,TBA,Transition to Nursing Practice
+SC,NURS 440:72N,15,15,58923,58923,Online-No Scheduled Delivery,,Distance,L6,TBA,Transition to Nursing Practice
+SC,NURS 471:71,3,3,58859,58859,Online-No Scheduled Delivery,,Distance,D,TBA,Forensic Nursing I
+SC,NURS 483:71,3,3,58881,58881,Online-No Scheduled Delivery,,Distance,D4,TBA,Hospice Palliative Care Nurs
+SC,NURS 488:71,3,3,58861,58861,Online-No Scheduled Delivery,,Distance,D,TBA,Challenges in Aging
+SC,NURS 498:00,3,3,44198,44198,In-Person,,,FULL,TBA,Honours Thesis
+SC,NURS 499:00,3,3,50831,50831,In-Person,,,FULL,TBA,Adv Major Study & Practice
+AR,PGOV 101:10,3,3,53045,53045,In-Person,"Kikkert, Peter",MULH2030,1ST,W7/W8,Public Policy & Governance
+AR,PGOV 101:20,3,3,54518,54518,In-Person,"Kikkert, Peter",MULH4034,2ND,Z1/Z2,Public Policy & Governance
+AR,PGOV 201:20,3,3,56262,56262,In-Person,"Kikkert, Peter",MULH4034,2ND,U7/U8,Public Policy Analysis
+AR,PGOV 202:10,3,3,56263,56263,In-Person,"Clancy, Peter",MULH2032,1ST,Z1/Z2,Governance
+AR,PGOV 299:20,3,3,58634,58634,In-Person,"Dean, Ryan",MULH3022,2ND,E6,ST: The Arctic in Cdn Policy
+AR,PGOV 301:10,3,3,56265,56265,In-Person,"Dean, Ryan",MULH4022,1ST,Z1/Z2,Comparative Public Policy
+AR,PGOV 302:20,3,3,53575,53575,In-Person,"Dean, Ryan",MULH3024,2ND,Z7/Z8,Public Management
+AR,PGOV 303:10,3,3,58577,58577,In-Person,"Allen, Nathan",MULH4030,1ST,U4/U5,Research Principles/Practices
+AR,PGOV 304:10,3,3,55280,55280,In-Person,"Allen, Nathan",MULH3022,1ST,X4/X5,Research Design
+AR,PGOV 305:20,3,3,58637,58637,In-Person,"Wallace, Rebecca",MULH3022,2ND,W1/W2,Gender and Public Policy
+AR,PGOV 307:10,3,3,55285,55285,In-Person,"Isnor, Richard",MULH3032,1ST,O7/O8,Intro to Science Policy
+AR,PGOV 321:10,3,3,58566,58566,In-Person,"Wallace, Rebecca",MULH4034,1ST,Z4/Z5,Federalism
+AR,PGOV 355:20,3,3,58636,58636,In-Person,"Kikkert, Peter",MULH4022,2ND,E4,Learning from Disaster
+AR,PGOV 399:10,3,3,58635,58635,In-Person,"Kikkert, Peter",MULH4022,1ST,U1/U2,ST: Local Government
+AR,PGOV 401:20,3,3,57243,57243,In-Person,"Dean, Ryan",MULH3022,2ND,O7/W8,Strategic Governance
+AR,PGOV 402:10,3,3,57247,57247,In-Person,"Dean, Ryan",MULH4030,1ST,X7/Z7,Senior Seminar
+AR,PGOV 451:10,3,3,55283,55283,In-Person,"Kikkert, Peter",MULH3024,1ST,E4,Internship
+AR,PGOV 490:00,6,6,55284,55284,In-Person,"Kikkert, Peter",,FULL,TBA,Honours Thesis
+AR,PHIL 100:11H,6,6,46734,46734,In-Person,"Groarke, Louis",MULH3024,FULL,C4/C5/C6,Intro Philosophy
+AR,PHIL 100:12,6,6,43682,43682,In-Person,"Szlachta, Michael",MULH4032,FULL,C1/C2/C3,Intro Philosophy
+AR,PHIL 100:13,6,6,46735,46735,In-Person,"Baldner, Steven; Al-Maini, Doug",MULH4032,FULL,B4/B5/B6,Intro Philosophy
+AR,PHIL 100:14,6,6,53745,53745,In-Person,"Bernard, Valerie",MULH3026,FULL,B1/B2/B3,Intro Philosophy
+AR,PHIL 100:15,6,6,55348,55348,In-Person,"Curry, Paul; Groarke, Louis",MULH3030,FULL,E5,Intro Philosophy
+AR,PHIL 135:20,3,3,52239,52239,In-Person,"Curry, Paul",CO110,2ND,W7/W8,Healthcare Ethics
+AR,PHIL 201:10,3,3,51786,51786,In-Person,"Groarke, Louis",MULH2030,1ST,Z7/Z8,Ancient & Medieval Thought
+AR,PHIL 202:20,3,3,52198,52198,In-Person,"Shoikhedbrod, Igor",IM114,2ND,Z7/Z8,Modern Political Thought
+AR,PHIL 213:10,3,3,58302,58302,In-Person,"Baldner, Steven",MULH3024,1ST,U7/U8,Philosophy of Science
+AR,PHIL 251:10,3,3,47461,47461,In-Person,"Bernard, Valerie",CO120,1ST,A4/A5/A6,Critical Thinking
+AR,PHIL 298:10,3,3,58703,58703,In-Person,"Al-Maini, Doug",CO110,1ST,C1/C2/C3,ST: Love and Friendship
+AR,PHIL 331:10,3,3,42539,42539,In-Person,"Groarke, Louis",CO120,1ST,W7/W8,Ethical Theories
+AR,PHIL 333:20,3,3,58556,58556,In-Person,"Al-Maini, Doug",CO120,2ND,U7/U8,Environmental Ethics
+AR,PHIL 335:20,3,3,53744,53744,In-Person,"Bernard, Valerie",MULH2034,2ND,A4/A5/A6,Ethics in Health & Medicine
+AR,PHIL 342:20,3,3,58303,58303,In-Person,"Szlachta, Michael",SCHW290,2ND,B4/B5/B6,Logic
+AR,PHIL 361:10,3,3,58304,58304,In-Person,"Szlachta, Michael",MULH3026,1ST,Z1/Z2,Early Medieval Philosophy
+AR,PHIL 362:20,3,3,58305,58305,In-Person,"Szlachta, Michael",MULH3022,2ND,Z1/Z2,Phil in the High Middle Ages
+AR,PHIL 367:10,3,3,58306,58306,In-Person,"Bernard, Valerie",SCHW190,1ST,Z7/Z8,Philosophy from Kant to Hegel
+AR,PHIL 381:20,3,3,58307,58307,In-Person,"Bernard, Valerie",BB337,2ND,W7/W8,Existentialism & Phenomenology
+AR,PHIL 451:10,3,3,58308,58308,In-Person,"Al-Maini, Doug",SCHW190,1ST,W7/W8,"Ethics, Politics & the Law I"
+AR,PHIL 490:00,6,6,57653,57653,In-Person,"Al-Maini, Doug",,FULL,TBA,Honours Thesis
+SC,PHYS 101:10,3,3,52803,52803,In-Person,"Tasneem, Nafisa",MULH2070,1ST,L1/L2/L3,Life and Health Sciences I
+SC,PHYS 101L:11,0,0,52804,52804,In-Person,"Tasneem, Nafisa; Powell, Jamie",NFSC3046,1ST,O7/W8,PHYS 101 Lab
+SC,PHYS 101L:12,0,0,52805,52805,In-Person,"Ahmed, Hossain; Powell, Jamie",NFSC3046,1ST,U8/Z8,PHYS 101 Lab
+SC,PHYS 102:20,3,3,52806,52806,In-Person,"Ahmed, Hossain",MULH2034,2ND,L1/L2/L3,Life and Health Sciences II
+SC,PHYS 102L:21,0,0,52807,52807,In-Person,"Ahmed, Hossain; Powell, Jamie",NFSC3046,2ND,O7/W8,PHYS 102 Lab
+SC,PHYS 102L:22,0,0,52808,52808,In-Person,"Ahmed, Hossain; Powell, Jamie",NFSC3046,2ND,U8/Z8,PHYS 102 Lab
+SC,PHYS 121:10,3,3,52809,52809,In-Person,"Doucette, Daniel",MULH2070,1ST,C4/C5/C6,Physical Sciences & ENGR I
+SC,PHYS 121L:11,0,0,52810,52810,In-Person,"Doucette, Daniel; Powell, Jamie",NFSC3046,1ST,U7/W7,PHYS 121 Lab
+SC,PHYS 121L:12,0,0,52811,52811,In-Person,"Doucette, Daniel; Powell, Jamie",NFSC3046,1ST,X7/Z7,PHYS 121 Lab
+SC,PHYS 122:20,3,3,52812,52812,In-Person,"Doucette, Daniel",MULH2070,2ND,C4/C5/C6,Physical Sciences & ENGR II
+SC,PHYS 122L:21,0,0,52813,52813,In-Person,"Doucette, Daniel; Powell, Jamie",NFSC3046,2ND,U7/W7,PHYS 122 Lab
+SC,PHYS 122L:22,0,0,52814,52814,In-Person,"Tasneem, Nafisa; Powell, Jamie",NFSC3046,2ND,X7/Z7,PHYS 122 Lab
+SC,PHYS 171:10,3,3,56339,56339,In-Person,"Ahmed, Hossain",MULH3030,1ST,W7/W8,Intro to Astronomy I
+SC,PHYS 172:20,3,3,56340,56340,In-Person,"Poole, Peter",MULH3030,2ND,W7/W8,Intro to Astronomy II
+SC,PHYS 201:20,3,3,44432,44432,In-Person,"Tasneem, Nafisa",NFSC3046,2ND,C1/C2/C3,Relativity & Quantum Physics
+SC,PHYS 201L:20,0,0,44424,44424,In-Person,"Tasneem, Nafisa; Marjerrison, Casey",NFSC1023,2ND,U7/W7,PHYS 201 Lab
+SC,PHYS 202:10,3,3,58820,58820,In-Person,"Marzlin, Peter",NFSC1072,1ST,B4/B5/B6,Relativity & Quantum Mechanics
+SC,PHYS 221:10,3,3,47052,47052,In-Person,"Comeau, Frank",NFSC3034,1ST,K1/K2/K3,Electric Circuits
+SC,PHYS 221L:11,0,0,40457,40457,In-Person,"Marjerrison, Casey",NFSC1079,1ST,O7/W8,PHYS 221 Lab
+SC,PHYS 221L:12,0,0,51560,51560,In-Person,"Marjerrison, Casey",NFSC1079,1ST,U8/Z8,PHYS 221 Lab
+SC,PHYS 223:20,3,3,50547,50547,In-Person,"Comeau, Frank",NFSC3034,2ND,L1/L2/L3,Digital Electronics
+SC,PHYS 223L:20,0,0,50549,50549,In-Person,"Marjerrison, Casey",NFSC1079,2ND,O7/W8,PHYS 223 Lab
+SC,PHYS 241:20,3,3,52799,52799,In-Person,"Doucette, Daniel",NFSC3046,2ND,A4/A5/A6,Mathematical Physics
+SC,PHYS 242:10,3,3,52800,52800,In-Person,"Ahmed, Hossain",MULH3026,1ST,C1/C2/C3,Classical Dynamics I
+SC,PHYS 246:20,3,3,52269,52269,In-Person,"Comeau, Frank",NFSC3034,2ND,K1/K2/K3,Circuit Analysis
+SC,PHYS 246L:20,0,0,52270,52270,In-Person,"Comeau, Frank; Marjerrison, Casey",NFSC1079,2ND,C9/K9,PHYS 246 Lab
+SC,PHYS 250:20,3,3,58824,58824,In-Person,"Ahmed, Hossain",KC1018A,2ND,C4/C5/C6,Medical Imaging
+SC,PHYS 272:20,3,3,58812,58812,In-Person,"Poole, Peter",AX23A,2ND,K4/K5/K6,Astronomy: Stellar System
+SC,PHYS 299:20,3,3,59039,59039,In-Person,"Tasneem, Nafisa",NFSC3046,2ND,C4/C5/C6,ST: The Physics of Oppenheimer
+SC,PHYS 302:10,3,3,58814,58814,In-Person,"Tasneem, Nafisa",AX23A,1ST,B1/B2/B3,Properties of Matter
+SC,PHYS 302L:10,0,0,58815,58815,In-Person,"Tasneem, Nafisa; Marjerrison, Casey",NFSC1079,1ST,U7/W7,PHYS 302 Lab
+SC,PHYS 322:10,3,3,58816,58816,In-Person,"Doucette, Daniel",AX23A,1ST,A1/A2/A3,Electromagnetic Theory I
+SC,PHYS 344:10,3,3,58817,58817,In-Person,"Poole, Peter",NFSC1096,1ST,L1/L2/L3,Thermal Physics
+SC,PHYS 344L:10,0,0,58818,58818,In-Person,"Poole, Peter; Marjerrison, Casey",NFSC1096,1ST,X7/Z7,PHYS 344 Lab
+SC,PHYS 399:20,3,3,58819,58819,In-Person,"Marzlin, Peter",NFSC3046,2ND,K1/K2/K3,ST: Adv. General Relatively
+SC,PHYS 422:20,3,3,58821,58821,In-Person,"Marzlin, Peter",NFSC1096,2ND,A1/A2/A3,Electromagnetic Theory II
+SC,PHYS 444:20,3,3,58822,58822,In-Person,"Poole, Peter",NFSC1096,2ND,L4/L5/L6,Statistical Mechanics
+SC,PHYS 444L:20,0,0,58823,58823,In-Person,"Poole, Peter; Marjerrison, Casey",NFSC1096,2ND,U8/Z8,PHYS 444 Lab
+SC,PHYS 483:10,3,3,57754,57754,In-Person,"Marzlin, Peter",,1ST,TBA,Honours Thesis I
+SC,PHYS 491:00,0,0,51420,51420,In-Person,"Marzlin, Peter",NFSC3046,FULL,X8,Physics Seminar
+SC,PHYS 493:20,3,3,57742,57742,In-Person,"Marzlin, Peter",,2ND,TBA,Honours Thesis II
+SC,PHYS 494:00,0,0,56352,56352,In-Person,"Marzlin, Peter",,FULL,TBA,Advanced Major Project
+AR,PSCI 101:11,3,3,52737,52737,In-Person,"Wallace, Rebecca",MULH2034,1ST,B1/B2/B3,Intro to Politics and Power
+AR,PSCI 101:12,3,3,52739,52739,In-Person,"Shoikhedbrod, Igor",MULH4030,1ST,L1/L2/L3,Intro to Politics and Power
+AR,PSCI 101:13,3,3,52741,52741,In-Person,"Murphy, Hailey",MULH2034,1ST,C1/C2/C3,Intro to Politics and Power
+AR,PSCI 101:14,3,3,52743,52743,In-Person,"Grenier, Yvon",MULH3034,1ST,W7/W8,Intro to Politics and Power
+AR,PSCI 101:15,3,3,53577,53577,In-Person,"Allen, Nathan",MULH4034,1ST,X1/X2,Intro to Politics and Power
+AR,PSCI 102:21,3,3,52738,52738,In-Person,"Stan, Lavinia",MULH2034,2ND,B1/B2/B3,Comparative & Global Politics
+AR,PSCI 102:22,3,3,52740,52740,In-Person,"Dean, Ryan",GM001,2ND,Z1/Z2,Comparative & Global Politics
+AR,PSCI 102:23,3,3,52742,52742,In-Person,"Murphy, Hailey",MULH2034,2ND,C1/C2/C3,Comparative & Global Politics
+AR,PSCI 102:24,3,3,52744,52744,In-Person,"Cho, Youngwon",MULH4034,2ND,W7/W8,Comparative & Global Politics
+AR,PSCI 102:25,3,3,53578,53578,In-Person,"Levin, Jamie",MULH2034,2ND,O4/O5,Comparative & Global Politics
+AR,PSCI 201:10,3,3,51793,51793,In-Person,"Groarke, Louis",MULH2030,1ST,Z7/Z8,Ancient & Medieval Thoughts
+AR,PSCI 202:20,3,3,52136,52136,In-Person,"Shoikhedbrod, Igor",IM114,2ND,Z7/Z8,Modern Political Thought
+AR,PSCI 211:10,3,3,57349,57349,In-Person,"Stan, Lavinia",MULH3034,1ST,Z4/Z5,Comp. Politics of Democracies
+AR,PSCI 212:20,3,3,57350,57350,In-Person,"Allen, Nathan",MULH3034,2ND,Z4/Z5,Comp. Politics Non-democracies
+AR,PSCI 221:10,3,3,48112,48112,In-Person,"Murphy, Hailey",MULH3034,1ST,U4/U5,Cdn. Political Institutions
+AR,PSCI 222:20,3,3,48113,48113,In-Person,"Bickerton, James",MULH3034,2ND,U4/U5,Cdn. Politics & Society
+AR,PSCI 241:20,3,3,57356,57356,In-Person,"SCI-TBA,",MULH3030,2ND,U7/U8,Business and Government
+AR,PSCI 251:10,3,3,52637,52637,In-Person,"Levin, Jamie",MULH4030,1ST,W4/W5,Foundations of Global Politics
+AR,PSCI 252:20,3,3,52638,52638,In-Person,"Cho, Youngwon",CO110,2ND,W4/W5,Contemporary Global Politics
+AR,PSCI 291:10,3,3,57352,57352,In-Person,"Grenier, Yvon",MULH3030,1ST,O4/O5,"Violence, Conflict & Politics"
+AR,PSCI 302:10,3,3,58749,58749,In-Person,"Shoikhedbrod, Igor",MULH2032,1ST,O4/O5,Marxism and Its Critics
+AR,PSCI 321:10,3,3,58565,58565,In-Person,"Wallace, Rebecca",MULH4034,1ST,Z4/Z5,Federalism
+AR,PSCI 323:10,3,3,57362,57362,In-Person,"Murphy, Hailey",MULH3022,1ST,U7/U8,Parties & Elections
+AR,PSCI 325:20,3,3,58567,58567,In-Person,"Bickerton, James",MULH3034,2ND,W7/W8,Indigenous Politics in Canada
+AR,PSCI 335:10,3,3,58557,58557,In-Person,"Stan, Lavinia",MULH4022,1ST,W4/W5,Human Rights & Intern. Justice
+AR,PSCI 336:66,3,3,58873,58873,Online-No Scheduled Delivery,"Stan, Lavinia",Online,1ST,TBA,Religion and Politics
+AR,PSCI 343:20,3,3,58748,58748,In-Person,"Shoikhedbrod, Igor",SCHW290,2ND,Z4/Z5,Law & Politics
+AR,PSCI 344:20,3,3,58559,58559,In-Person,"Murphy, Hailey",MULH3024,2ND,U7/U8,Citizenship & Identity
+AR,PSCI 345:66,3,3,58899,58899,Online-No Scheduled Delivery,"Stan, Lavinia",Online,2ND,TBA,Women & Politics
+AR,PSCI 352:10,3,3,58568,58568,In-Person,"Cho, Youngwon",SCHW290,1ST,Z4/Z5,American Foreign Policy
+AR,PSCI 355:20,3,3,58828,58828,In-Person,"SCI-TBA,",BB236,2ND,U7/U8,Global Issues
+AR,PSCI 356:20,3,3,58571,58571,In-Person,"Levin, Jamie",CO110,2ND,O7/O8,Arab-Israeli Conflict
+AR,PSCI 357:20,3,3,58572,58572,In-Person,"Cho, Youngwon",MULH3024,2ND,E4,Model United Nations
+AR,PSCI 359:10,3,3,58573,58573,In-Person,"Levin, Jamie",MULH3026,1ST,W7/W8,Unconventional Warfare
+AR,PSCI 365:20,3,3,58560,58560,In-Person,"Stan, Lavinia",IM202,2ND,W4/W5,Russian Politics
+AR,PSCI 371:20,3,3,58574,58574,In-Person,"Allen, Nathan",MULH3026,2ND,X1/X2,Pol Economy of Development
+AR,PSCI 389:20,3,3,58799,58799,In-Person,"Murphy, Hailey",MULH3022,2ND,O4/O5,ST: Politics and Technology
+AR,PSCI 397:10,3,3,55281,55281,In-Person,"Allen, Nathan",MULH3022,1ST,X4/X5,Research Design
+AR,PSCI 399:10,3,3,58576,58576,In-Person,"Allen, Nathan",MULH4030,1ST,U4/U5,Research Methods & Stats
+AR,PSCI 421:20,3,3,58561,58561,In-Person,"Bickerton, James",AX113,2ND,U8/Z8,Canadian Politics Seminar
+AR,PSCI 451:10,3,3,58562,58562,In-Person,"Cho, Youngwon",NT412,1ST,U8/Z8,Int'l Relations Seminar
+AR,PSCI 452:20,3,3,58563,58563,In-Person,"Stan, Lavinia",AX113,2ND,X7/Z7,Seminar: Comparative Politics
+AR,PSCI 490:00,6,6,45673,45673,In-Person,"Bickerton, James",,FULL,TBA,Thesis
+AR,PSYC 101:11,3,3,54534,54534,In-Person,"McCormick, Peter",MULH2070,1ST,U1/U2,Intro to Psychology I
+AR,PSYC 101:12,3,3,54536,54536,In-Person,"Callaghan, Tara",SCHW110,1ST,W7/W8,Intro to Psychology I
+AR,PSYC 101:13,3,3,57989,57989,In-Person,"Redden, Ralph",SCHW110,1ST,X1/X2,Intro to Psychology I
+AR,PSYC 101:14,3,3,56922,56922,In-Person,"Callaghan, Tara",SCHW110,1ST,U4/U5,Intro to Psychology I
+AR,PSYC 101:15,3,3,57578,57578,In-Person,"Redden, Ralph",SCHW110,1ST,O4/O5,Intro to Psychology I
+AR,PSYC 101:20,3,3,58642,58642,In-Person,"Callaghan, Tara",SCHW110,2ND,Z1/Z2,Intro to Psychology I
+AR,PSYC 101:66,3,3,58876,58876,Online-No Scheduled Delivery,"McCormick, Peter",Online,1ST,TBA,Intro to Psychology Natural
+AR,PSYC 102:21,3,3,54535,54535,In-Person,"McCormick, Peter",MULH2070,2ND,U1/U2,Intro to Psychology II
+AR,PSYC 102:22,3,3,54537,54537,Online-Scheduled Delivery,"Snow, Mark",ONLINE,2ND,W7/W8,Intro to Psychology II
+AR,PSYC 102:23,3,3,54539,54539,Online-Scheduled Delivery,"Snow, Mark",ONLINE,2ND,U4/U5,Intro to Psychology II
+AR,PSYC 102:24,3,3,54541,54541,Online-Scheduled Delivery,"Snow, Mark",ONLINE,2ND,Z7/Z8,Intro to Psychology II
+AR,PSYC 102:25,3,3,57579,57579,In-Person,"Weaver, Angela",GM001,2ND,O4/O5,Intro to Psychology II
+AR,PSYC 102:26,3,3,57990,57990,In-Person,"Weaver, Angela",MULH2070,2ND,X1/X2,Intro to Psychology II
+AR,PSYC 102:66,3,3,58901,58901,Online-No Scheduled Delivery,"McCormick, Peter",Online,2ND,TBA,Intro to Psychology II
+AR,PSYC 110:10,3,3,56557,56557,In-Person,"Lively, Christopher",SCHW205,1ST,W1/W2,Forensic Psychology
+AR,PSYC 155:10,3,3,52864,52864,In-Person,"Lambe, Laura",MSBS225,1ST,X4/X5,Intro Psychology for Nursing
+AR,PSYC 211:11A,3,3,58587,58587,In-Person,"Berrigan, Lindsay",MULH4034,1ST,W1/W2,Psychology of Behaviour
+AR,PSYC 211:11B,3,3,58650,58650,In-Person,"Berrigan, Lindsay",MULH4034,1ST,W1/W2,Psychology of Behaviour
+AR,PSYC 211:11C,3,3,58651,58651,In-Person,"Berrigan, Lindsay",MULH4034,1ST,W1/W2,Psychology of Behaviour
+AR,PSYC 211:21A,3,3,58588,58588,In-Person,"Berrigan, Lindsay",MULH4034,2ND,W1/W2,Psychology of Behaviour
+AR,PSYC 211:21B,3,3,58652,58652,In-Person,"Berrigan, Lindsay",MULH4034,2ND,W1/W2,Psychology of Behaviour
+AR,PSYC 211:21C,3,3,58653,58653,In-Person,"Berrigan, Lindsay",MULH4034,2ND,W1/W2,Psychology of Behaviour
+AR,PSYC 211L:11A,0,0,58589,58589,In-Person,"MacDonald, Sara",SCHW256,1ST,K5,PSYC 211 Lab
+AR,PSYC 211L:11B,0,0,58590,58590,In-Person,"MacDonald, Sara",SCHW256,1ST,C5,PSYC 211 Lab
+AR,PSYC 211L:11C,0,0,58591,58591,In-Person,"MacDonald, Sara",SCHW256,1ST,A5,PSYC 211 Lab
+AR,PSYC 211L:21A,0,0,58592,58592,In-Person,"MacDonald, Sara",MULH3032,2ND,K5,PSYC 211 Lab
+AR,PSYC 211L:21B,0,0,58632,58632,In-Person,"MacDonald, Sara",MULH3032,2ND,C5,PSYC 211 Lab
+AR,PSYC 211L:21C,0,0,58633,58633,In-Person,"MacDonald, Sara",MULH3032,2ND,A5,PSYC 211 Lab
+AR,PSYC 221:10,3,3,58595,58595,In-Person,"McCormick, Peter",BB237,1ST,U4/U5,Cognitive Psychology I
+AR,PSYC 221L:11,0,0,58597,58597,In-Person,"Overmars, Janea",SCHW256,1ST,A2,PSYC 221 Lab
+AR,PSYC 221L:12,0,0,58598,58598,In-Person,"Overmars, Janea",SCHW256,1ST,L1,PSYC 221 Lab
+AR,PSYC 221L:13,0,0,58599,58599,In-Person,"Overmars, Janea",SCHW256,1ST,K4,PSYC 221 Lab
+AR,PSYC 222:20,3,3,58596,58596,In-Person,"McCormick, Peter",MULH2030,2ND,U4/U5,Cognitive Psychology II
+AR,PSYC 222L:21,0,0,58600,58600,In-Person,"Overmars, Janea",MULH3032,2ND,A2,PSYC 222 Lab
+AR,PSYC 222L:22,0,0,58601,58601,In-Person,"Overmars, Janea",MULH3032,2ND,L1,PSYC 222 Lab
+AR,PSYC 222L:23,0,0,58602,58602,In-Person,"Overmars, Janea",MULH3032,2ND,K4,PSYC 222 Lab
+AR,PSYC 231:10,3,3,58603,58603,In-Person,"McKenna, John",SCHW256,1ST,O1/O2,Brain & Behavior I
+AR,PSYC 231L:11,0,0,58605,58605,In-Person,"Neville-MacLean, Sherry; Mazerolle, Erin; McKenna, John",BB122,1ST,W1,PSYC 231 Lab
+AR,PSYC 231L:12,0,0,58606,58606,In-Person,"Neville-MacLean, Sherry; Mazerolle, Erin; McKenna, John",BB122,1ST,U4,PSYC 231 Lab
+AR,PSYC 232:20,3,3,58604,58604,In-Person,"McKenna, John",CO120,2ND,O1/O2,Brain & Behavior II
+AR,PSYC 232L:21,0,0,58607,58607,In-Person,"Neville-MacLean, Sherry; Mazerolle, Erin",BB122,2ND,W1,PSYC 232 Lab
+AR,PSYC 232L:22,0,0,58608,58608,In-Person,"Neville-MacLean, Sherry; Mazerolle, Erin",BB122,2ND,U4,PSYC 232 Lab
+AR,PSYC 255:11,3,3,58296,58296,In-Person,"Prusaczyk, Elvira",MULH4032,1ST,Z1/Z2,Social Psychology
+AR,PSYC 255:12,3,3,58298,58298,In-Person,"Prusaczyk, Elvira",MULH2034,1ST,W7/W8,Social Psychology
+AR,PSYC 255:20,3,3,58297,58297,In-Person,"Prusaczyk, Elvira",MULH4032,2ND,Z1/Z2,Social Psychology
+AR,PSYC 257:11,3,3,58750,58750,In-Person,"Lively, Christopher",MULH3030,1ST,Z1/Z2,Practicum I
+AR,PSYC 257:12,3,3,58751,58751,In-Person,"Lively, Christopher",SCHW156,1ST,Z7/Z8,Practicum I
+AR,PSYC 261:11,3,3,58609,58609,In-Person,"Corbit, John",MULH3034,1ST,U7/U8,Developmental Psychology I
+AR,PSYC 261:12,3,3,58611,58611,In-Person,"Corbit, John",BB237,1ST,Z7/Z8,Developmental Psychology I
+AR,PSYC 261L:11,0,0,58613,58613,In-Person,"Overmars, Janea",SCHW190,1ST,A4,PSYC 261 Lab
+AR,PSYC 261L:12,0,0,58614,58614,In-Person,"Overmars, Janea",SCHW190,1ST,B4,PSYC 261 Lab
+AR,PSYC 261L:13,0,0,58615,58615,In-Person,"Overmars, Janea",MSBC117,1ST,B5,PSYC 261 Lab
+AR,PSYC 261L:14,0,0,58616,58616,In-Person,"Overmars, Janea",MSBC117,1ST,C5,PSYC 261 Lab
+AR,PSYC 261L:15,0,0,58617,58617,In-Person,"MacDonald, Sara",BB305,1ST,A6,PSYC 261 Lab
+AR,PSYC 261L:16,0,0,58618,58618,In-Person,"MacDonald, Sara",BB305,1ST,L5,PSYC 261 Lab
+AR,PSYC 262:21,3,3,58610,58610,In-Person,"Callaghan, Tara",MULH3034,2ND,U7/U8,Developmental Psychology II
+AR,PSYC 262:22,3,3,58612,58612,In-Person,"Callaghan, Tara",CO120,2ND,Z7/Z8,Developmental Psychology II
+AR,PSYC 262L:21,0,0,58619,58619,In-Person,"Overmars, Janea",CO265,2ND,A4,PSYC 262 Lab
+AR,PSYC 262L:22,0,0,58620,58620,In-Person,"Overmars, Janea",CO265,2ND,B4,PSYC 262 Lab
+AR,PSYC 262L:23,0,0,58621,58621,In-Person,"Overmars, Janea",MSBC117,2ND,B5,PSYC 262 Lab
+AR,PSYC 262L:24,0,0,58622,58622,In-Person,"Overmars, Janea",MSBC117,2ND,C5,PSYC 262 Lab
+AR,PSYC 262L:25,0,0,58623,58623,In-Person,"MacDonald, Sara",BB305,2ND,A6,PSYC 262 Lab
+AR,PSYC 262L:26,0,0,58624,58624,In-Person,"MacDonald, Sara",BB305,2ND,L5,PSYC 262 Lab
+AR,PSYC 291:11,3,3,54051,54051,In-Person,"Lomore, Christine",MULH2030,1ST,U1/U2,Research Methods
+AR,PSYC 291:12,3,3,57580,57580,In-Person,"Lomore, Christine",MULH3030,1ST,X1/X2,Research Methods
+AR,PSYC 291L:11,0,0,54053,54053,In-Person,"MacDonald, Sara",SCHW190,1ST,B5,PSYC 291 Lab
+AR,PSYC 291L:12,0,0,54054,54054,In-Person,"MacDonald, Sara",SCHW190,1ST,K2,PSYC 291 Lab
+AR,PSYC 291L:13,0,0,54055,54055,In-Person,"MacDonald, Sara",SCHW190,1ST,K4,PSYC 291 Lab
+AR,PSYC 291L:14,0,0,54056,54056,In-Person,"MacDonald, Sara",SCHW190,1ST,L4,PSYC 291 Lab
+AR,PSYC 292:21,3,3,54052,54052,In-Person,"Lomore, Christine",MULH2032,2ND,U1/U2,Stats for Psych Research
+AR,PSYC 292:22,3,3,55415,55415,In-Person,"McCormick, Peter",MULH2030,2ND,X1/X2,Stats for Psych Research
+AR,PSYC 292L:21,0,0,54057,54057,In-Person,"Neville-MacLean, Sherry",SCHW256,2ND,W5,PSYC 292 Lab
+AR,PSYC 292L:22,0,0,54059,54059,In-Person,"Neville-MacLean, Sherry",SCHW256,2ND,Z1,PSYC 292 Lab
+AR,PSYC 292L:23,0,0,54060,54060,In-Person,"Neville-MacLean, Sherry",SCHW256,2ND,X4,PSYC 292 Lab
+AR,PSYC 301:10,3,3,50018,50018,Online-Scheduled Delivery,"Snow, Mark",ONLINE,1ST,W7/W8,History & Theory Psychology I
+AR,PSYC 313:10,3,3,57823,57823,In-Person,"Austen, Erin",MULH3030,1ST,O1/O2,Health Psychology
+AR,PSYC 327:10,3,3,58627,58627,In-Person,"McKenna, John",SCHW205,1ST,X4/X5,The Psychology of Pain
+AR,PSYC 328:20,3,3,58628,58628,In-Person,"McKenna, John",MULH2030,2ND,O4/O5,Mechanisms of Pain & Analgesia
+AR,PSYC 353:11,3,3,58011,58011,Online-Scheduled Delivery,"Snow, Mark",ONLINE,1ST,W1/W2,Psychology of Personality
+AR,PSYC 353:12,3,3,58808,58808,Online-Scheduled Delivery,"Snow, Mark",ONLINE,1ST,Z1/Z2,Psychology of Personality
+AR,PSYC 356:10,3,3,58927,58927,In-Person,"Watt, Margo",GM001,1ST,Z4/Z5,Practicum II
+AR,PSYC 362:10,3,3,58630,58630,In-Person,"Austen, Erin",MULH4034,1ST,U1/U2,Applied Psychology: Health
+AR,PSYC 363:66,3,3,58877,58877,Online-No Scheduled Delivery,"Haynes, Graeme",Online,1ST,TBA,Applied Psychology: Society
+AR,PSYC 364:20,3,3,58580,58580,In-Person,"Prusaczyk, Elvira",MULH2032,2ND,U7/U8,Psychology of Gender
+AR,PSYC 372:20,3,3,58048,58048,In-Person,"Corbit, John",BB337,2ND,W4/W5,Cultural Psychology
+AR,PSYC 372:66,3,3,58878,58878,Online-No Scheduled Delivery,"Corbit, John",Online,1ST,TBA,Cultural Psychology
+AR,PSYC 373:20,3,3,57801,57801,In-Person,"Berrigan, Lindsay",MULH4030,2ND,X4/X5,Human Neuropsychology
+AR,PSYC 374:66,3,3,58902,58902,Online-No Scheduled Delivery,"Corbit, John",Online,2ND,TBA,Human Dev Across Cultures
+AR,PSYC 376:11,3,3,50026,50026,In-Person,"Weaver, Angela",MULH4030,1ST,W1/W2,Intro to Psychopathology
+AR,PSYC 376:12,3,3,57583,57583,In-Person,"Lambe, Laura",MULH2034,1ST,Z1/Z2,Intro to Psychopathology
+AR,PSYC 376:20,3,3,52869,52869,In-Person,"Weaver, Angela",CO120,2ND,W1/W2,Intro to Psychopathology
+AR,PSYC 378:10,3,3,51827,51827,In-Person,"Weaver, Angela",CO120,1ST,O4/O5,Human Sexuality
+AR,PSYC 379:21,3,3,50593,50593,In-Person,"Lambe, Laura",CO110,2ND,Z1/Z2,Intro to Clinical Psychology
+AR,PSYC 379:22,3,3,57584,57584,In-Person,"Lambe, Laura",MULH4034,2ND,X4/X5,Intro to Clinical Psychology
+AR,PSYC 381:10,3,3,55424,55424,In-Person,"Watt, Margo",KC1018,1ST,Z7/Z8,Correctional Psychology
+AR,PSYC 382:20,3,3,55425,55425,In-Person,"Lively, Christopher",MULH4034,2ND,W4/W5,Psychology & Law
+AR,PSYC 383:20,3,3,58645,58645,In-Person,"Thompson, Kara",CO120,2ND,O4/O5,Adolescence and Adulthood
+AR,PSYC 384:20,3,3,57897,57897,In-Person,"Mazerolle, Erin",SCHW289,2ND,U7/U8,ST: Cognitive Neuroscience
+AR,PSYC 387:20,3,3,58585,58585,In-Person,"Redden, Ralph",MULH3034,2ND,X4/X5,ST: Attention
+AR,PSYC 391:10,0,0,51184,51184,In-Person,"Mazerolle, Erin",MULH4032,1ST,O8/X8,Junior Seminar
+AR,PSYC 394:10,3,3,53681,53681,In-Person,"Mazerolle, Erin",CO110,1ST,Z1/Z2,Adv Psychological Research
+AR,PSYC 394L:11,0,0,53682,53682,In-Person,"Mazerolle, Erin; Neville-MacLean, Sherry",SCHW256,1ST,X2,PSYC 394 Lab
+AR,PSYC 394L:12,0,0,53683,53683,In-Person,"Mazerolle, Erin; Neville-MacLean, Sherry",SCHW256,1ST,O5,PSYC 394 Lab
+AR,PSYC 421:20,3,3,58584,58584,In-Person,"Redden, Ralph",AX113,2ND,X1/X2,Adv Topics in Cognition
+AR,PSYC 432:10,3,3,58625,58625,In-Person,"Berrigan, Lindsay",AX113,1ST,U7/W4,Behavioral Neuroscience II
+AR,PSYC 442:20,3,3,57854,57854,In-Person,"Koch, Erika",AX113,2ND,Z1/Z2,Adv Social & Personality Psyc
+AR,PSYC 457:20,3,3,58644,58644,In-Person,"Watt, Margo",MULH4034,2ND,Z4/Z5,Practicum III
+AR,PSYC 462:20,3,3,57588,57588,In-Person,"Corbit, John",AX113,2ND,O7/W8,Perceptual and Cognitive Dev
+AR,PSYC 490:00,6,6,40885,40885,In-Person,"Mazerolle, Erin",,FULL,TBA,Honours Thesis
+AR,PSYC 491:10,0,0,51185,51185,In-Person,"Mazerolle, Erin",MULH4032,1ST,O8/X8,Senior Seminar
+AR,PSYC 498:10,3,3,58583,58583,In-Person,"Austen, Erin",AX113,1ST,X4/Z4,ST: Advanced Health
+AR,RELS 103:10,3,3,55513,55513,In-Person,"Penner, Ken",MULH2034,1ST,L4/L5/L6,World Religions: Need to Know
+AR,RELS 103:20,3,3,55514,55514,In-Person,"Kennedy, Robert",MULH2032,2ND,L4/L5/L6,World Religions: Need to Know
+AR,RELS 117:21,3,3,53295,53295,In-Person,"Kennedy, Robert",MULH2032,2ND,W7/W8,Ethical Principles for Health
+AR,RELS 117:22,3,3,53389,53389,In-Person,"Kennedy, Robert",CO242,2ND,O4/O5,Ethical Principles for Health
+AR,RELS 198:10,3,3,58926,58926,In-Person,"Penner, Ken",BB305,1ST,K4/K5/K6,ST: Introductory Greek I
+AR,RELS 209:10,3,3,58324,58324,In-Person,"Darwish, Linda",SCHW289,1ST,S4/S5,Beginning Arabic
+AR,RELS 210:20,3,3,58315,58315,In-Person,"Anderson, Matthew",MULH2032,2ND,W4/W5,The Bible and Film
+AR,RELS 215:20,3,3,58699,58699,In-Person,"Follert, Michael",MULH4030,2ND,E4,Sociology of Religion
+AR,RELS 216:20,3,3,57551,57551,In-Person,"Penner, Ken",MULH2070,2ND,O1/O2,Superheroes and Supernatural
+AR,RELS 219:10,3,3,58473,58473,In-Person,"Harrington, Nathaniel",IM202,1ST,U7/U8,Celtic Paganism
+AR,RELS 221:10,3,3,58316,58316,In-Person,"Anderson, Matthew",MULH3030,1ST,X4/X5,Religion & Environment
+AR,RELS 222:10,3,3,58317,58317,In-Person,"Kennedy, Robert",MULH4022,1ST,U7/U8,Fantastic Beasts
+AR,RELS 225:66,3,3,58880,58880,Online-No Scheduled Delivery,"Blanchard, Marie-Josée",Online,1ST,TBA,Cults & Alternative Religions
+AR,RELS 225:67,3,3,55293,55293,Online-No Scheduled Delivery,"Blanchard, Marie-Josée",,1ST,TBA,Cults & Alternative Religions
+AR,RELS 235:10,3,3,58318,58318,In-Person,"Altenburg, Gerjan",BB337,1ST,X1/X2,Hinduism & Buddhism
+AR,RELS 241:20,3,3,58707,58707,In-Person,"Parks, Sara",BB237,2ND,U7/U8,Greek and Roman Mythology
+AR,RELS 254:10,3,3,58319,58319,In-Person,"Darwish, Linda",NT412,1ST,A4/A5/A6,Islam
+AR,RELS 265:10,3,3,58322,58322,In-Person,"Parks, Sara",CO120,1ST,W4/W5,Intro to the Gospels
+AR,RELS 283:10,3,3,58320,58320,In-Person,"Parks, Sara",MULH2032,1ST,R4/R5,Apocalypses
+AR,RELS 297:20,3,3,58832,58832,In-Person,"Altenburg, Gerjan",MULH3032,2ND,U1/U2,ST: History/Philosophy of Yoga
+AR,RELS 298:10,3,3,58833,58833,In-Person,"Hashemi, Adel",MULH2034,1ST,E6,ST: Death and Dying
+AR,RELS 315:10,3,3,56776,56776,In-Person,"Altenburg, Gerjan",MULH3022,1ST,Z1/Z2,Authentic Power & Gender
+AR,RELS 325:20,3,3,58323,58323,In-Person,"Parks, Sara",CO242,2ND,U4/U5,Early Christian Women
+AR,RELS 327:10,3,3,58327,58327,In-Person,"Altenburg, Gerjan",MULH3026,1ST,U4/U5,Buddhist Thought
+AR,RELS 333:10,3,3,58830,58830,In-Person,"Hashemi, Adel",MULH4030,1ST,E7,"Religion, Violence & Peace"
+AR,RELS 336:66,3,3,58874,58874,Online-No Scheduled Delivery,"Stan, Lavinia",Online,1ST,TBA,Religion and Politics
+AR,RELS 365:10,3,3,58326,58326,In-Person,"Kennedy, Robert",NT612,1ST,W7/W8,Medieval Christianity
+AR,RELS 374:20,3,3,58831,58831,In-Person,"Hashemi, Adel",MULH4030,2ND,E7,Modern and Contemporary Islam
+AR,RELS 375:66,3,3,58889,58889,Online-No Scheduled Delivery,"Darwish, Linda",Online,1ST,TBA,Islam in Canada
+AR,RELS 397:20,3,3,58834,58834,In-Person,"Hashemi, Adel",MULH4022,2ND,E6,ST: Modern Iran
+AR,RELS 399:10,3,3,58825,58825,In-Person,"Kennedy, Robert",SCHW290,1ST,O4/O5,ST: Healthcare Ethics
+AR,RELS 401:20,3,3,58329,58329,In-Person,"Altenburg, Gerjan",MULH3024,2ND,Z1/Z2,Approaches to Sexuality
+AR,RELS 404:10,3,3,58321,58321,In-Person,"Penner, Ken",NT412,1ST,O1/O2,Dead Sea Scrolls
+AR,RELS 414:20,3,3,58328,58328,In-Person,"Altenburg, Gerjan",NT412,2ND,Z7/Z8,Ancient Indian Myth & Ritual
+SC,SMGT 101:11,3,3,57381,57381,In-Person,"Hood, Michael (Jonathan)",GM001,1ST,Z1/Z2,Intro to Sport Management
+SC,SMGT 101:12,3,3,58578,58578,In-Person,"Hood, Michael (Jonathan)",KC2020-21,1ST,Z7/Z8,Intro to Sport Management
+SC,SMGT 101:20,3,3,56741,56741,Online-Scheduled Delivery,"Robertson, Vanessa",ONLINE,2ND,E5,Intro to Sport Management
+SC,SMGT 322:10,3,3,58579,58579,In-Person,"Hood, Michael (Jonathan)",KC1018A,1ST,W7/W8,HRM in Sport Organizations
+SC,SMGT 327:20,3,3,57382,57382,In-Person,"Hood, Michael (Jonathan)",ASCHL207,2ND,Z1/Z2,Sport Ethics & Law
+SC,SMGT 423:20,3,3,57383,57383,In-Person,"Hood, Michael (Jonathan)",KC1018A,2ND,Z7/Z8,Sports Marketing
+AR,SOCI 101:11,3,3,52672,52672,In-Person,"Mallory, Peter",MULH4034,1ST,O1/O2,Introduction to Sociology I
+AR,SOCI 101:12,3,3,51971,51971,In-Person,"Follert, Michael",CO120,1ST,Z7/Z8,Introduction to Sociology I
+AR,SOCI 101:13,3,3,51973,51973,In-Person,"Garrod, Joel",MULH3030,1ST,U4/U5,Introduction to Sociology I
+AR,SOCI 101:14,3,3,51977,51977,In-Person,"Marmura, Stephen",MULH3034,1ST,W4/W5,Introduction to Sociology I
+AR,SOCI 101:15,3,3,51979,51979,In-Person,"Banchani, Emmanuel",MULH2030,1ST,K1/K2/K3,Introduction to Sociology I
+AR,SOCI 101:16,3,3,54248,54248,In-Person,"Lynes, David",SCHW205,1ST,Z7/Z8,Introduction to Sociology I
+AR,SOCI 101:20,3,3,52668,52668,In-Person,"Follert, Michael",SCHW215,2ND,Z1/Z2,Introduction to Sociology I
+AR,SOCI 101:66,3,3,58892,58892,Online-No Scheduled Delivery,"MacDonald, Donna",Online,1ST,TBA,Introduction to Sociology I
+AR,SOCI 102:10,3,3,58658,58658,In-Person,"Follert, Michael",IM114,1ST,Z1/Z2,Introduction to Sociology II
+AR,SOCI 102:21,3,3,51972,51972,In-Person,"Lynes, David",MULH2034,2ND,Z7/Z8,Introduction to Sociology II
+AR,SOCI 102:22,3,3,51974,51974,In-Person,"Garrod, Joel",SCHW256,2ND,U4/U5,Introduction to Sociology II
+AR,SOCI 102:23,3,3,51978,51978,In-Person,"Cormack, Patricia",MULH2034,2ND,K1/K2/K3,Introduction to Sociology II
+AR,SOCI 102:24,3,3,51980,51980,In-Person,"Marmura, Stephen",MULH2034,2ND,W4/W5,Introduction to Sociology II
+AR,SOCI 102:25,3,3,57312,57312,In-Person,"Banchani, Emmanuel",MULH4030,2ND,O1/O2,Introduction to Sociology II
+AR,SOCI 102:26,3,3,58669,58669,In-Person,"Follert, Michael",CO110,2ND,Z7/Z8,Introduction to Sociology II
+AR,SOCI 102:66,3,3,58903,58903,Online-No Scheduled Delivery,"MacDonald, Donna",Online,2ND,TBA,Introduction to Sociology II
+AR,SOCI 202:20,3,3,58668,58668,In-Person,"Verberg, Norine",CO110,2ND,X4/X5,Research Principles & Practice
+AR,SOCI 207:10,3,3,57313,57313,In-Person,"Olstead, Riley",MULH4034,1ST,Z7/Z8,Health Justice
+AR,SOCI 207:20,3,3,56304,56304,In-Person,"Olstead, Riley",MULH3022,2ND,O1/O2,Health Justice
+AR,SOCI 216:20,3,3,58659,58659,In-Person,"MacDonald, Donna",IM202,2ND,X1/X2,Canadian Society
+AR,SOCI 218:10,3,3,56302,56302,In-Person,"Garrod, Joel",MULH3030,1ST,U7/U8,Social Inequality in Canada
+AR,SOCI 221:10,3,3,58660,58660,In-Person,"Verberg, Norine",CO110,1ST,X4/X5,Marriage & Family Life
+AR,SOCI 221:20,3,3,58661,58661,In-Person,"Verberg, Norine",MULH4030,2ND,Z7/Z8,Marriage & Family Life
+AR,SOCI 227:20,3,3,58698,58698,In-Person,"Follert, Michael",MULH4030,2ND,E4,Sociology of Religion
+AR,SOCI 231:66,3,3,58893,58893,Online-No Scheduled Delivery,"Curley, Evan",Online,1ST,TBA,Education in Canadian Society
+AR,SOCI 237:10,3,3,58713,58713,In-Person,"Banchani, Emmanuel",MULH3030,1ST,Z7/Z8,Social Justice
+AR,SOCI 238:20,3,3,58715,58715,In-Person,"Banchani, Emmanuel",MULH3034,2ND,O4/O5,Sociology of Youth
+AR,SOCI 242:20,3,3,56303,56303,In-Person,"Marmura, Stephen",AX124,2ND,O4/O5,Technology & Society
+AR,SOCI 244:10,3,3,58656,58656,In-Person,"Mallory, Peter",MULH4022,1ST,O4/O5,Cultures and Societies
+AR,SOCI 251:10,3,3,56297,56297,In-Person,"Olstead, Riley",CO110,1ST,Z4/Z5,Deviance Theory
+AR,SOCI 252:20,3,3,56305,56305,In-Person,"Olstead, Riley",MULH3030,2ND,O4/O5,Topics in Deviance
+AR,SOCI 254:10,3,3,58697,58697,In-Person,"Follert, Michael",MULH4030,1ST,E4,Experiencing Social Class
+AR,SOCI 298:10,3,3,58667,58667,In-Person,"Harling Stalker, L (Lynda)",SCHW290,1ST,W4/W5,ST: Roots and Routes
+AR,SOCI 301:10,3,3,48854,48854,In-Person,"Lynes, David",MULH4022,1ST,Z4/Z5,Classical Social Theory
+AR,SOCI 302:20,3,3,56299,56299,In-Person,"Cormack, Patricia",MULH3026,2ND,X4/X5,Topics in Contemporary Theory
+AR,SOCI 302:22,3,3,58662,58662,In-Person,"Lynes, David",SCHW215,2ND,Z4/Z5,Topics in Contemporary Theory
+AR,SOCI 304:10,3,3,53252,53252,In-Person,"Schwartz, Andrea",MULH4022,1ST,Z7/Z8,Feminist Theory
+AR,SOCI 307:10,3,3,57310,57310,In-Person,"Harling Stalker, L (Lynda)",NT612,1ST,W1/W2,Qualitative Research Methods
+AR,SOCI 311:10,3,3,57881,57881,In-Person,"MacDonald, Donna",CO120,1ST,X1/X2,Men & Masculinities
+AR,SOCI 313:20,3,3,58717,58717,In-Person,"Banchani, Emmanuel",MULH3026,2ND,Z1/Z2,Conceptions of Disability
+AR,SOCI 313:66,3,3,58904,58904,Online-No Scheduled Delivery,,Online,2ND,TBA,Conceptions of Disability
+AR,SOCI 315:66,3,3,58894,58894,Online-No Scheduled Delivery,"Annett, Michelle",Online,1ST,TBA,Addictions
+AR,SOCI 315:67,3,3,58906,58906,Online-No Scheduled Delivery,"Annett, Michelle",Online,2ND,TBA,Addictions
+AR,SOCI 319:10,3,3,58663,58663,In-Person,"Verberg, Norine",MULH3026,1ST,Z7/Z8,Family Life Policies in Canada
+AR,SOCI 331:10,3,3,57318,57318,In-Person,"Marmura, Stephen",SCHW289,1ST,U1/U2,Media Effects
+AR,SOCI 337:10,3,3,58714,58714,In-Person,"Banchani, Emmanuel",MULH3024,1ST,E6,Black African Diaspora
+AR,SOCI 341:10,3,3,56307,56307,In-Person,"Olstead, Riley",MULH3030,1ST,E4,Sociology of Agriculture
+AR,SOCI 351:10,3,3,56308,56308,In-Person,"Lynes, David",SCHW190,1ST,W1/W2,Criminal Justice/Corrections I
+AR,SOCI 374:66,3,3,58890,58890,Online-No Scheduled Delivery,"Darwish, Linda",Online,1ST,TBA,Islam in Canada
+AR,SOCI 391:00,3,3,51092,51092,In-Person,"Garrod, Joel",NT612,FULL,K7,Junior Seminar
+AR,SOCI 400:00,6,6,58853,58853,In-Person,"Harling Stalker, L (Lynda)",,FULL,TBA,Honours Sem & Thesis Research
+AR,SOCI 421:20,3,3,58664,58664,In-Person,"Verberg, Norine",AX23A,2ND,O7/W8,"Ancestry, Soc & Personal Ident"
+SC,SOCI 444:20,3,3,58665,58665,In-Person,"Marmura, Stephen",AX124,2ND,U1/U2,Science & Technology
+AR,SOCI 491:00,0,0,51094,51094,In-Person,"Garrod, Joel",NT612,FULL,K7,Senior Seminar
+AR,SOCI 498:20,3,3,58666,58666,In-Person,"Garrod, Joel",CO110,2ND,U7/U8,ST: Critical Political Economy
+AR,SPAN 101:11,3,3,50459,50459,In-Person,"Tokarz, Wojciech",IM202,1ST,B1/B2/B3,Spanish for Beginners I
+AR,SPAN 101:12,3,3,53979,53979,In-Person,"Paz MacKay, Maria",IM202,1ST,A4/A5/A6,Spanish for Beginners I
+AR,SPAN 101:13,3,3,54462,54462,In-Person,"Tokarz, Wojciech",IM201,1ST,A7/A8/A9,Spanish for Beginners I
+AR,SPAN 101:20,3,3,58344,58344,In-Person,"PAN - TBA,",IM114,2ND,C7/C8/C9,Spanish for Beginners I
+AR,SPAN 101L:11,0,0,56561,56561,In-Person,"Maillet, David",IM210,1ST,C1,SPAN 101 Lab
+AR,SPAN 101L:12,0,0,56562,56562,In-Person,"Maillet, David",IM210,1ST,B7,SPAN 101 Lab
+AR,SPAN 101L:13,0,0,56563,56563,In-Person,"Maillet, David",IM210,1ST,A2,SPAN 101 Lab
+AR,SPAN 101L:14,0,0,56564,56564,In-Person,"Maillet, David",IM210,1ST,L5,SPAN 101 Lab
+AR,SPAN 101L:15,0,0,56565,56565,In-Person,"Maillet, David",IM210,1ST,K6,SPAN 101 Lab
+AR,SPAN 101L:17,0,0,58075,58075,In-Person,"Maillet, David",,1ST,TBA,SPAN 101 Lab
+AR,SPAN 101L:21,0,0,58345,58345,In-Person,"Maillet, David",IM210,2ND,K2,SPAN 101 Lab
+AR,SPAN 101L:22,0,0,58346,58346,In-Person,"Maillet, David",,2ND,TBA,SPAN 101 Lab
+AR,SPAN 102:21,3,3,50462,50462,In-Person,"PAN - TBA,",IM202,2ND,B1/B2/B3,Spanish for Beginners II
+AR,SPAN 102:22,3,3,50463,50463,In-Person,"PAN - TBA,",IM201,2ND,A4/A5/A6,Spanish for Beginners II
+AR,SPAN 102L:21,0,0,57022,57022,In-Person,"Maillet, David",IM210,2ND,C1,SPAN 102 Lab
+AR,SPAN 102L:22,0,0,57023,57023,In-Person,"Maillet, David",IM210,2ND,K7,SPAN 102 Lab
+AR,SPAN 102L:23,0,0,57486,57486,In-Person,"Maillet, David",,2ND,TBA,SPAN 102 Lab
+AR,SPAN 221:10,3,3,49950,49950,In-Person,"Paz MacKay, Maria",IM202,1ST,B4/B5/B6,Intermediate Spanish I
+AR,SPAN 221L:10,0,0,56569,56569,In-Person,"Maillet, David",IM210,1ST,K8,SPAN 221 Lab
+AR,SPAN 221L:11,0,0,58347,58347,In-Person,"Maillet, David",,1ST,TBA,SPAN 221 Lab
+AR,SPAN 222:20,3,3,49951,49951,In-Person,"Tokarz, Wojciech",IM113,2ND,B4/B5/B6,Intermediate Spanish II
+AR,SPAN 222L:21,0,0,56571,56571,In-Person,"Maillet, David",IM210,2ND,B7,SPAN 222 Lab
+AR,SPAN 398:20,3,3,58349,58349,In-Person,"Tokarz, Wojciech",IM201,2ND,W7/W8,Selected Topics
+AR,SPAN 427:10,3,3,58348,58348,In-Person,"Paz MacKay, Maria",IM113,1ST,W7/W8,Span & Latin Amer Lit & Cinema
+SC,STAT 101:11H,3,3,52338,52338,In-Person,"Al-Shaghay, Abdullah",MULH2070,1ST,W7/W8,Introductory Statistics
+SC,STAT 101:12H,3,3,52339,52339,In-Person,"Salimi, Mehdi",MULH2070,1ST,Z7/Z8,Introductory Statistics
+SC,STAT 101:13H,3,3,52340,52340,In-Person,"Finbow, Stephen",NFSC1072,1ST,A4/A5/A6,Introductory Statistics
+SC,STAT 101:14H,3,3,52904,52904,In-Person,"Lee, Derrick",MULH2030,1ST,L1/L2/L3,Introductory Statistics
+SC,STAT 101:15,3,3,58736,58736,Online-Scheduled Delivery,"DeWolf, Darien",ONLINE,1ST,K4/K5/K6,Introductory Statistics
+SC,STAT 101:21B,3,3,52341,52341,In-Person,"Al-Shaghay, Abdullah",MULH2030,2ND,Z7/Z8,Introductory Statistics
+SC,STAT 101:22B,3,3,52342,52342,In-Person,"De'Bell, Keith",GM001,2ND,O1/O2,Introductory Statistics
+SC,STAT 101:23B,3,3,52343,52343,In-Person,"DeWolf, Darien",MULH2032,2ND,Z1/Z2,Introductory Statistics
+SC,STAT 101:24B,3,3,56759,56759,In-Person,"TAT - TBA,",MULH2030,2ND,Z4/Z5,Introductory Statistics
+SC,STAT 101:25,3,3,58752,58752,Online-Scheduled Delivery,"De'Bell, Keith",ONLINE,2ND,O4/O5,Introductory Statistics
+SC,STAT 224:20,3,3,41914,41914,In-Person,"Cupido, Kyran",MULH2032,2ND,C1/C2/C3,Prob & Stats for Engineers
+SC,STAT 224L:20,0,0,41942,41942,In-Person,"Keizer, Peter",MULH2030,2ND,E5,STAT 224 Problem Session
+SC,STAT 231:10,3,3,41915,41915,In-Person,"Cupido, Kyran",MULH3034,1ST,C1/C2/C3,Stats for Students in Sciences
+SC,STAT 231:20,3,3,53247,53247,In-Person,"Cupido, Kyran",MULH2032,2ND,C1/C2/C3,Stats for Students in Sciences
+SC,STAT 231L:10,0,0,52924,52924,In-Person,"Keizer, Peter",MULH3026,1ST,C9,STAT 231 Lab
+SC,STAT 231L:20,0,0,53246,53246,In-Person,"Keizer, Peter",MULH2030,2ND,E5,STAT 231 Lab
+SC,STAT 331:20,3,3,41917,41917,In-Person,"Cupido, Kyran",MULH3034,2ND,A1/A2/A3,Statistical Methods
+SC,STAT 331L:20,0,0,52928,52928,In-Person,"Keizer, Peter",MULH4034,2ND,C9,STAT 331 Lab
+SC,STAT 333:10,3,3,41918,41918,In-Person,"DeWolf, Darien",MULH3034,1ST,K1/K2/K3,Intro Probability Theory
+SC,STAT 334:20,3,3,58485,58485,In-Person,"Cupido, Kyran",AX113,2ND,C4/C5/C6,Mathematical Statistics
+SC,STAT 357:10,3,3,58737,58737,In-Person,"Cupido, Kyran",AX23A,1ST,L1/L2/L3,Regression Analysis
+SC,STAT 357L:10,0,0,58738,58738,In-Person,"Keizer, Peter",AX23A,1ST,L8,STAT 357 Lab
+SC,STAT 490:00,6,6,57697,57697,In-Person,"Finbow, Stephen",,FULL,TBA,Honours Thesis
+SC,STAT 491:00,0,0,47770,47770,In-Person,"Wang, Ping",MULH2034,FULL,A7,Senior Seminar
+SC,STAT 493:00,3,3,57937,57937,In-Person,"Finbow, Stephen",,FULL,TBA,Senior Thesis
+AR,WMGS 100:11J,6,6,48927,48927,In-Person,"Bimm, Morgan",MULH4030,FULL,Z4/Z5,Intro Women's & Gender Studies
+AR,WMGS 100:12,6,6,48928,48928,In-Person,"Chattopadhyay, Sutapa",MULH3030,FULL,W4/W5,Intro Women's & Gender Studies
+AR,WMGS 100:13,6,6,54164,54164,In-Person,"Schwartz, Andrea",CO110,FULL,O4/O5,Intro Women's & Gender Studies
+AR,WMGS 100:14,6,6,58494,58494,In-Person,"Forestell, Nancy",MULH3034,FULL,E4,Intro Women's & Gender Studies
+AR,WMGS 205:10,3,3,48929,48929,In-Person,"Schwartz, Andrea",MULH3026,1ST,E5,"Gender, Sexuality & the Body"
+AR,WMGS 221:10,3,3,59002,59002,In-Person,"Verberg, Norine",CO110,1ST,X4/X5,Marriage & Family Life
+AR,WMGS 221:20,3,3,59003,59003,In-Person,"Verberg, Norine",MULH4030,2ND,Z7/Z8,Marriage & Family Life
+AR,WMGS 232:20,3,3,58495,58495,In-Person,"Bimm, Morgan",MULH3026,2ND,E5,Gender and Popular Culture
+AR,WMGS 298:20,3,3,58800,58800,In-Person,"Schwartz, Andrea",MULH4022,2ND,Z7/Z8,ST: Queer Activism & Media
+AR,WMGS 299:10,3,3,57415,57415,In-Person,"Bimm, Morgan",MULH4022,1ST,U4/U5,ST: Cultures of Girlhood
+AR,WMGS 302:10,3,3,58836,58836,In-Person,"URS -TBA,",MULH3032,1ST,E6,2SLGBTQ+ Health & Social Care
+AR,WMGS 303:10,3,3,48933,48933,In-Person,"Schwartz, Andrea",MULH4022,1ST,Z7/Z8,Feminist Theory
+AR,WMGS 304:20,3,3,58646,58646,In-Person,"Wallace, Rebecca",MULH3022,2ND,W1/W2,Gender and Public Policy
+AR,WMGS 311:10,3,3,57884,57884,In-Person,"MacDonald, Donna",CO120,1ST,X1/X2,Men and Masculinities
+AR,WMGS 312:20,3,3,57659,57659,In-Person,"Billington, Ryan",GM108,2ND,Z4/Z5,Women and Popular Music
+AR,WMGS 315:10,3,3,58493,58493,In-Person,"Chattopadhyay, Sutapa",IM201,1ST,W1/W2,Gender & Development
+AR,WMGS 319:10,3,3,59004,59004,In-Person,"Verberg, Norine",MULH3026,1ST,Z7/Z8,Family Life Policies in Canada
+AR,WMGS 327:10,3,3,57433,57433,In-Person,"Bower, Megan",BB236,1ST,E6,Feminist Anthropology
+AR,WMGS 329:10,3,3,58647,58647,In-Person,"Moynagh, Maureen",MULH3022,1ST,Z7/Z8,Women Writers: Feminisms
+AR,WMGS 332:10,3,3,56383,56383,In-Person,"Weaving, Charlene",KC1018A,1ST,X7/Z7,Gender Sport/Physical Activity
+AR,WMGS 333:10,3,3,58424,58424,In-Person,"Trembinski, Donna",BB337,1ST,W1/W2,The Medieval Body
+AR,WMGS 343:20,3,3,58582,58582,In-Person,"Prusaczyk, Elvira",MULH2032,2ND,U7/U8,Psychology of Gender
+AR,WMGS 345:66,3,3,58900,58900,Online-No Scheduled Delivery,"Stan, Lavinia",Online,2ND,TBA,Women and Politics
+AR,WMGS 354:20,3,3,57554,57554,In-Person,"Girard, Catherine",MULH3024,2ND,E5,"Women, Art, & Gender"
+AR,WMGS 364:20,3,3,56693,56693,In-Person,"URS -TBA,",IM114,2ND,E4,Social Justice and Health
+AR,WMGS 367:20,3,3,57507,57507,In-Person,"Carter-Rogers, Katelynn",SCHW156,2ND,W4/W5,Gender and Management
+AR,WMGS 370:20,3,3,58837,58837,In-Person,"Semple, Rhonda",MULH3032,2ND,E5,Gender Sexuality Empires
+AR,WMGS 378:10,3,3,53337,53337,In-Person,"Weaver, Angela",CO120,1ST,O4/O5,Human Sexuality
+AR,WMGS 397:10,3,3,56777,56777,In-Person,"Altenburg, Gerjan",MULH3022,1ST,Z1/Z2,Authentic Power & Gender
+AR,WMGS 399:20,3,3,58497,58497,In-Person,"Schwartz, Andrea",SCHW290,2ND,X4/X5,ST: Critical Femininities
+AR,WMGS 411:20,3,3,58330,58330,In-Person,"Altenburg, Gerjan",MULH3024,2ND,Z1/Z2,Approaches to Sexuality
+AR,WMGS 493:00,6,6,57098,57098,In-Person,"Bimm, Morgan",,FULL,TBA,Honours Thesis
