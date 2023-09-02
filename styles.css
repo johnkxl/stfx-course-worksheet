@@ -1,9 +1,16 @@
 #course-search {
     display: flex;
+    max-height: 206px;
+    background-color: lightgray;
+}
+
+.fieldlabeltext {
+    color: black;
 }
 
 #subjects {
-    margin-right: 10px;
+    margin: none;
+    min-width: 280px;
 }
 
 #course-list {
@@ -11,33 +18,40 @@
     height: 200px;
 }
 
-button {
+button.tablink {
     display: block;
 }
 
 .tablink {
-    color: white;
-    background-color: navy;
-    border: none;
+    color: black;
     width: 100%;
     margin: 1px 0;
+    padding: 4px;
 }
 
 .tabcontent {
+    background-color: lightgray;
+    color: black;
     padding: 10px;
     flex-grow: 1;
+    overflow: scroll;
+    max-height: 200px;
+}
+
+.course-btn {
+    color: black;
+    background-color: lightgray;
+    margin: 2px;
+}
+
+.subj-title {
+    margin: 0px;
 }
 
 #defaultOpen {
-    background-color: navy;
-    color: white;
+    background-color: lightgray;
+    color: black;
 }
-
-#tab-ADED {
-    background-color: red;
-    color: white;
-}
-#tab-ANTH {background-color: cyan;}
 
 #schedule {
     width: 70%;

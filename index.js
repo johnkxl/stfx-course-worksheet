@@ -30,6 +30,52 @@ function find_course(courseQuery) {
     return matchingCourses;
 }
 
+function initializeApp() {
+    for (let i = 0; i < tablinks.length; i++) {
+        let subjName = tablinks[i].innerText;
+        let subjID = tablinks[i].id;
+        let subjDiv = document.createElement("div");
+        let subjTitle = document.createElement("h2");
+        let titleText = document.createTextNode(subjName);
+        subjTitle.appendChild(titleText);
+        subjTitle.setAttribute("class", "subj-title");
+        
+        // This will have to be filled with the subj courses. Will have to use SQL.
+        let subjTemp = document.createTextNode(`This will be filled with ${subjName} courses.`);
+
+        let coursesDiv = document.createElement("div");
+        coursesDiv.setAttribute("class", "courseBtn-flexbox");
+
+
+
+        subjDiv.appendChild(subjTitle);
+        
+
+        // This code makes it not work
+        let matchingCourses = find_course(subjID.slice(0, subjID.indexOf("-")));
+        
+        for (let j = 0; j < matchingCourses.length; j++) {
+            let courseBtn = document.createElement("button");
+            courseBtn.setAttribute("class", "course-btn");
+            let courseText = document.createTextNode(matchingCourses[j].COURSE);
+            courseBtn.appendChild(courseText);
+            coursesDiv.appendChild(courseBtn);
+        }
+        
+        
+
+        subjDiv.appendChild(coursesDiv);
+
+        if (coursesDiv.innerHTML === "") {
+            subjDiv.appendChild(subjTemp);   
+        }
+
+        subjDiv.setAttribute("class", "tabcontent");
+        subjDiv.setAttribute("id", `tab-${subjID.slice(0, subjID.indexOf("-"))}`)
+
+        searchDiv.appendChild(subjDiv);
+    }
+}
 
 const scheduleTable = document.getElementById("schedule");
 const scheduleTableBody = scheduleTable.getElementsByTagName("tbody")[0];
@@ -75,95 +121,36 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch('stfx-tbl-copy.csv')
         .then(response => response.text())
         .then(data => {
-            parseCSV(data);
+            return parseCSV(data);
+        })
+        .then(() => {
+            // Call the initializeApp function once parsing is complete
+            initializeApp();
+        })
+        .then(() => {
+            document.getElementById("defaultOpen-btn").click();
+        })
+        .then(() => {
+            document.getElementById("defaultOpen-btn").remove();
         })
         .catch(error => {
-            console.error('Error fetching CSV file:', error);
+            console.error('Error fetching or parsing CSV file:', error);
         });
     
 
-    for (let i = 0; i < tablinks.length; i++) {
-        let subjName = tablinks[i].innerText;
-        let subjID = tablinks[i].id;
-        let subjDiv = document.createElement("div");
-        let subjTitle = document.createElement("h2");
-        let titleText = document.createTextNode(subjName);
-        subjTitle.appendChild(titleText);
-        
-        // This will have to be filled with the subj courses. Will have to use SQL.
-        let subjTemp = document.createTextNode(`This will be filled with ${subjName} courses.`);
-
-        let coursesDiv = document.createElement("div");
-        coursesDiv.setAttribute("class", "courseBtn-flexbox");
-
-
-
-        subjDiv.appendChild(subjTitle);
-        
-
-        // This code makes it not work
-        let matchingCourses = find_course(subjID.slice(0, subjID.indexOf("-")));
-        
-        for (let j = 0; j < matchingCourses.length; j++) {
-            let courseBtn = document.createElement("button");
-            let courseText = document.createTextNode(matchingCourses[j].COURSE);
-            courseBtn.appendChild(courseText);
-            coursesDiv.appendChild(courseBtn);
-        }
-        
-        
-
-        subjDiv.appendChild(coursesDiv);
-        subjDiv.appendChild(subjTemp);
-        subjDiv.setAttribute("class", "tabcontent");
-        subjDiv.setAttribute("id", `tab-${subjID.slice(0, subjID.indexOf("-"))}`)
-
-        searchDiv.appendChild(subjDiv);
-    }
+    
     
 
 
     // Display default message in courses div
+    /*
     const tabcontent = document.getElementsByClassName("tabcontent");
     for (let i = 0; i < tabcontent.length; i++) {
         tabcontent[i].style.display = "none";
     }
-    document.getElementById("defaultOpen").style.display = "block";
-    
-    
-    
-    
-    /*
-    const events = [
-        { day: 1, startHour: 9, startMinute: 0, endHour: 11, endMinute: 30, title: "Event 1", className: "event-1" },
-        // ... Add more events as needed
-    ];
-
-    const dayColumns = document.querySelectorAll('.day');
-    const timeBlockHeight = 30; // Height of each time block in pixels (30 minutes)
-    
-    events.forEach(event => {
-        const dayColumn = dayColumns[event.day];
-        if (dayColumn) {
-            const startTime = event.startHour * 60 + event.startMinute; // Convert start time to minutes
-            const endTime = event.endHour * 60 + event.endMinute; // Convert end time to minutes
-    
-            const eventBlock = document.createElement('div');
-            eventBlock.className = `event-block ${event.className}`;
-            eventBlock.textContent = event.title;
-
-            // Calculate position and height based on time blocks
-            const startBlockIndex = startTime / 30; // Each time block is 30 minutes
-            const endBlockIndex = endTime / 30;
-            const eventBlockTop = startBlockIndex * timeBlockHeight;
-            const eventBlockHeight = (endBlockIndex - startBlockIndex + 1) * timeBlockHeight;
-
-            eventBlock.style.top = `${eventBlockTop}px`;
-            eventBlock.style.height = `${eventBlockHeight}px`;
-
-            dayColumn.appendChild(eventBlock);
-        }
-    });*/
+    */
+    // document.getElementById("defaultOpen-btn").click();
+    // document.getElementById("defaultOpen-btn").remove();
 });
 
 function openPage(pageName, elmnt, color) {
@@ -184,3 +171,13 @@ function openPage(pageName, elmnt, color) {
     // Add the specific colour to the button used to open the tab content
     elmnt.style.backgroundColor = color;
 }
+
+
+const courseBtns = Array.from(document.getElementsByClassName("course-btn"));
+courseBtns.forEach(btn => {
+    btn.addEventListener('click', function handleClick(event) {
+        console.log('course clicked', event);
+        let specificCourse = courseData.find(course => course.COURSE === btn.innerText);
+        console.log(specificCourse[0]);
+    })
+})

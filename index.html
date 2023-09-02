@@ -11,14 +11,15 @@
                 <table>
                     <tbody>
                         <tr>
-                            <td class="delabel" scope="row"><label for="subj_id"><span class="fieldlabeltext">Subject: </span></label></td>
+                            <td class="delabel" scope="row"><span class="fieldlabeltext">Subject: </span></td>
                             <td class="dedefault">
                                 <div id="course-list">
+                                    <button id="defaultOpen-btn" class="tablink" onclick="openPage('defaultOpen', this, 'navy')">None</button>
                                     <button id="ADED-btn" class="tablink" onclick="openPage('ADED', this, 'red')">Adult Education</button>
                                     <button id="ANTH-btn" class="tablink" onclick="openPage('ANTH', this, 'cyan')">Anthropology</button>
-                                    <button id="AQUA-btn" class="tablink" onclick="openPage('AQUA', this, 'red')">Aquatic Resources</button>
-                                    <button id="ART-btn" class="tablink" onclick="openPage('ART', this, 'red')">Art</button>
-                                    <button id="BIO-btn" class="tablink" onclick="openPage('BIO', this, 'red')">Biology</button>
+                                    <button id="AQUA-btn" class="tablink" onclick="openPage('AQUA', this, 'black')">Aquatic Resources</button>
+                                    <button id="ART-btn" class="tablink" onclick="openPage('ART', this, 'yellow')">Art</button>
+                                    <button id="BIO-btn" class="tablink" onclick="openPage('BIO', this, 'steelblue')">Biology</button>
                                     <button id="BSAD-btn" class="tablink" onclick="openPage('BSAD', this, 'red')">Business Administration</button>
                                     <button id="CATH-btn" class="tablink" onclick="openPage('CATH', this, 'red')">Catholic Studies</button>
                                     <button id="CELT-btn" class="tablink" onclick="openPage('CELT', this, 'red')">Celtic Studies</button>
@@ -62,7 +63,7 @@
                     </tbody>
                 </table>
             </div>
-            <div id="defaultOpen" class="tabcontent">
+            <div id="tab-defaultOpen" class="tabcontent">
                 <h2>Courses</h2>
                 <p>Courses available in the subject will appear here</p>
             </div>
