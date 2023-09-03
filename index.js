@@ -11,6 +11,19 @@ function createRow(row) {
 
 
 let courseData = [];
+let timeblocks = [];
+
+function parseCSVTimeblock(file) {
+    Papa.parse(file, {
+        header: true,
+        dynamicTyping: true,
+        complete: function (results) {
+            timeblocks = results.data;
+        }
+    });
+}
+
+
 
 
 // Function to parse CSV file and store the data in courseData
@@ -57,8 +70,11 @@ function initializeApp() {
         for (let j = 0; j < matchingCourses.length; j++) {
             let courseBtn = document.createElement("button");
             courseBtn.setAttribute("class", "course-btn");
-            let courseText = document.createTextNode(matchingCourses[j].COURSE);
+            let courseText = document.createTextNode(`${matchingCourses[j].COURSE} ${matchingCourses[j].TITLE}`);
+            let courseTermProf = document.createTextNode(`${matchingCourses[j].TERM} ${matchingCourses[j].PROFS}`);
             courseBtn.appendChild(courseText);
+            courseBtn.appendChild(document.createElement("br"));
+            courseBtn.appendChild(courseTermProf);
             coursesDiv.appendChild(courseBtn);
         }
         
@@ -117,6 +133,13 @@ document.addEventListener("DOMContentLoaded", () => {
     let someText = document.createTextNode("test");
     mondayCell.appendChild(someText);
     
+    fetch('timeblockgrid.csv')
+        .then(response => response.text())
+        .then(data => {
+            return parseCSVTimeblock(data);
+        });
+
+
     
     fetch('stfx-tbl-copy.csv')
         .then(response => response.text())
@@ -132,6 +155,25 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .then(() => {
             document.getElementById("defaultOpen-btn").remove();
+        })
+        .then(() => {
+            const courseBtns = Array.from(document.getElementsByClassName("course-btn"));
+            courseBtns.forEach(btn => {
+                btn.addEventListener('click', function handleClick() {
+                    console.log('course clicked');
+                    // console.log(btn.innerHTML.split(" ").slice(0,2));
+                    let courseBtnCourseArr = btn.innerHTML.split(" ").slice(0,2)
+                    let btnCourseMatch = `${courseBtnCourseArr[0]} ${courseBtnCourseArr[1]}`
+                    let specificCourse = courseData.find(course => course.COURSE == btnCourseMatch);
+                    console.log(`${courseBtnCourseArr[0]} ${courseBtnCourseArr[1]}`)
+                    console.log(specificCourse.TIMEBLOCK);
+                    
+                    let timeblockArr = specificCourse.TIMEBLOCK.split("/");
+                    for (let i = 0; i < timeblockArr.length; i++) {
+                        addToSchedule(`${specificCourse.COURSE} ${specificCourse.TITLE} ${specificCourse.TERM} ${specificCourse.PROFS} ${specificCourse.ROOM}`, timeblockArr[i], timeblocks);
+                    }
+                })
+            })
         })
         .catch(error => {
             console.error('Error fetching or parsing CSV file:', error);
@@ -172,12 +214,46 @@ function openPage(pageName, elmnt, color) {
     elmnt.style.backgroundColor = color;
 }
 
+const sundayCell = 0;
+const mondayCell = 1;
+const tuesdayCell = 2;
+const wednesdayCell = 3;
+const thursdayCell = 4;
+const fridayCell = 5;
+const saturdayCell = 6;
 
-const courseBtns = Array.from(document.getElementsByClassName("course-btn"));
-courseBtns.forEach(btn => {
-    btn.addEventListener('click', function handleClick(event) {
-        console.log('course clicked', event);
-        let specificCourse = courseData.find(course => course.COURSE === btn.innerText);
-        console.log(specificCourse[0]);
-    })
-})
+function addToSchedule(course, block, keys) {
+    console.log(course, block, keys);
+    const courseEventText = document.createTextNode(course);
+    const startBlock = keys.find(key => key.Timeblock === block);
+    console.log(startBlock);
+    let startHour = startBlock.Start.slice(0, startBlock.Start.indexOf(":"));
+    console.log(startHour);
+
+    if (startBlock.Start[startBlock.Start.length - 2] === 'P' && startHour < 12) {
+        startHour = parseInt(startHour) + 12;
+    }
+    console.log(startHour);
+    console.log(scheduleTableBody[0]);
+    const startRow = scheduleTableBody.getElementsByTagName("tr")[4 * (startHour - 7) - 3];
+    console.log(startRow);
+    const daysInRow = startRow.getElementsByTagName("td");
+    const blockDay = startBlock.Day;
+    console.log(blockDay);
+
+    if (blockDay === 'Monday') {
+        daysInRow[mondayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Tuesday') {
+        daysInRow[tuesdayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Wednesday') {
+        daysInRow[wednesdayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Thursday') {
+        daysInRow[thursdayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Friday') {
+        daysInRow[fridayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Saturday') {
+        daysInRow[saturdayCell].appendChild(courseEventText);
+    } else if (blockDay === 'Sunday') {
+        daysInRow[sundayCell].appendChild(courseEventText);
+    } 
+}
