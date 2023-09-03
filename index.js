@@ -241,19 +241,28 @@ function addToSchedule(course, block, keys) {
     const blockDay = startBlock.Day;
     console.log(blockDay);
 
+    
+
     if (blockDay === 'Monday') {
+        daysInRow[mondayCell].innerHTML = "";
         daysInRow[mondayCell].appendChild(courseEventText);
     } else if (blockDay === 'Tuesday') {
+        daysInRow[tuesdayCell].innerHTML = "";
         daysInRow[tuesdayCell].appendChild(courseEventText);
     } else if (blockDay === 'Wednesday') {
+        daysInRow[wednesdayCell].innerHTML = "";
         daysInRow[wednesdayCell].appendChild(courseEventText);
     } else if (blockDay === 'Thursday') {
+        daysInRow[thursdayCell].innerHTML = "";
         daysInRow[thursdayCell].appendChild(courseEventText);
     } else if (blockDay === 'Friday') {
+        daysInRow[fridayCell].innerHTML = "";
         daysInRow[fridayCell].appendChild(courseEventText);
     } else if (blockDay === 'Saturday') {
+        daysInRow[saturdayCell].innerHTML = "";
         daysInRow[saturdayCell].appendChild(courseEventText);
     } else if (blockDay === 'Sunday') {
+        daysInRow[sundayCell].innerHTML = "";
         daysInRow[sundayCell].appendChild(courseEventText);
     } 
 }
