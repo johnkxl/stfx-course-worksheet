@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 #course-search {
     display: flex;
     max-height: 206px;
@@ -53,11 +57,57 @@ button.tablink {
     color: black;
 }
 
+.calendar {
+    display: flex;
+    flex-direction: row;
+}
+
 #schedule {
     width: 70%;
     border: 2px solid black;
     background-color: antiquewhite;
 
+}
+
+td {
+    text-align: left;
+    vertical-align: top;
+}
+
+.selected-courses-div {
+    padding: 10px;
+    flex-grow: 1;
+}
+
+.selected-course-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px;
+    border-top: 2px solid lightgrey;
+    border-bottom: 2px solid lightgrey;
+    align-items: center;
+}
+
+.selected-course-container button {
+    padding: 10px;
+    color: white;
+    background-color: red;
+    height: fit-content;
+}
+
+.selected-course {
+    border: 4px;
+}
+
+.selected-course h4 {
+    margin-bottom: 5px;
+    color: navy;
+}
+
+.selected-course p {
+    font-size: 75%;
+    margin-top: 0;
 }
 
 .day-header {
