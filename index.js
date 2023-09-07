@@ -1,7 +1,11 @@
+const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const selectedCourseList = [];
+
 function createRow(row) {
     for (let j = 0; j < 7; j++) {
         // create empty td element for each day of the week
         let cell = document.createElement("td");
+        cell.setAttribute("class", `${daysOfWeek[j]}-cell`);
         // let tdText = document.createTextNode("empty");
         // cell.appendChild(tdText);
 
@@ -127,11 +131,13 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
     
+    /*
     const firstRow = scheduleTableBody.getElementsByTagName("tr")[1];
     const mondayCell = scheduleTableBody.getElementsByTagName("td")[1];
     mondayCell.setAttribute("rowspan", "4");
     let someText = document.createTextNode("test");
     mondayCell.appendChild(someText);
+    */
     
     fetch('timeblockgrid.csv')
         .then(response => response.text())
@@ -167,42 +173,44 @@ document.addEventListener("DOMContentLoaded", () => {
                     let specificCourse = courseData.find(course => course.COURSE == btnCourseMatch);
                     console.log(`${courseBtnCourseArr[0]} ${courseBtnCourseArr[1]}`)
                     console.log(specificCourse.TIMEBLOCK);
-                    
-                    let timeblockArr = specificCourse.TIMEBLOCK.split("/");
-                    for (let i = 0; i < timeblockArr.length; i++) {
-                        addToSchedule([specificCourse.COURSE, specificCourse.PROFS, specificCourse.ROOM], timeblockArr[i], timeblocks);
+
+                    if (!(selectedCourseList.includes(`${specificCourse.COURSE.replace(/\s/g, "")}-added`))) {
+                        let timeblockArr = specificCourse.TIMEBLOCK.split("/");
+                        for (let i = 0; i < timeblockArr.length; i++) {
+                            addToSchedule([specificCourse.COURSE, specificCourse.PROFS, specificCourse.ROOM], timeblockArr[i], timeblocks);
+                        }
+    
+                        // Keep track of selected courses 
+                        const selectedCourse = document.createElement("div");
+                        selectedCourse.setAttribute("class", "selected-course");
+                        selectedCourse.setAttribute("id", `${specificCourse.COURSE.replace(/\s/g, "")}-added`);
+                        selectedCourse.setAttribute("data-timeblock", specificCourse.TIMEBLOCK);
+                        
+                        const selectedCourseTitle = document.createElement("h4");
+                        selectedCourseTitle.appendChild(document.createTextNode(`${specificCourse.COURSE} ${specificCourse.TITLE}`));
+                        selectedCourse.appendChild(selectedCourseTitle);
+    
+                        const selectedCourseInfo = document.createElement("p");
+                        selectedCourseInfo.appendChild(document.createTextNode(`${specificCourse.TERM}\n${specificCourse.PROFS}\n${specificCourse.ROOM}`));
+                        selectedCourse.appendChild(selectedCourseInfo);
+    
+                        const selectedCourseFlex = document.createElement("div");
+                        selectedCourseFlex.setAttribute("class", "selected-course-container");
+                        selectedCourseFlex.appendChild(selectedCourse);
+    
+                        const courseRemoveBtn = document.createElement("button");
+                        courseRemoveBtn.appendChild(document.createTextNode("Remove"));
+                        courseRemoveBtn.setAttribute("onclick", "removeFromSelection(this)");
+                        selectedCourseFlex.appendChild(courseRemoveBtn);
+    
+                        // courseRemoveBtn.addEventListener("click", removeCourse()
+    
+                        const selectedCoursesDiv = document.getElementById("selected-courses-div");
+                        selectedCoursesDiv.appendChild(selectedCourseFlex);
+    
+                        // removeFromSelection(selectedCourseInfo);
+                        selectedCourseList.push(`${specificCourse.COURSE.replace(/\s/g, "")}-added`);
                     }
-
-                    // Keep track of selected courses 
-                    const selectedCourse = document.createElement("div");
-                    selectedCourse.setAttribute("class", "selected-course");
-                    selectedCourse.setAttribute("id", `${specificCourse.COURSE.replace(/\s/g, "")}-added`);
-                    selectedCourse.setAttribute("data-timeblock", specificCourse.TIMEBLOCK);
-                    
-                    const selectedCourseTitle = document.createElement("h4");
-                    selectedCourseTitle.appendChild(document.createTextNode(`${specificCourse.COURSE} ${specificCourse.TITLE}`));
-                    selectedCourse.appendChild(selectedCourseTitle);
-
-                    const selectedCourseInfo = document.createElement("p");
-                    selectedCourseInfo.appendChild(document.createTextNode(`${specificCourse.TERM}\n${specificCourse.PROFS}\n${specificCourse.ROOM}`));
-                    selectedCourse.appendChild(selectedCourseInfo);
-
-                    const selectedCourseFlex = document.createElement("div");
-                    selectedCourseFlex.setAttribute("class", "selected-course-container");
-                    selectedCourseFlex.appendChild(selectedCourse);
-
-                    const courseRemoveBtn = document.createElement("button");
-                    courseRemoveBtn.appendChild(document.createTextNode("Remove"));
-                    courseRemoveBtn.setAttribute("onclick", "removeFromSelection(this)");
-                    selectedCourseFlex.appendChild(courseRemoveBtn);
-
-                    // courseRemoveBtn.addEventListener("click", removeCourse()
-
-                    const selectedCoursesDiv = document.getElementById("selected-courses-div");
-                    selectedCoursesDiv.appendChild(selectedCourseFlex);
-
-                    // removeFromSelection(selectedCourseInfo);
-                
                 })
             })
         })
@@ -253,8 +261,13 @@ const thursdayCell = 4;
 const fridayCell = 5;
 const saturdayCell = 6;
 
+function cellDayID(dayString, row) {
+    const dayData = dayString.slice(0, 3);
+}
+
 function translateTimeblock(block, keys) {
     const startBlock = keys.find(key => key.Timeblock === block);
+    const startToFinish = `${startBlock.Start}-${startBlock.End}`;
     console.log(startBlock);
     let startHour = parseInt(startBlock.Start.slice(0, startBlock.Start.indexOf(":")));
     let startMin = parseInt(startBlock.Start.slice(startBlock.Start.indexOf(":") + 1, startBlock.Start.indexOf(":") + 3));
@@ -266,16 +279,18 @@ function translateTimeblock(block, keys) {
     }
     console.log(startHour);
     console.log(scheduleTableBody[0]);
-    const startRow = scheduleTableBody.getElementsByTagName("tr")[4 * (startHour - 7) - 3 + startMinBlock];
+    const startTime = 4 * (startHour - 7) - 3 + startMinBlock;
+    const startRow = scheduleTableBody.getElementsByTagName("tr")[startTime];
 
     console.log(startRow);
     const daysInRow = startRow.getElementsByTagName("td");
     const blockDay = startBlock.Day;
+    console.log(daysInRow);
     console.log(blockDay);
 
     const duration = getBlockDuration(block, keys, startHour, startMin);
 
-    return [daysInRow, blockDay, duration];
+    return [daysInRow, blockDay, duration, startRow, startTime, startToFinish];
 }
 
 function getBlockDuration(block, keys, startHour, startMin) {
@@ -309,6 +324,8 @@ function getBlockDuration(block, keys, startHour, startMin) {
 
 function addToSchedule(course, block, keys) {
     console.log(course, block, keys);
+    //--> Need to delete rows replaced by rowspan (corresponding to same day)
+    //--> Must implement better day identification
 
     // const courseEventText = document.createTextNode(course);
     
@@ -316,39 +333,41 @@ function addToSchedule(course, block, keys) {
     const daysInRow = translatedTimeblock[0];
     const blockDay = translatedTimeblock[1];
     const duration = translatedTimeblock[2];
-    console.log(duration);
+    const startRow = translatedTimeblock[3];
+    const startTime = translatedTimeblock[4];
+    const startToFinish = translatedTimeblock[5];
+    console.log(daysInRow, blockDay, duration, startRow);
     
-    
+    const dayData = blockDay.slice(0, 3);
+    let dayCell = -1;
+    for (day of daysInRow) {
+        if (day.className.slice(0,3) === dayData) {
+            dayCell = day;
+            break;
+        } else {
+            continue;
+        }
+    }
+    console.log(dayCell);
+    dayCell.innerHTML = ""
+    renderCourseEventInfo(dayCell, course, duration, startToFinish);
 
-    if (blockDay === 'Monday') {
-        daysInRow[mondayCell].innerHTML = "";
-        // daysInRow[mondayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[mondayCell], course, duration);
-    } else if (blockDay === 'Tuesday') {
-        daysInRow[tuesdayCell].innerHTML = "";
-        // daysInRow[tuesdayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[tuesdayCell], course, duration);
-    } else if (blockDay === 'Wednesday') {
-        daysInRow[wednesdayCell].innerHTML = "";
-        // daysInRow[wednesdayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[wednesdayCell], course, duration);
-    } else if (blockDay === 'Thursday') {
-        daysInRow[thursdayCell].innerHTML = "";
-        // daysInRow[thursdayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[thursdayCell], course, duration);
-    } else if (blockDay === 'Friday') {
-        daysInRow[fridayCell].innerHTML = "";
-        // daysInRow[fridayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[fridayCell], course, duration);
-    } else if (blockDay === 'Saturday') {
-        daysInRow[saturdayCell].innerHTML = "";
-        // daysInRow[saturdayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[saturdayCell], course, duration);
-    } else if (blockDay === 'Sunday') {
-        daysInRow[sundayCell].innerHTML = "";
-        // daysInRow[sundayCell].appendChild(courseEventText);
-        renderCourseEventInfo(daysInRow[sundayCell], course, duration);
-    } 
+    
+    const allRows = scheduleTable.getElementsByTagName("tr");
+
+    
+    for (let i = 1; i < duration; i++) {
+        const duringBlock = allRows[startTime + i].getElementsByTagName("td");
+        for (let dayEl of duringBlock) {
+            if (dayEl.className.slice(0,3) === dayData) {
+                dayEl.remove();
+            }
+        }
+
+        // let tbd = thisRow.nextElementSibling;
+        // tbd.getElementsByClassName(`${dayData}`).remove();
+    }
+    
 }
 
 function removeFromSelection(elment) {
@@ -366,38 +385,68 @@ function removeFromSelection(elment) {
         const translatedTimeblock = translateTimeblock(block, timeblocks);
         const daysInRow = translatedTimeblock[0];
         const blockDay = translatedTimeblock[1];
+        const duration = translatedTimeblock[2];
+        const startTime = translatedTimeblock[4];
+        const dayData = blockDay.slice(0, 3);
+
+        const allRows = scheduleTable.getElementsByTagName("tr");
+
+        for (let i = 1; i < duration; i++) {
+            const duringBlock = allRows[startTime + i].getElementsByTagName("td");
+            console.log(duringBlock);
+            for (let j = 0; j < duringBlock.length; j++) {
+                const dayEl = duringBlock[j];
+                if (dayEl.className.slice(0,3) !== daysOfWeek[j]) {
+                    const replacementBlock = document.createElement("td");
+                    replacementBlock.setAttribute("class", `$${dayData}-cell`);
+                    console.log(replacementBlock);
+                    allRows[startTime + i].insertBefore(replacementBlock, dayEl);
+                    break;
+                }
+            }
+        }
         
     
         if (blockDay === 'Monday') {
             daysInRow[mondayCell].innerHTML = "";
+            daysInRow[mondayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Tuesday') {
             daysInRow[tuesdayCell].innerHTML = "";
+            daysInRow[tuesdayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Wednesday') {
             daysInRow[wednesdayCell].innerHTML = "";
+            daysInRow[wednesdayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Thursday') {
             daysInRow[thursdayCell].innerHTML = "";
+            daysInRow[thursdayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Friday') {
             daysInRow[fridayCell].innerHTML = "";
+            daysInRow[fridayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Saturday') {
             daysInRow[saturdayCell].innerHTML = "";
+            daysInRow[saturdayCell].removeAttribute("rowspan");
         } else if (blockDay === 'Sunday') {
             daysInRow[sundayCell].innerHTML = "";
+            daysInRow[sundayCell].removeAttribute("rowspan");
         } 
     }
     
-
+    const idToRemove = elment.id;
+    const idIndexInList = selectedCourseList.indexOf(`${idToRemove.replace(/\s/g, "")}-added`)
+    selectedCourseList.splice(idIndexInList, 1);
     elment.parentElement.remove();
-
-
+    console.log(selectedCourseList);
     // console.log(thisCourseName);
 }
 
-function renderCourseEventInfo(elment, course, duration) {
+function renderCourseEventInfo(elment, course, duration, startToFinish) {
     for (let i = 0; i < course.length - 1; i++) {
         elment.appendChild(document.createTextNode(course[i]));
         elment.appendChild(document.createElement("br"));
     }
     
+    elment.appendChild(document.createTextNode(startToFinish));
+    elment.appendChild(document.createElement("br"));
     elment.appendChild(document.createTextNode(course[course.length -1]));
     elment.setAttribute("rowspan", `${duration}`);
 }
