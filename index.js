@@ -72,14 +72,45 @@ function initializeApp() {
         let matchingCourses = find_course(subjID.slice(0, subjID.indexOf("-")));
         
         for (let j = 0; j < matchingCourses.length; j++) {
-            let courseBtn = document.createElement("button");
-            courseBtn.setAttribute("class", "course-btn");
+            // let courseBtn = document.createElement("button");
+            // courseBtn.setAttribute("class", "course-btn");
+            const courseOptionContainer = document.createElement("div");
+            courseOptionContainer.setAttribute("class", "course-option-container");
+
+            const courseInfo = document.createElement("div");
+            courseInfo.setAttribute("class", "course-info");
+            const courseTitleHeading = document.createElement("h5");
             let courseText = document.createTextNode(`${matchingCourses[j].COURSE} ${matchingCourses[j].TITLE}`);
-            let courseTermProf = document.createTextNode(`${matchingCourses[j].TERM} ${matchingCourses[j].PROFS}`);
-            courseBtn.appendChild(courseText);
-            courseBtn.appendChild(document.createElement("br"));
-            courseBtn.appendChild(courseTermProf);
-            coursesDiv.appendChild(courseBtn);
+            courseTitleHeading.appendChild(courseText);
+            let courseProfRoom = document.createTextNode(`${matchingCourses[j].PROFS} ${matchingCourses[j].ROOM}`);
+            courseInfo.appendChild(courseTitleHeading);
+            courseInfo.appendChild(courseText);
+            courseInfo.appendChild(document.createElement("br"));
+            courseInfo.appendChild(courseProfRoom);
+            // coursesDiv.appendChild(courseBtn);
+
+            const timesDiv = document.createElement("div");
+            timesDiv.setAttribute("class", "course-times-div");
+            timesDiv.appendChild(document.createTextNode(matchingCourses[j].TERM));
+            const allTimeBlocks = matchingCourses[j].TIMEBLOCK.split("/");
+            for (period of allTimeBlocks) {
+                const blockToTimes = translateTimeblock(period, timeblocks);
+                const dayOfClass = blockToTimes[1];
+                const classTimes = blockToTimes[5];
+                timesDiv.appendChild(document.createElement("br"));
+                timesDiv.appendChild(document.createTextNode(`${dayOfClass}: ${classTimes}`));
+            }
+
+            const courseBtn = document.createElement("button");
+            courseBtn.setAttribute("class", "course-btn");
+            courseBtn.appendChild(document.createTextNode("Add Course"));
+
+            courseOptionContainer.appendChild(courseInfo);
+            courseOptionContainer.appendChild(timesDiv);
+            courseOptionContainer.appendChild(courseBtn);
+
+            coursesDiv.appendChild(courseOptionContainer);
+
         }
         
         
@@ -168,7 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 btn.addEventListener('click', function handleClick() {
                     console.log('course clicked');
                     // console.log(btn.innerHTML.split(" ").slice(0,2));
-                    let courseBtnCourseArr = btn.innerHTML.split(" ").slice(0,2)
+                    let courseBtnCourseArr = btn.parentElement.firstElementChild.innerHTML.split(" ").slice(0,2)
                     let btnCourseMatch = `${courseBtnCourseArr[0]} ${courseBtnCourseArr[1]}`
                     let specificCourse = courseData.find(course => course.COURSE == btnCourseMatch);
                     console.log(`${courseBtnCourseArr[0]} ${courseBtnCourseArr[1]}`)
