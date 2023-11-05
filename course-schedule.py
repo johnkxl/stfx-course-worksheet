@@ -82,20 +82,13 @@ def print_courses(course_df):
 
 
 
-def select_course(course_CRN, course_dict, taken) -> tuple:
+def select_course(course_CRN) -> "Course":
     course = sqldf(f'''  SELECT *
                           FROM filtered_courses_df
                          WHERE CRN = {course_CRN}
                     ''')
-    from copy import deepcopy
-    new_dict = deepcopy(course_dict)
     course_object = Course(course.iloc[0])
-    #course_code = course_object.course
-    new_dict[course_CRN] = course_object
-
-    taken = taken.union(course_object.timeblock)
-
-    return new_dict, taken
+    return course_object
 
 
 def remove_course(course_CRN, course_dict, taken):
@@ -176,13 +169,6 @@ class Course:
 
     def has_conflict(self, other: "Course") -> bool:
         return not self.conflicting_timeblocks().isdisjoint(other.timeblock)
-
-        # for day_data in self.course_times():
-        #     this_course_intersections = set(timeblocks_between(day_data["Day"], day_data["Start"], day_data["End"], "list"))
-        #     if len(this_course_intersections.intersection(other.timeblock)) > 0:
-        #         return True    
-        # return False
-        pass
     
     def __repr__(self):
         timeblocks_list = [block for block in self.timeblock]
@@ -195,20 +181,36 @@ class Course:
 class CourseSchedule:
 
     def __init__(self):
-        self.courses = {}
-        self.timeblocks = set()
+        self._courses = {}
+        self._timeblocks = set()
     
     def add(self, course: Course):
-        if course.timeblock.isdisjoint(self.timeblocks) or len(self.timeblocks) == 0:
-            self.courses.update({course.crn : course})
-            self.timeblocks = self.timeblocks.union(course.conflicting_timeblocks())
+        if course.timeblock.isdisjoint(self.conflicting_timeblocks()) or len(self._timeblocks) == 0:
+            self._courses.update({course.crn : course})
+            self._timeblocks = self._timeblocks.union(course.timeblock)
         else:
             print("Unable to add course")
-        pass
+    
+    def remove(self, course: Course):
+        if self.find(course):
+            removed_course = self._courses.pop(course.crn)
+            self._timeblocks.difference_update(removed_course.timeblock)
+            return "Course removed."
+        return "Course not in schedule."
+    
+    def find(self, course: Course):
+        crn = course.crn
+        return crn in self._courses.keys()
+
+    def conflicting_timeblocks(self):
+        all_conflicts = set()
+        for timeblock in self._timeblocks:
+            all_conflicts = all_conflicts.union(concurrent_timeblocks(timeblock))
+        return all_conflicts
     
     def __repr__(self):
         course_schedule = ""
-        for course in self.courses.values():
+        for course in self._courses.values():
             course_schedule += str(course) + '\n'
         return course_schedule
 
@@ -226,24 +228,24 @@ if __name__ == "__main__":
 
 
     my_schdule = CourseSchedule()
-    course_object1 = Course(filtered_courses_df.iloc[0])
-    course_object2 = Course(filtered_courses_df.iloc[14])
-    course_object3 = Course(filtered_courses_df.iloc[28])
+    # course_object1 = Course(filtered_courses_df.iloc[0])
+    # course_object2 = Course(filtered_courses_df.iloc[14])
+    # course_object3 = Course(filtered_courses_df.iloc[28])
 
-    print(f"Course Objects:\n{course_object1}\n{course_object2}\n{course_object3}\n")
+    # print(f"Course Objects:\n{course_object1}\n{course_object2}\n{course_object3}\n")
 
     # print(course_object1)
     # print(course_object1.conflicting_timeblocks().union(course_object2.conflicting_timeblocks()))
-    print(my_schdule.timeblocks)
-    my_schdule.add(course_object3)
-    print(my_schdule.timeblocks)
-    my_schdule.add(course_object2)
-    print(my_schdule.timeblocks)
-    my_schdule.add(course_object1)
+    # print(my_schdule._timeblocks)
+    # my_schdule.add(course_object3)
+    # print(my_schdule._timeblocks)
+    # my_schdule.add(course_object2)
+    # print(my_schdule._timeblocks)
+    # my_schdule.add(course_object1)
 
 
 
-    print(my_schdule)
+    # print(my_schdule)
     # print(course_object1.has_conflict(course_object2))
     # print(course_object1.has_conflict(course_object3))
     # print(course_object3.has_conflict(course_object2))
@@ -252,7 +254,7 @@ if __name__ == "__main__":
     # print(monday)
 
 
-    run_program = False
+    run_program = True
 
     while run_program:
         print_courses(filtered_courses_df)
@@ -262,21 +264,40 @@ if __name__ == "__main__":
 
             if action == "add":
                 course_to_add = input("CRN of course to add: ")
-                selected_courses, taken_timeblocks = select_course(course_to_add, selected_courses, taken_timeblocks)
+                course_selected = select_course(course_to_add)
+                print(course_selected)
+                print(f"Add {course_selected.course} {course_selected.title} to your schedule?")
+                
+                answered = False
+                while not answered:
+                    answer = input()
+                    if answer == "yes" or answer == 'y':
+                        my_schdule.add(course_selected)
+                        answered = True
+                    elif answer == "no" or answer == 'n':
+                        answered = True
+
                 break
             elif action == "remove":
                 course_to_remove = input("CRN of course to remove from selection: ")
-                selected_courses, taken_timeblocks = remove_course(course_to_remove, selected_courses, taken_timeblocks)
+                course_selected = select_course(course_to_remove)
+                print(course_selected)
+                print(f"Remove {course_selected.course} {course_selected.title} from your schedule?")
+                
+                answered = False
+                while not answered:
+                    answer = input()
+                    if answer == "yes" or answer == 'y':
+                        my_schdule.remove(course_selected)
+                        answered = True
+                    elif answer == "no" or answer == 'n':
+                        answered = True
                 break
             elif action == "quit":
                 exit()
             else:
                 continue
-
-        for key in selected_courses:
-            course = selected_courses[key]
-            print(f"{course.course} {course.title}")
-        print(taken_timeblocks)
+        print(my_schdule)
         print("\n")
         
         
