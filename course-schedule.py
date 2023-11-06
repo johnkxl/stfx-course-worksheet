@@ -15,6 +15,21 @@ def load_timeblocks(file: str):
     return timeblocks
 
 def timeblocks_between(day: str, time1: str="8:30 AM", time2: str="10:00 PM", method=None):
+    """
+    Returns all time blocks occuring between two times on a given day. 
+
+    :param day: Day of timeblocks.
+    :type day: str
+    :param time1: Earliest time for timeblocks to occur.
+    :type time1: str
+    :param time2: Latest time for timeblocks to occur.
+    :type time2: str
+    :param medthod: If specified as "list", returns a list instead of a pandas dataframe.
+    :return: All timeblocks within the range of time1 and time2.
+    :rtype: Pandas DataFrame (default)
+            list (method="list")
+    """
+
     earliest = format_time(time1)
     latest = format_time(time2)
 
@@ -35,6 +50,14 @@ def timeblocks_between(day: str, time1: str="8:30 AM", time2: str="10:00 PM", me
 
 
 def filter_courses_by_dept(dept: str=False):
+    """
+    Returns a Pandas DataFrame with all courses in a specified deparment.
+
+    :param dept: The department to filter the courses. e.g. "CSCI"
+    :type dept: str
+    :return: DataFrame with only courses from the specified department.
+    :rtype: Pandas DataFrame
+    """
     if not dept:
         department_filter = ""
     else:
@@ -46,7 +69,15 @@ def filter_courses_by_dept(dept: str=False):
                                 ''')
     return courses_found
 
-def format_time(time):
+def format_time(time: str) -> str:
+    """
+    Format a time from "HH:MM PM" to 24-hour time with structure '00:00:00'.
+
+    :param time: The time to format.
+    :type time: str
+    :return: 24-hour formatted time '00:00:00'
+    :rtype: str
+    """
     meridiem = time.split()
     hour_minutes = meridiem[0].split(':')
     hour = int(hour_minutes[0])
@@ -76,6 +107,14 @@ def format_time(time):
 
 
 def print_courses(course_df):
+    """
+    Print all courses in a DataFrame in the terminal.
+
+    :param course_df: DataFrame of courses to display.
+    :type course_df: Pandas DataFrame
+    :return: Do not return anything.
+    :rtype: None
+    """
     for row in course_df.iterrows():
         course = row[1]
         print(f"{course.CRN} {course.COURSE :12} {course.TITLE :30} {course.PROFS :20} {str(course.ROOM) :8} {course.TERM :4} {course.TIMEBLOCK}")
@@ -83,6 +122,14 @@ def print_courses(course_df):
 
 
 def select_course(course_CRN) -> "Course":
+    """
+    Creates and returns a Course object from the record matching the input CRN in the filtered courses DataFrame.
+
+    :param course_CRN: The unique 6-digit CRN of the selected course.
+    :type course_CRN: str
+    :return: A Course object corresponding to the CRN.
+    :rtype: Course
+    """
     course = sqldf(f'''  SELECT *
                           FROM filtered_courses_df
                          WHERE CRN = {course_CRN}
@@ -92,6 +139,9 @@ def select_course(course_CRN) -> "Course":
 
 
 def remove_course(course_CRN, course_dict, taken):
+    """
+    OUTDATED. TO BE DELTED.
+    """
     new_set = taken.copy()
     new_set.difference_update(course_dict[course_CRN].timeblock)
     new_dict = course_dict.copy()
@@ -100,6 +150,14 @@ def remove_course(course_CRN, course_dict, taken):
 
 
 def when_is_timeblock(block: str) -> tuple:
+    """
+    Returns the day, the beginning and end times of a timeblock.
+
+    :param block: The timeblock to convert into its occurence.
+    :type block: str
+    :return: The day, start, and end times of the timeblock.
+    :rtype: Tuple(str, str, str)
+    """
     block_data = sqldf(f'''SELECT Day, Start, End
                              FROM timeblocks_df
                             WHERE Timeblock = '{block}'
@@ -111,6 +169,14 @@ def when_is_timeblock(block: str) -> tuple:
 
 
 def concurrent_timeblocks(timeblock: str) -> list[str]:
+    """
+    Find all timeblocks that occur at the same time on the same day as a given timeblock.
+
+    :param timeblock: Timeblock to search for conflicts.
+    :type timeblock: str
+    :return: A list of all timeblocks, including the input, occuring during the time range of the input timeblock.
+    :rtype: list[str]
+    """
     day, start, end = when_is_timeblock(timeblock)
     conflicts = timeblocks_between(day, start, end, "list")
     return conflicts
@@ -118,10 +184,26 @@ def concurrent_timeblocks(timeblock: str) -> list[str]:
 
 #-----
 def create_timeblock_filter_clause(timeblock):
+    """
+    Create the SQL clause for filtering out courses with a timeblock.
+
+    :param timeblock: A timeblock to exclude from a query.
+    :type timeblock: str
+    :return: An SQL clause
+    :rtype: str
+    """
     return f"TIMEBLOCK NOT LIKE '%{timeblock}%'\n"
 
 
 def join_filter_clauses(taken):
+    """
+    Return a string of all SQL clauses for excluding timeblocks.
+
+    :param taken: A set of all the timeblocks to filter out of the DataFrame
+    :type taken: set
+    :return: a string of all timeblock-exclusion clauses 
+    :rtype: str
+    """
     timeblock_filter = []
     for timeblock in taken:
         timeblock_filter.append(create_timeblock_filter_clause(timeblock))
@@ -134,6 +216,14 @@ def join_filter_clauses(taken):
 
 
 def load_available_courses(taken):
+    """
+    Returns a Pandas DataFrame conrtaining courses with a set of timeblocks filtered out.
+
+    :param taken: A set of all the timeblocks to filter out of the DataFrame
+    :type taken: set
+    :return: A DataFrame of courses not occurpying the speicified set of timeblocks
+    :rtype: Pandas DataFrame
+    """
     timeblock_query = f'''SELECT *
                           FROM filtered_courses_df{join_filter_clauses(taken)}
                         '''
@@ -142,6 +232,9 @@ def load_available_courses(taken):
 #-----
 
 class Course:
+    """
+    Class for storing course information for the purpose of creating a schedule within the CourseSchedule class.
+    """
 
     def __init__(self, course_record):
         self.crn = course_record.CRN
@@ -153,6 +246,12 @@ class Course:
         self.timeblock = set((course_record.TIMEBLOCK).split('/'))
 
     def course_times(self):
+        """
+        Convert and return the course's timeblocks into a days and times of the occurence.
+
+        :return: Days and times the course occurs
+        :rtype: tuple(dict) 
+        """
         times = []
         for block in self.timeblock:
             block_data = when_is_timeblock(block)
@@ -162,15 +261,35 @@ class Course:
         return times
 
     def conflicting_timeblocks(self):
+        """
+        Returns the course's timeblocks and all timeblocks that conflict with the course's timeblocks.
+
+        :return: A collection of course's timeblocks and conflictig timeblocks
+        :rtype: set
+        """
         all_conflicts = set()
         for timeblock in self.timeblock:
             all_conflicts = all_conflicts.union(concurrent_timeblocks(timeblock))
         return all_conflicts
 
     def has_conflict(self, other: "Course") -> bool:
+        """
+        Check if this course occurs at the same time as another course.
+
+        :param other: The Course object to compare course occurences to.
+        :type other: Course
+        :return: True if the courses conflict; False, if no conflict.
+        :rtype: boolean
+        """
         return not self.conflicting_timeblocks().isdisjoint(other.timeblock)
     
     def __repr__(self):
+        """
+        Returns a string representation of the Course object. The string is "CRN, code, title, prof, room, term, timblock".
+
+        :return: A string representation of the Course object of the form "CRN, code, title, prof, room, term, timblock".
+        :rtype: String
+        """
         timeblocks_list = [block for block in self.timeblock]
         timeblocks_list.sort()
         timeblocks_repr = '/'.join(timeblocks_list)
@@ -179,12 +298,25 @@ class Course:
 
 
 class CourseSchedule:
+    """
+    Class for managing a collection of Course object in a schedule. The class maintains a dictionary of added Course Objects,
+    with their CRNs as the keys, and a set of all timeblocks occupied in the schedule. The class provides the functionality for 
+    adding, removing, checking if a Course is added, and determining all the timeblocks that would conflict with the sschedule.
+    """
 
     def __init__(self):
         self._courses = {}
         self._timeblocks = set()
     
     def add(self, course: Course):
+        """
+        Add a Course Object to the Course Schedule, indexed by its CRN as a key.
+        If the course has timeblock conflicts, "Unable to add course" will be output to the terminal
+        and the course will not be added.
+
+        :param course: Course Object to add to the collection
+        :type course; Course Object
+        """
         if course.timeblock.isdisjoint(self.conflicting_timeblocks()) or len(self._timeblocks) == 0:
             self._courses.update({course.crn : course})
             self._timeblocks = self._timeblocks.union(course.timeblock)
@@ -192,6 +324,15 @@ class CourseSchedule:
             print("Unable to add course")
     
     def remove(self, course: Course):
+        """
+        Remove a Course Object from the Course Schedule. If the Course does not exist in the schedule,
+        return "Course not in schedule."
+
+        :param course: Course Object to remove from Course Schdule
+        :type course: Course Object
+        :return: Wether the course could be removed
+        :rtype: String
+        """
         if self.find(course):
             removed_course = self._courses.pop(course.crn)
             self._timeblocks.difference_update(removed_course.timeblock)
@@ -199,16 +340,37 @@ class CourseSchedule:
         return "Course not in schedule."
     
     def find(self, course: Course):
+        """
+        Check if a Course Object exists in the Course Schedule
+
+        :param course: Courses Obejct to check if in the collection
+        :type course: Course Object
+        :return: True if the Course is in the schedule; False if not in the schedule
+        :rtype: boolean
+        """
         crn = course.crn
         return crn in self._courses.keys()
 
     def conflicting_timeblocks(self):
+        """
+        Return a set of all timeblocks that conflict with the Courses contained in the Course Schedule.
+
+        :return: A set of all timeblocks that conflict with the timeblocks of the Courses in the schedule
+        :rtype: set
+        """
         all_conflicts = set()
         for timeblock in self._timeblocks:
             all_conflicts = all_conflicts.union(concurrent_timeblocks(timeblock))
         return all_conflicts
     
     def __repr__(self):
+        """
+        Returns a string representation of the Course Schedule; the string representations of all the courses contained in the
+        schedule, each on its own line.
+
+        :return: A string represenations of the Course Schedule
+        :rtype: String
+        """
         course_schedule = ""
         for course in self._courses.values():
             course_schedule += str(course) + '\n'
